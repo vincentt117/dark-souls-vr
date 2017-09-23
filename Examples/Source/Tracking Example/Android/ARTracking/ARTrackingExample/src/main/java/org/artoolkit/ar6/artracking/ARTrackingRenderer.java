@@ -56,7 +56,7 @@ class ARTrackingRenderer extends ARRenderer {
         new Trackable("Alterra_Postcard_2.jpg", 95.3f),
         new Trackable("Alterra_Postcard_3.jpg", 127.0f),
         new Trackable("Alterra_Postcard_4.jpg", 95.3f),
-        new Trackable("FB_Icon.jpg",60.0f)
+        //new Trackable("FB_Icon.jpg",60.0f)
     };
     private int trackableUIDs[] = new int[trackables.length];
     
@@ -82,7 +82,7 @@ class ARTrackingRenderer extends ARRenderer {
     @Override
     public void onSurfaceCreated(GL10 unused, EGLConfig config) {
         this.shaderProgram = new SimpleShaderProgram(new SimpleVertexShader(), new SimpleFragmentShader());
-        cube = new Cube(50.0f, 0.0f, 0.0f, 10.0f);
+        cube = new Cube(75.0f, 0.0f, 0.0f, 10.0f);
         cube.setShaderProgram(shaderProgram);
 
         super.onSurfaceCreated(unused, config);
