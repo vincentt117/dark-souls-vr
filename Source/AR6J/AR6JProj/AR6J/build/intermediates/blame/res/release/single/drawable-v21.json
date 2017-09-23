@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
         "merged": "/Users/vincent/Dev/Hackathon/artoolkit6/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
         "source": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
@@ -28,7 +32,19 @@
         "source": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/drawable-v21/notification_action_background.xml"
     },
     {
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
         "merged": "/Users/Rajan/Desktop/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
         "source": "/Users/Rajan/.android/build-cache/0df6087b61b11e0aa8fda1b22603e71e859f6891/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/drawable-v21/notification_action_background.xml"
     }
 ]

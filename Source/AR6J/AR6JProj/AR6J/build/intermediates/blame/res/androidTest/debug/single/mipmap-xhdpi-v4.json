@@ -4,6 +4,10 @@
         "source": "/Users/vincent/Dev/Hackathon/artoolkit6/Source/AR6J/AR6JProj/AR6J/build/intermediates/bundles/debug/res/mipmap-xhdpi-v4/ic_launcher.png"
     },
     {
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/androidTest/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/bundles/debug/res/mipmap-xhdpi-v4/ic_launcher.png"
+    },
+    {
         "merged": "/Users/Rajan/Desktop/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/androidTest/debug/mipmap-xhdpi-v4/ic_launcher.png",
         "source": "/Users/Rajan/Desktop/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/bundles/debug/res/mipmap-xhdpi-v4/ic_launcher.png"
     }

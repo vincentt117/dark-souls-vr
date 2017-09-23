@@ -14,5 +14,13 @@
     {
         "merged": "/Users/vincent/Dev/Hackathon/artoolkit6/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
         "source": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     }
 ]

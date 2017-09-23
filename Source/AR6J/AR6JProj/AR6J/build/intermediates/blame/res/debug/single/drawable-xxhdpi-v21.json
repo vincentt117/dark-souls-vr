@@ -6,5 +6,9 @@
     {
         "merged": "/Users/vincent/Dev/Hackathon/artoolkit6/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/debug/drawable-xxhdpi-v21/ic_tune_black_24px.xml",
         "source": "/Users/vincent/Dev/Hackathon/artoolkit6/Source/AR6J/AR6JProj/AR6J/build/generated/res/pngs/debug/drawable-xxhdpi-v21/ic_tune_black_24px.xml"
+    },
+    {
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/debug/drawable-xxhdpi-v21/ic_tune_black_24px.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/generated/res/pngs/debug/drawable-xxhdpi-v21/ic_tune_black_24px.xml"
     }
 ]

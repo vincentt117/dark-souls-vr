@@ -83,16 +83,16 @@ public class Cube implements ARDrawable {
         In the marker coordinate system z points from the marker up. x goes to the right and y to the top
          */
         float vertices[] = {
-                x - hs, y - hs, z , // 0 --> If you look at the cube from the front, this is the corner
+                x - hs, y - hs, z - 5.0f, // 0 --> If you look at the cube from the front, this is the corner
                 // in the front on the left of the ground plane.
-                x + hs, y - hs, z , // 1 --> That is the one to the right of corner 0
-                x + hs, y + hs, z , // 2 --> That is the one to the back right of corner 0
-                x - hs, y + hs, z , // 3 --> That is the one to the left of corner 2
+                x + hs, y - hs, z - 5.0f, // 1 --> That is the one to the right of corner 0
+                x + hs, y + hs, z - 5.0f, // 2 --> That is the one to the back right of corner 0
+                x - hs, y + hs, z - 5.0f, // 3 --> That is the one to the left of corner 2
                 // Or if you imaging (or paint) a 3D cube on paper this is the only corner that is hidden
-                x - hs, y - hs, z , // 4 --> That is the top left corner. Directly on top of 0
-                x + hs, y - hs, z , // 5 --> That is directly on top of 1
-                x + hs, y + hs, z , // 6 --> That is directly on top of 2
-                x - hs, y + hs, z , // 7 --> That is directly on top of 3
+                x - hs, y - hs, z + 5.0f, // 4 --> That is the top left corner. Directly on top of 0
+                x + hs, y - hs, z + 5.0f, // 5 --> That is directly on top of 1
+                x + hs, y + hs, z + 5.0f, // 6 --> That is directly on top of 2
+                x - hs, y + hs, z + 5.0f, // 7 --> That is directly on top of 3
         };
         float c = 6.0f;
         float colors[] = {
@@ -101,7 +101,7 @@ public class Cube implements ARDrawable {
                 c, c, c, c, // 6 white
                 c, c, c, c, // 6 white
                 c, c, c, c, // 6 white
-                c, 0, c, c, // 5 magenta
+                c, c, c, c, // 5 magenta
                 c, c, c, c, // 6 white
                 c, c, c, c, // 6 white
         };

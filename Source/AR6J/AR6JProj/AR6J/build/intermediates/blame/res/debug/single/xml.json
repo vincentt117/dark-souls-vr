@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/src/main/res/xml/preferences.xml"
+    },
+    {
         "merged": "/Users/vincent/Dev/Hackathon/artoolkit6/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/Users/vincent/Dev/Hackathon/artoolkit6/Source/AR6J/AR6JProj/AR6J/src/main/res/xml/preferences.xml"
     },

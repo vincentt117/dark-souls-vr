@@ -6,5 +6,9 @@
     {
         "merged": "/Users/Rajan/Desktop/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/debug/menu/options.xml",
         "source": "/Users/Rajan/Desktop/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/src/main/res/menu/options.xml"
+    },
+    {
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/debug/menu/options.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/src/main/res/menu/options.xml"
     }
 ]
