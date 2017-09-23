@@ -1,0 +1,4 @@
+<map id="ARController::save2DTrackerImageDatabase" name="ARController::save2DTrackerImageDatabase">
+<area shape="rect" id="node2" href="$class_a_r_video_source.html#a8706190039e04f36a81ec6f97fdfe0be" title="Returns true if the video source is open. " alt="" coords="257,5,421,32"/>
+<area shape="rect" id="node3" href="$class_a_r_video_source.html#a5df07fa4544ecd14f6d72940dc1e100f" title="Returns true if the video source is open and ready to be queried. " alt="" coords="248,56,429,83"/>
+</map>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../../Source/AR6J/AR6JProj/AR6J/AR6J.iml" filepath="$PROJECT_DIR$/../../../../../Source/AR6J/AR6JProj/AR6J/AR6J.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ARTracking.iml" filepath="$PROJECT_DIR$/ARTracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ARTrackingExample/ARTrackingExample.iml" filepath="$PROJECT_DIR$/ARTrackingExample/ARTrackingExample.iml" />
+    </modules>
+  </component>
+</project>

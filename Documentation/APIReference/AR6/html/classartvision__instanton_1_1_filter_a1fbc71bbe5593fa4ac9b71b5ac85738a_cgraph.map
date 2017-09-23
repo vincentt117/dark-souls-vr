@@ -1,0 +1,5 @@
+<map id="artvision_instanton::Filter::push" name="artvision_instanton::Filter::push">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_filter.html#a10db18def7f8e09741de41467d3bf589" title="Get the name of the filter. " alt="" coords="184,5,315,47"/>
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_filter.html#aa194c3a0ef8a2ee9f980401f41985cf4" title="Receive a container. " alt="" coords="184,71,315,112"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_filter.html#ac1daec097c13a7e005102588d5ad5c87" title="Call by the filter thread loop when there is no container. " alt="" coords="184,136,315,177"/>
+</map>

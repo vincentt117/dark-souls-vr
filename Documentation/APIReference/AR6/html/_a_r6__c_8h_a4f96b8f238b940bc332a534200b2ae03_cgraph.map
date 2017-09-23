@@ -1,0 +1,4 @@
+<map id="arwGetTrackableAppearanceImage" name="arwGetTrackableAppearanceImage">
+<area shape="rect" id="node2" href="$class_a_r_controller.html#a4eafe05e50bdb9e788ad836f4c2104f1" title="Searches the collection of markers for the given ID. " alt="" coords="244,5,427,32"/>
+<area shape="rect" id="node3" href="$class_a_r_trackable.html#a20adece06b307277309e050f369cc4ae" title="Returns the specified pattern within this marker. " alt="" coords="252,56,419,83"/>
+</map>

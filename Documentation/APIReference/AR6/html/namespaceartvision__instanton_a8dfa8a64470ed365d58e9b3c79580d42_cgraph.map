@@ -1,0 +1,12 @@
+<map id="artvision_instanton::RGB2BGR" name="artvision_instanton::RGB2BGR">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_image.html#af2b536a2073964b44f3328d7b9a5853a" title="Allocate the image data. " alt="" coords="184,239,315,280"/>
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_image.html#a5da9991c89d2324c7ec145973298c130" title="artvision_instanton\l::Image::size" alt="" coords="596,173,727,215"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_image.html#abfe6de817ab2c75f289b7f679c3a1e54" title="artvision_instanton\l::Image::step" alt="" coords="390,5,521,47"/>
+<area shape="rect" id="node5" href="$ioapi_8h.html#a787fa3cf048117ba7123753c1e74fcd6" title="int" alt="" coords="436,71,475,98"/>
+<area shape="rect" id="node8" href="$classartvision__instanton_1_1_image.html#a8376556c69707ff32d49a1e2b3d63a43" title="artvision_instanton\l::Image::channels" alt="" coords="390,304,521,345"/>
+<area shape="rect" id="node9" href="$classartvision__instanton_1_1_image.html#a26334124ea185241a9af99e03bdd6385" title="Get the dimensions of the image. " alt="" coords="390,369,521,411"/>
+<area shape="rect" id="node10" href="$classartvision__instanton_1_1_image.html#a8fe378f1d9a2fbeb89112b9c9600bdd6" title="artvision_instanton\l::Image::height" alt="" coords="390,435,521,476"/>
+<area shape="rect" id="node11" href="$classartvision__instanton_1_1_image.html#aa2721566b360cd4862e5b061e0a1a8ab" title="Get a pointer to the image data. " alt="" coords="184,552,315,593"/>
+<area shape="rect" id="node6" href="$classartvision__instanton_1_1_image.html#a31fdf398f739c5eccf617ae7e20c88ab" title="Calculate the size of a single unit. " alt="" coords="363,173,548,215"/>
+<area shape="rect" id="node7" href="$classartvision__instanton_1_1_image.html#ac6859f6426c8d6729f2ada431148506f" title="Get the image type. " alt="" coords="390,239,521,280"/>
+</map>

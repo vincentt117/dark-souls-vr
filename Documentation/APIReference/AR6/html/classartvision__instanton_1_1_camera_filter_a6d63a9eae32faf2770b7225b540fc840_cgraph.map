@@ -1,0 +1,7 @@
+<map id="artvision_instanton::CameraFilter::svc" name="artvision_instanton::CameraFilter::svc">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_camera_filter.html#af46ebc40eda49e6fbbe30957535d8d2d" title="artvision_instanton\l::CameraFilter::pop" alt="" coords="209,5,344,47"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#a56319953c0a70ca95e987580f1af648e" title="Suspend execution in milliseconds. " alt="" coords="211,71,342,112"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_filter.html#adbb933af713b5ae070aa0d1711812f8d" title="Get an output stream with a stream Id. " alt="" coords="204,136,349,177"/>
+<area shape="rect" id="node5" href="$classartvision__instanton_1_1_video_stream_gray.html#a76dc97039615a7c242b3a658c41383ea" title="Get the stream type id. " alt="" coords="188,201,365,243"/>
+<area shape="rect" id="node6" href="$classartvision__instanton_1_1_filter.html#ac2884c25d6bed9467810757cb0751c10" title="Send a container to the child filters. " alt="" coords="211,267,342,308"/>
+</map>

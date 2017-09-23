@@ -1,0 +1,21 @@
+<map id="artvision_instanton::BinomialPyramid8u::build" name="artvision_instanton::BinomialPyramid8u::build">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_image.html#aa2c82bdd1f3bd615c52618e532daae8a" title="Copy functions. " alt="" coords="205,249,338,291"/>
+<area shape="rect" id="node5" href="$classartvision__instanton_1_1_image.html#abfe6de817ab2c75f289b7f679c3a1e54" title="artvision_instanton\l::Image::step" alt="" coords="689,5,819,47"/>
+<area shape="rect" id="node6" href="$ioapi_8h.html#a787fa3cf048117ba7123753c1e74fcd6" title="int" alt="" coords="735,71,773,98"/>
+<area shape="rect" id="node8" href="$classartvision__instanton_1_1_image.html#ac6859f6426c8d6729f2ada431148506f" title="Get the image type. " alt="" coords="689,123,819,164"/>
+<area shape="rect" id="node9" href="$classartvision__instanton_1_1_image.html#a8376556c69707ff32d49a1e2b3d63a43" title="artvision_instanton\l::Image::channels" alt="" coords="689,305,819,347"/>
+<area shape="rect" id="node10" href="$classartvision__instanton_1_1_image.html#a26334124ea185241a9af99e03bdd6385" title="Get the dimensions of the image. " alt="" coords="689,371,819,412"/>
+<area shape="rect" id="node11" href="$classartvision__instanton_1_1_image.html#a8fe378f1d9a2fbeb89112b9c9600bdd6" title="artvision_instanton\l::Image::height" alt="" coords="689,436,819,477"/>
+<area shape="rect" id="node12" href="$classartvision__instanton_1_1_image.html#aa2721566b360cd4862e5b061e0a1a8ab" title="Get a pointer to the image data. " alt="" coords="206,591,337,632"/>
+<area shape="rect" id="node13" href="$namespaceartvision__instanton.html#afd0c89bdf2ffc2dbb7f6319be4e46364" title="Decimate the source image by a factor of 2 with a [1,4,6,4,1] kernel. " alt="" coords="196,713,347,755"/>
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_image.html#af2b536a2073964b44f3328d7b9a5853a" title="Allocate the image data. " alt="" coords="439,220,569,261"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_image.html#a5da9991c89d2324c7ec145973298c130" title="artvision_instanton\l::Image::size" alt="" coords="895,211,1025,252"/>
+<area shape="rect" id="node7" href="$classartvision__instanton_1_1_image.html#a31fdf398f739c5eccf617ae7e20c88ab" title="Calculate the size of a single unit. " alt="" coords="661,240,847,281"/>
+<area shape="rect" id="node14" href="$namespaceartvision__instanton.html#a0b57dc1d8130f4f23288cecaec79cdc6" title="Reset the 5 row pointers. " alt="" coords="689,652,819,693"/>
+<area shape="rect" id="node15" href="$namespaceartvision__instanton.html#acedb869751009d61d9702bb3f953e2da" title="Binomial decimate (n*2)+4 bytes into n bytes. " alt="" coords="407,641,601,683"/>
+<area shape="rect" id="node17" href="$namespaceartvision__instanton.html#ab5c7d9238b9298256f3cc1d8eddea111" title="Apply vertical binomial on a pixel. " alt="" coords="689,789,819,831"/>
+<area shape="rect" id="node18" href="$namespaceartvision__instanton.html#a38e9129602426b4c1b5cf46cdeb18200" title="Swap the pointers in a &quot;rolling shutter&quot; style. " alt="" coords="689,855,819,896"/>
+<area shape="rect" id="node19" href="$namespaceartvision__instanton.html#afe2af0431ceada10e9f1c2fabd777bf7" title="Decimate the left/right border pixels. " alt="" coords="395,786,613,842"/>
+<area shape="rect" id="node20" href="$namespaceartvision__instanton.html#a3cb292eebb5deee022ef9c2c817d4a9c" title="Decimate the left/right border pixels. " alt="" coords="395,706,613,762"/>
+<area shape="rect" id="node16" href="$namespaceartvision__instanton.html#a1ad1d52c7a87c6d66c51feed11508538" title="Apply horizontal binomial. " alt="" coords="685,717,823,759"/>
+</map>

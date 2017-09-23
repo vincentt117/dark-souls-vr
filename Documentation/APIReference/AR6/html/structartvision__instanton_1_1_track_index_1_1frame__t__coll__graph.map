@@ -1,0 +1,6 @@
+<map id="artvision_instanton::TrackIndex::frame_t" name="artvision_instanton::TrackIndex::frame_t">
+<area shape="rect" id="node3" href="$structartvision__instanton_1_1_track_index_1_1link__t.html" title="artvision_instanton\l::TrackIndex::link_t" alt="" coords="264,13,399,54"/>
+<area shape="rect" id="node5" href="$classartvision__instanton_1_1_feature_point.html" title="Represents a feature point in the visual database. " alt="" coords="266,85,397,126"/>
+<area shape="rect" id="node7" href="$structartvision__instanton_1_1_track_index_1_1track__t.html" title="artvision_instanton\l::TrackIndex::track_t" alt="" coords="260,157,403,198"/>
+<area shape="rect" id="node9" href="$classartvision__instanton_1_1_point3d.html" title="artvision_instanton\l::Point3d\&lt; double \&gt;" alt="" coords="5,186,141,227"/>
+</map>

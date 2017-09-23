@@ -1,0 +1,8 @@
+<map id="arVideoSetParams" name="arVideoSetParams">
+<area shape="rect" id="node2" href="$video_8h.html#acfe413014f68334638c496079b01dd84" title="ar2VideoSetParams" alt="" coords="184,107,323,133"/>
+<area shape="rect" id="node3" href="$video_dummy_8h.html#a9023282d018a19153e61f6938e327892" title="ar2VideoSetParamsDummy" alt="" coords="389,5,573,32"/>
+<area shape="rect" id="node4" href="$video_v4_l2_8h.html#a954bd26073d1a5bd5fa8aff4cc115131" title="ar2VideoSetParamsV4L2" alt="" coords="397,56,565,83"/>
+<area shape="rect" id="node5" href="$video_a_v_foundation_8h.html#a692903bc81ee776eaa7a77d9a6ff12b7" title="ar2VideoSetParamsAVFoundation" alt="" coords="371,107,591,133"/>
+<area shape="rect" id="node6" href="$video_image_8h.html#abcb66fb87bce1f4ca09093c9f7b80b9c" title="ar2VideoSetParamsImage" alt="" coords="393,157,568,184"/>
+<area shape="rect" id="node7" href="$video_android_8h.html#a467dcac8693612f23dde69f051ebc4aa" title="ar2VideoSetParamsAndroid" alt="" coords="389,208,572,235"/>
+</map>

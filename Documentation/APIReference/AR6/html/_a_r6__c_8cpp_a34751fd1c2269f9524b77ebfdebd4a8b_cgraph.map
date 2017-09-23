@@ -1,0 +1,29 @@
+<map id="arwDisplayFrameSettings" name="arwDisplayFrameSettings">
+<area shape="rect" id="node2" href="$class_a_r_controller.html#a29267c4e6a0c4901cc7854259ff2b0f5" title="ARController::displayFrame\lSettings" alt="" coords="225,749,408,790"/>
+<area shape="rect" id="node3" href="$class_a_r_view.html#a2f9e26d67a5ac1d9d5df849885bc313d" title="ARView::initWithVideoSource" alt="" coords="465,325,661,352"/>
+<area shape="rect" id="node19" href="$class_a_r_view.html#a9cece790a9928fd67c8209c5bcfd867d" title="ARView::setRotate90" alt="" coords="488,629,637,656"/>
+<area shape="rect" id="node21" href="$class_a_r_view.html#aa259f86de1b10565e4cd07e563037de6" title="ARView::setFlipH" alt="" coords="499,680,626,707"/>
+<area shape="rect" id="node23" href="$class_a_r_view.html#a4973fdbe87370b1ecb11709399adad0f" title="ARView::setFlipV" alt="" coords="499,731,626,757"/>
+<area shape="rect" id="node25" href="$class_a_r_view.html#af383d0b907224ceeab9421bfc7b599ed" title="ARView::setHorizontalAlignment" alt="" coords="456,781,669,808"/>
+<area shape="rect" id="node26" href="$class_a_r_view.html#a649675c30a46b111b0eddc9a1c0ce3ff" title="ARView::setVerticalAlignment" alt="" coords="463,832,662,859"/>
+<area shape="rect" id="node27" href="$class_a_r_view.html#ad626e444f63ee81b9b9d2927c52d76db" title="ARView::setScalingMode" alt="" coords="477,883,648,909"/>
+<area shape="rect" id="node28" href="$class_a_r_view.html#aab32c60a02e38529a73289ded3672d72" title="ARView::getViewport" alt="" coords="489,933,636,960"/>
+<area shape="rect" id="node4" href="$arg_8c.html#a85f626e83b50240007e8b8cc349f1ddf" title="Free memory used by arg associated with the specified context. " alt="" coords="778,5,869,32"/>
+<area shape="rect" id="node5" href="$class_a_r_video_source.html#a5fcaa2cdbbe4a214da643b8b3c9f56e8" title="Returns the camera parameters for the video source. " alt="" coords="730,57,917,98"/>
+<area shape="rect" id="node6" href="$arg_8c.html#ad95c0c2dafc0b081fde74cb34f8cf7ce" title="Initialise the arg library for the current OpenGL context. " alt="" coords="731,123,916,149"/>
+<area shape="rect" id="node9" href="$class_a_r_video_source.html#aa7b003e7ab2ce739d0940172bd91ca3c" title="Returns the pixel format of the video. " alt="" coords="718,173,929,200"/>
+<area shape="rect" id="node10" href="$param_8h.html#a408e5586069334fc2ae229b1924f132c" title="Create a camera parameter structure representing an idealised lens. " alt="" coords="772,224,875,251"/>
+<area shape="rect" id="node12" href="$class_a_r_video_source.html#abee133d378f5c800b9184a983b02a46d" title="Returns the width of the video in pixels. " alt="" coords="719,275,927,301"/>
+<area shape="rect" id="node13" href="$class_a_r_video_source.html#ad891987fbd5707889d159319841f866d" title="Returns the height of the video in pixels. " alt="" coords="717,325,929,352"/>
+<area shape="rect" id="node14" href="$arg_8c.html#a4cf2d1c5f499640230f2dcc5cce8dc2a" title="Set or unset a 90 degree rotation in all OpenGL drawing performed by ARGL. " alt="" coords="765,376,881,403"/>
+<area shape="rect" id="node15" href="$arg_8c.html#a336171b329a6dff60ebe3a23157737e6" title="arglSetFlipH" alt="" coords="776,427,871,453"/>
+<area shape="rect" id="node16" href="$arg_8c.html#a077eb626510231817d6d7d146a2fb7e0" title="arglSetFlipV" alt="" coords="777,477,870,504"/>
+<area shape="rect" id="node17" href="$arg_8c.html#aa5ca20b707a271f658448b5550783a0a" title="Set compensation for camera lens distortion in arglDispImage to off or on. " alt="" coords="722,528,925,555"/>
+<area shape="rect" id="node18" href="$ioapi_8h.html#a787fa3cf048117ba7123753c1e74fcd6" title="int" alt="" coords="804,579,843,605"/>
+<area shape="rect" id="node7" href="$arg_8c.html#aabe153eb55c310c8ae24bb7347f58f07" title="arglIsOpenGLES2OrLater" alt="" coords="1188,123,1359,149"/>
+<area shape="rect" id="node8" href="$arg_8c.html#a70f432550d41765bc7b7b13a53e6015d" title="arglOpenGLVersion" alt="" coords="991,148,1126,175"/>
+<area shape="rect" id="node11" href="$param_clear_8c.html#a3a67c8e9b71679e2f01173cfdb2b950a" title="arParamDistFactorClear" alt="" coords="977,224,1140,251"/>
+<area shape="rect" id="node20" href="$class_a_r_view.html#a696c747a0d2bc13395b7416b4985a5cd" title="ARView::rotate90" alt="" coords="761,629,886,656"/>
+<area shape="rect" id="node22" href="$class_a_r_view.html#a1eee03bb50a5925dbac13f6d6d4791d9" title="ARView::flipH" alt="" coords="771,680,876,707"/>
+<area shape="rect" id="node24" href="$class_a_r_view.html#a298875be3ca8d86322eba016833c6d36" title="ARView::flipV" alt="" coords="771,731,875,757"/>
+</map>

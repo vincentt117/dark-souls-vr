@@ -1,0 +1,7 @@
+<map id="artvision_instanton::ImageYUV::ImageYUV" name="artvision_instanton::ImageYUV::ImageYUV">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_image_y_u_v.html#af8fd6bec71fed648c949fea436ed3d23" title="Allocate the image data. " alt="" coords="227,71,357,112"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_image_y_u_v.html#a12ce8037b43ff05672ce85d095f85277" title="Get the dimensions of the image. " alt="" coords="414,5,547,47"/>
+<area shape="rect" id="node5" href="$classartvision__instanton_1_1_image_y_u_v.html#aa0db5e42440576206097d04bcc412120" title="artvision_instanton\l::ImageYUV::height" alt="" coords="412,136,549,177"/>
+<area shape="rect" id="node6" href="$classartvision__instanton_1_1_image_y_u_v.html#a745b53f3ef000897f2a4fa48b6bf3918" title="Release the memory associated with the image. " alt="" coords="220,188,364,229"/>
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_image_y_u_v.html#a99dbf05f44d2af9b2b9b13585b25e205" title="artvision_instanton\l::ImageYUV::size" alt="" coords="415,71,546,112"/>
+</map>

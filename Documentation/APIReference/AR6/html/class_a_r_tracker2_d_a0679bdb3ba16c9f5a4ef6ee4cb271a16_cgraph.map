@@ -1,0 +1,4 @@
+<map id="ARTracker2D::startWithStereoCameraParameters" name="ARTracker2D::startWithStereoCameraParameters">
+<area shape="rect" id="node2" href="$class_a_r_tracker2_d.html#a9b783e1d6cf4735b737c96d7cdffafbc" title="ARTracker2D::startWithCamera\lParameters" alt="" coords="255,5,464,47"/>
+<area shape="rect" id="node3" href="$class_tracker_pipeline.html#a0f70dfe9bb4ce8d0edb6f41d3fd7d81d" title="TrackerPipeline::set_K" alt="" coords="512,13,667,39"/>
+</map>

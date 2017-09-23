@@ -1,0 +1,5 @@
+<map id="arwGetTrackableOptionFloat" name="arwGetTrackableOptionFloat">
+<area shape="rect" id="node2" href="$class_a_r_controller.html#a4eafe05e50bdb9e788ad836f4c2104f1" title="Searches the collection of markers for the given ID. " alt="" coords="251,5,434,32"/>
+<area shape="rect" id="node3" href="$class_a_r_trackable.html#a9ec9f17396cbd209b42c82f2f2b7c59e" title="ARTrackable::filterSampleRate" alt="" coords="241,56,444,83"/>
+<area shape="rect" id="node4" href="$class_a_r_trackable.html#ac91098b6554abbc648a9d9150818ec8d" title="ARTrackable::filterCutoff\lFrequency" alt="" coords="259,107,426,149"/>
+</map>

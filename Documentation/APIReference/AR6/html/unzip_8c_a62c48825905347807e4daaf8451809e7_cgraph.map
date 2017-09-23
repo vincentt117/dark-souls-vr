@@ -1,0 +1,11 @@
+<map id="unz64local_SearchCentralDir" name="unz64local_SearchCentralDir">
+<area shape="rect" id="node2" href="$ioapi_8h.html#a50e9e9d5c30e481de822ad68fe537986" title="uLong" alt="" coords="1223,93,1280,120"/>
+<area shape="rect" id="node3" href="$unzip_8c.html#ad6a67f9e44f1e69bfc5fbdf9c49faa7f" title="unz64local_SearchCentral\lDir64" alt="" coords="244,326,419,367"/>
+<area shape="rect" id="node8" href="$unzip_8c.html#a5f1693991177fe0570e4c9bf0b95e510" title="OF" alt="" coords="1231,296,1271,323"/>
+<area shape="rect" id="node9" href="$ioapi_8h.html#a39ab6d73c1cd44bc17064c2dcbb3e753" title="voidpf" alt="" coords="1223,499,1280,525"/>
+<area shape="rect" id="node4" href="$unzip_8c.html#ad3fe51136556c1c4a1e964a157d153ba" title="unz64local_getLong" alt="" coords="467,296,604,323"/>
+<area shape="rect" id="node10" href="$unzip_8c.html#a65165fb74a10780ee7b66e9c6c57da3c" title="unz64local_getLong64" alt="" coords="652,448,803,475"/>
+<area shape="rect" id="node5" href="$unzip_8c.html#a4fdc20c5d880511c727c425b1f11ef68" title="unz64local_getByte" alt="" coords="851,296,987,323"/>
+<area shape="rect" id="node6" href="$ioapi_8h.html#a787fa3cf048117ba7123753c1e74fcd6" title="int" alt="" coords="1085,347,1124,373"/>
+<area shape="rect" id="node7" href="$unzip_8c.html#aca92d6709924f9c82ce13f0c18cc26b1" title="unz64local_getShort" alt="" coords="1035,245,1175,272"/>
+</map>

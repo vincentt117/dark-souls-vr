@@ -1,0 +1,11 @@
+<map id="artvision_instanton::ExpQuaternionFromSo3" name="artvision_instanton::ExpQuaternionFromSo3">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#a3dc56afdff2356f9987c14fc31ec8261" title="artvision_instanton\l::DotProduct3" alt="" coords="432,5,563,47"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#ac602026dd27129911cdee194c5bedd01" title="Create an identity quaternion. " alt="" coords="230,35,366,76"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#ab0bba76a11f5b88fda96ddd2f6e33b34" title="artvision_instanton\l::ScaleVector3" alt="" coords="233,100,363,141"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#ac7ea81e607ef22e45ca66ea4be2ee8f7" title="Expand the imaginary&#45;only 3x1 part to full 4x1 quaternion [qx, qy, qz, q3] &lt;==&gt; &#45;[qx,y,qz, q3]. " alt="" coords="223,165,373,207"/>
+<area shape="rect" id="node10" href="$namespaceartvision__instanton.html#a15dadc526841cbe9f7a5d74530ca7746" title="artvision_instanton\l::ScaleVector4" alt="" coords="635,228,765,269"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#ade3d50eaacf35b1a01dd69e1d9ab77b9" title="artvision_instanton\l::CopyVector3" alt="" coords="432,100,563,141"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#a1fa75eeba87180bee6aee2ab3c07be5a" title="Normalize a quaternion so that it has unit norm. " alt="" coords="421,165,573,207"/>
+<area shape="rect" id="node8" href="$namespaceartvision__instanton.html#aaf2781e37f3d7d4e78dd2c872d0799b6" title="artvision_instanton::sqr" alt="" coords="621,111,779,138"/>
+<area shape="rect" id="node9" href="$namespaceartvision__instanton.html#adc1e30b0cec389f6c8e8b5512b69fb2e" title="artvision_instanton\l::sign" alt="" coords="635,163,765,204"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="artvision_instanton::ComputeDirectHomographyNormalEquationsPostMultiply" name="artvision_instanton::ComputeDirectHomographyNormalEquationsPostMultiply">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#a4e3faf7c78294e7ca0b205d5285287e4" title="artvision_instanton\l::ZeroVector" alt="" coords="332,31,463,72"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#a107150aa3e5fcfda7c0fa07e9c1a8c65" title="Compute the Homography Jacobian of the Post Multiplied Update equation. " alt="" coords="298,95,497,151"/>
+<area shape="rect" id="node11" href="$namespaceartvision__instanton.html#adf48d283b154203b12c526bbd11f0717" title="C += A&#39;*A. " alt="" coords="303,175,492,216"/>
+<area shape="rect" id="node12" href="$namespaceartvision__instanton.html#a5e1d6095eb08dc2ac1697fe595df3c24" title="y += A&#39;*x " alt="" coords="304,240,491,281"/>
+<area shape="rect" id="node13" href="$namespaceartvision__instanton.html#a6b7cf4cecd3a7d2fd08f75eb0a6c8233" title="Extend the upper right triangular matrix to the lower left. " alt="" coords="288,305,507,347"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#aac7359704d1486d43ac7b00356511175" title="Multiply an in&#45;homogenous point by a transform. " alt="" coords="555,5,819,47"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#a51389ed6d530f5a2988d9eabfdfc09ae" title="Compute the Jacobian of the 8 DOF of the homography directly on the first 8 parameters assuming the l..." alt="" coords="591,71,782,112"/>
+<area shape="rect" id="node8" href="$namespaceartvision__instanton.html#a4dc10058ab0d51b3533fab033d195834" title="Compute the Cauchy Cost Jacobian. " alt="" coords="583,136,791,177"/>
+<area shape="rect" id="node10" href="$namespaceartvision__instanton.html#aacd695c7bcdd6f82699a2c8bfcd9a926" title="General matrix multiplication. " alt="" coords="621,201,752,243"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#a7353501a2ebe28e96528be2f2bfe4eaf" title="Safe reciprical (1/x). " alt="" coords="880,49,1011,91"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#aaf2781e37f3d7d4e78dd2c872d0799b6" title="artvision_instanton::sqr" alt="" coords="867,115,1024,142"/>
+<area shape="rect" id="node9" href="$namespaceartvision__instanton.html#aabfdfd6e431693d8b92948d037feaf4f" title="artvision_instanton::log" alt="" coords="867,166,1023,193"/>
+</map>

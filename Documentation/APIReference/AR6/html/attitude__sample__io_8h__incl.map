@@ -1,0 +1,11 @@
+<map id="/bitrise/src/Source/AR6/InstantOn/include/AR6/InstantOn/extensions/attitude_sample_io.h" name="/bitrise/src/Source/AR6/InstantOn/include/AR6/InstantOn/extensions/attitude_sample_io.h">
+<area shape="rect" id="node2" href="$attitude__sample_8h.html" title="attitude_sample.h" alt="" coords="693,124,819,151"/>
+<area shape="rect" id="node3" href="$sample_8h.html" title="AR6/InstantOn/framework\l/sample.h" alt="" coords="602,199,777,240"/>
+<area shape="rect" id="node4" href="$stream_8h.html" title="stream.h" alt="" coords="542,288,615,315"/>
+<area shape="rect" id="node19" href="$date__time_8h.html" title="date_time.h" alt="" coords="640,288,731,315"/>
+<area shape="rect" id="node6" href="$linear__algebra_8h.html" title="AR6/InstantOn/math\l/linear_algebra.h" alt="" coords="330,363,473,404"/>
+<area shape="rect" id="node14" href="$indexing_8h.html" title="indexing.h" alt="" coords="538,452,619,479"/>
+<area shape="rect" id="node7" href="$math__utils_8h.html" title="math_utils.h" alt="" coords="105,452,199,479"/>
+<area shape="rect" id="node9" href="$_instant_on_2include_2_a_r6_2_instant_on_2math_2matrix_8h.html" title="matrix.h" alt="" coords="223,452,292,479"/>
+<area shape="rect" id="node10" href="$vector_8h.html" title="vector.h" alt="" coords="267,534,336,561"/>
+</map>

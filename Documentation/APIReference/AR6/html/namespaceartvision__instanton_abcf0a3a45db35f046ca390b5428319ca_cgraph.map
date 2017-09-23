@@ -1,0 +1,7 @@
+<map id="artvision_instanton::RefineHarrisCorners" name="artvision_instanton::RefineHarrisCorners">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#a5ccce86998d4f12adf7801ea0d2700ef" title="Solve a 2x2 linear system. " alt="" coords="203,39,367,80"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#a4d3b09060d8477d50f766af30968b941" title="Compute the inverse of a 2x2 matrix. " alt="" coords="415,5,545,47"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#a6bde8cd1dfa63f4eaf095ea673e3da1e" title="y = A*x where A is a 2x2 and x is a 2x1. " alt="" coords="415,71,545,112"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#a435aede11734cf5615ef1d0c406b5a36" title="Compute the determinant of a 2x2 matrix. " alt="" coords="593,5,724,47"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#abff23e96b142933b36f258f57fa6fd84" title="Computes the cofactor of a 2x2 matrix. " alt="" coords="772,5,903,47"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="arwGetTrackerOptionInt" name="arwGetTrackerOptionInt">
+<area shape="rect" id="node2" href="$class_a_r_controller.html#af7f2ae7863732f426de2df973abf3340" title="ARController::get2DTracker" alt="" coords="243,5,427,32"/>
+<area shape="rect" id="node3" href="$class_a_r_tracker2_d.html#a6c329b4ee7614d0e6edab447432bf0d3" title="ARTracker2D::getMaxSimultaneous\lTrackedImages" alt="" coords="219,57,451,98"/>
+<area shape="rect" id="node4" href="$class_a_r_controller.html#a8de280cc3c3c583b5fe08a93835aa4e0" title="ARController::getSquareTracker" alt="" coords="231,123,439,149"/>
+<area shape="rect" id="node5" href="$class_a_r_tracker_square.html#acf2b4dda181d7fa819d6332720fb396f" title="ARTrackerSquare::getImage\lProcMode" alt="" coords="241,174,429,215"/>
+<area shape="rect" id="node6" href="$class_a_r_tracker_square.html#ac2d1ce0798cb6935b66bc54edffd97c3" title="Returns the current threshold value used for image binarization. " alt="" coords="231,240,440,267"/>
+<area shape="rect" id="node7" href="$class_a_r_tracker_square.html#a86aaf9487eb5fa39e541db249dd5b392" title="Returns the current thresholding mode. " alt="" coords="215,291,456,317"/>
+<area shape="rect" id="node8" href="$class_a_r_tracker_square.html#a0d29a60f3686793025147cf5e3eef381" title="Returns the current labeling mode. " alt="" coords="219,341,451,368"/>
+<area shape="rect" id="node9" href="$class_a_r_tracker_square.html#acdc4e39ed33adee439b98760c2651a85" title="ARTrackerSquare::getPattern\lDetectionMode" alt="" coords="238,393,433,434"/>
+<area shape="rect" id="node10" href="$class_a_r_tracker_square.html#a7d6f8c8d7c225e50ed81c401384a97c7" title="ARTrackerSquare::getMatrix\lCodeType" alt="" coords="241,458,429,499"/>
+</map>

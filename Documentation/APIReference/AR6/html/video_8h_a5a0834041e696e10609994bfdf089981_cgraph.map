@@ -1,0 +1,8 @@
+<map id="ar2VideoCapStart" name="ar2VideoCapStart">
+<area shape="rect" id="node2" href="$video_dummy_8h.html#ab1f0e2853638ac6f1486a913844caab1" title="ar2VideoCapStartDummy" alt="" coords="197,5,367,32"/>
+<area shape="rect" id="node3" href="$video_v4_l2_8h.html#aaa7ca0deda2b834787256b3545b0e5e2" title="ar2VideoCapStartV4L2" alt="" coords="205,56,359,83"/>
+<area shape="rect" id="node4" href="$video1394_8h.html#ab93fd5b20f721af575296a36c1f0a73d" title="ar2VideoCapStart1394" alt="" coords="205,107,359,133"/>
+<area shape="rect" id="node5" href="$video_a_v_foundation_8h.html#adec98c4fdc75562de3051d070de7eeae" title="ar2VideoCapStartAVFoundation" alt="" coords="179,157,385,184"/>
+<area shape="rect" id="node6" href="$video_image_8h.html#a797844b99a82db04a767d3a22675dc47" title="ar2VideoCapStartImage" alt="" coords="201,208,363,235"/>
+<area shape="rect" id="node7" href="$video_android_8h.html#a690a506736a2be46037cf317357b8e67" title="ar2VideoCapStartAndroid" alt="" coords="197,259,367,285"/>
+</map>

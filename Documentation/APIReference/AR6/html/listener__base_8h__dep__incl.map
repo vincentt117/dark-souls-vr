@@ -1,0 +1,15 @@
+<map id="/bitrise/src/Source/AR6/InstantOn/include/AR6/InstantOn/framework/listener_base.h" name="/bitrise/src/Source/AR6/InstantOn/include/AR6/InstantOn/framework/listener_base.h">
+<area shape="rect" id="node2" href="$listener__base_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/framework\l/listener_base.cpp" alt="" coords="209,131,388,187"/>
+<area shape="rect" id="node3" href="$attitude__listener__base_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/attitude_listener_base.h" alt="" coords="413,124,593,195"/>
+<area shape="rect" id="node12" href="$camera__listener__base_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/camera_listener_base.h" alt="" coords="745,124,925,195"/>
+<area shape="rect" id="node4" href="$attitude__sync__filter_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/attitude_sync_filter.h" alt="" coords="413,250,593,321"/>
+<area shape="rect" id="node7" href="$_vision4d-_instant_on_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/Vision4d&#45;InstantOn.h" alt="" coords="617,250,797,321"/>
+<area shape="rect" id="node8" href="$android__attitude__listener_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/external\l/platform/android/device\l/android_attitude_listener.h" alt="" coords="15,243,193,328"/>
+<area shape="rect" id="node10" href="$i_o_s__attitude__listener_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/external\l/platform/iOS/device/iOS\l_attitude_listener.h" alt="" coords="222,243,389,328"/>
+<area shape="rect" id="node5" href="$attitude__sync__filter_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/extensions\l/attitude_sync_filter.cpp" alt="" coords="413,383,593,439"/>
+<area shape="rect" id="node6" href="$_vision4d-_instant_on_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/extensions\l/Vision4d&#45;InstantOn.cpp" alt="" coords="694,383,874,439"/>
+<area shape="rect" id="node9" href="$android__attitude__listener_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/external\l/platform/android/device\l/android_attitude_listener.cpp" alt="" coords="5,376,197,447"/>
+<area shape="rect" id="node11" href="$i_o_s__attitude__listener_8mm.html" title="/bitrise/src/Source\l/AR6/InstantOn/external\l/platform/iOS/device/iOS\l_attitude_listener.mm" alt="" coords="222,376,389,447"/>
+<area shape="rect" id="node13" href="$camera__filter_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/extensions\l/camera_filter.cpp" alt="" coords="923,383,1103,439"/>
+<area shape="rect" id="node14" href="$camera__filter_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/camera_filter.h" alt="" coords="873,250,1053,321"/>
+</map>

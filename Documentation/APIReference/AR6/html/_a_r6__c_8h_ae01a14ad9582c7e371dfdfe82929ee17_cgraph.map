@@ -1,0 +1,5 @@
+<map id="arwSetTrackerOptionBool" name="arwSetTrackerOptionBool">
+<area shape="rect" id="node2" href="$class_a_r_controller.html#a8de280cc3c3c583b5fe08a93835aa4e0" title="ARController::getSquareTracker" alt="" coords="231,5,439,32"/>
+<area shape="rect" id="node3" href="$class_a_r_tracker_square.html#a52602e000c404604d97ba20143f3b885" title="Enables or disables debug mode in the tracker. " alt="" coords="224,56,447,83"/>
+<area shape="rect" id="node4" href="$ar_create_handle_8c.html#a2154cad5a1a78f3d2e9042ce602471a7" title="Enable or disable ARToolKit&#39;s debug mode. " alt="" coords="495,56,617,83"/>
+</map>

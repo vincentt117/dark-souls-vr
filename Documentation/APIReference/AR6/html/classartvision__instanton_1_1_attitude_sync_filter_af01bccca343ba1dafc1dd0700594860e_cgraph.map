@@ -1,0 +1,10 @@
+<map id="artvision_instanton::AttitudeSyncFilter::stop" name="artvision_instanton::AttitudeSyncFilter::stop">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_filter.html#aa578baecf0c606c58c7d3d528617ab1e" title="Stop the filter. " alt="" coords="220,71,351,112"/>
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_task.html#a8c8552ba5ffc975be097ab38484b70c8" title="Cancel the thread. " alt="" coords="403,5,533,47"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_task.html#a6cf4d3140c2e47b69a465c0ca3f85b21" title="Join the thread task. " alt="" coords="403,71,533,112"/>
+<area shape="rect" id="node7" href="$classartvision__instanton_1_1_task.html#a4b81a1ce9ae862e2ebfd508f2d74ab78" title="clean_up: a place for resource management to do clean up in the svc() thread before its exit ..." alt="" coords="399,136,537,177"/>
+<area shape="rect" id="node5" href="$classartvision__instanton_1_1_thread.html#a4d9d788e98388a3217831a9046709deb" title="Join the thread. " alt="" coords="585,71,716,112"/>
+<area shape="rect" id="node6" href="$classartvision__instanton_1_1_runnable.html#ab169148781de29d0a3c25bb7b99307f1" title="Entry point for the runnable. " alt="" coords="764,71,895,112"/>
+<area shape="rect" id="node8" href="$namespaceartvision__instanton.html#a36563a91836ffd3b89afe9b9e3ee7d02" title="artvision_instanton\l::setThreadPriority" alt="" coords="585,136,716,177"/>
+<area shape="rect" id="node9" href="$namespaceartvision__instanton.html#a13f6fbbe42247d249a6d070c3c33446f" title="artvision_instanton\l::round" alt="" coords="764,136,895,177"/>
+</map>

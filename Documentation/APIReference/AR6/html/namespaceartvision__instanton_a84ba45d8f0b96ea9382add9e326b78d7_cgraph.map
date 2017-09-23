@@ -1,0 +1,8 @@
+<map id="artvision_instanton::OrthogonalizePivot3x4Basis2" name="artvision_instanton::OrthogonalizePivot3x4Basis2">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#a4ee56420e6ede25a3a0c5ede566adb5e" title="Sum sqaured. " alt="" coords="258,5,389,47"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#a15dadc526841cbe9f7a5d74530ca7746" title="artvision_instanton\l::ScaleVector4" alt="" coords="258,71,389,112"/>
+<area shape="rect" id="node5" href="$group___project.html#gae1d9696dce608d9a3b9d7fcd7285ecce" title="artvision_instanton\l::SubtractProjection" alt="" coords="255,136,392,177"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#a52c0dfbde7558c411db7c1277228bbd1" title="artvision_instanton\l::DotProduct4" alt="" coords="463,5,594,47"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#a48cba394ed7537d523c64e4bf7b8d481" title="Compute the dot product. " alt="" coords="463,103,594,144"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#a9e9bce716218bde2b37c084592ec76c0" title="artvision_instanton\l::AccumulateScaledVector" alt="" coords="440,168,617,209"/>
+</map>

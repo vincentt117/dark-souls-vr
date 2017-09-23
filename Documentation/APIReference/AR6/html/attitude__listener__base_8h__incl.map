@@ -1,0 +1,16 @@
+<map id="/bitrise/src/Source/AR6/InstantOn/include/AR6/InstantOn/extensions/attitude_listener_base.h" name="/bitrise/src/Source/AR6/InstantOn/include/AR6/InstantOn/extensions/attitude_listener_base.h">
+<area shape="rect" id="node2" href="$attitude__sample_8h.html" title="attitude_sample.h" alt="" coords="684,131,810,158"/>
+<area shape="rect" id="node20" href="$listener__base_8h.html" title="AR6/InstantOn/framework\l/listener_base.h" alt="" coords="849,124,1024,165"/>
+<area shape="rect" id="node3" href="$sample_8h.html" title="AR6/InstantOn/framework\l/sample.h" alt="" coords="45,213,220,255"/>
+<area shape="rect" id="node4" href="$stream_8h.html" title="stream.h" alt="" coords="149,303,222,329"/>
+<area shape="rect" id="node19" href="$date__time_8h.html" title="date_time.h" alt="" coords="34,303,124,329"/>
+<area shape="rect" id="node6" href="$linear__algebra_8h.html" title="AR6/InstantOn/math\l/linear_algebra.h" alt="" coords="300,377,442,419"/>
+<area shape="rect" id="node14" href="$indexing_8h.html" title="indexing.h" alt="" coords="145,474,226,501"/>
+<area shape="rect" id="node7" href="$math__utils_8h.html" title="math_utils.h" alt="" coords="422,474,515,501"/>
+<area shape="rect" id="node9" href="$_instant_on_2include_2_a_r6_2_instant_on_2math_2matrix_8h.html" title="matrix.h" alt="" coords="590,474,659,501"/>
+<area shape="rect" id="node10" href="$vector_8h.html" title="vector.h" alt="" coords="518,563,587,590"/>
+<area shape="rect" id="node21" href="$thread_8h.html" title="thread.h" alt="" coords="1062,221,1131,247"/>
+<area shape="rect" id="node24" href="$synchronization_8h.html" title="synchronization.h" alt="" coords="785,385,909,411"/>
+<area shape="rect" id="node26" href="$lockfree__queue_8h.html" title="lockfree_queue.h" alt="" coords="890,221,1012,247"/>
+<area shape="rect" id="node27" href="$queue_8h.html" title="queue.h" alt="" coords="917,303,985,329"/>
+</map>

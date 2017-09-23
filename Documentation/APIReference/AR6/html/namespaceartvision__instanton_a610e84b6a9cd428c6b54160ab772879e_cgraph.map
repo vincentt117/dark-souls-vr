@@ -1,0 +1,40 @@
+<map id="artvision_instanton::SolveP3P5Points" name="artvision_instanton::SolveP3P5Points">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#aaf9aa6a0a067e54b27b22a3cddfd1fe4" title="Solve the Perspective 3 Point (P3P) pose problem. " alt="" coords="185,819,355,860"/>
+<area shape="rect" id="node36" href="$namespaceartvision__instanton.html#a4b79915e68791a31b9d9f1dce08a91c3" title="Resolve the Perspective 3 Point (P3P) pose problem with two additional points. " alt="" coords="419,1051,619,1092"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#ab7b68530f6f0d9117a6f87ab8d1249ea" title="Construct the geometry needed to form the quartic polynomial. " alt="" coords="691,727,863,768"/>
+<area shape="rect" id="node8" href="$namespaceartvision__instanton.html#a93a07fe5cade391e29248a4537338567" title="Compute quartic polynomial to solve for the legs of tetrahedron. " alt="" coords="403,906,636,962"/>
+<area shape="rect" id="node9" href="$namespaceartvision__instanton.html#ac3fcbe7e8df2c608efd9f67eaa89bd77" title="Solve for the real roots of a quartic polynomial of the form: " alt="" coords="435,985,604,1027"/>
+<area shape="rect" id="node18" href="$namespaceartvision__instanton.html#a51b8de2d5400ff76ef55c813582c5096" title="Solve the perspective legs given polynomial roots (up to 4) " alt="" coords="691,848,863,889"/>
+<area shape="rect" id="node20" href="$namespaceartvision__instanton.html#a22e873716abe0adf81bc31fc8b109559" title="Derive the camera coordinates of the 3 points given legs and normalized image coordinates. " alt="" coords="403,789,636,831"/>
+<area shape="rect" id="node21" href="$namespaceartvision__instanton.html#a3b5db7ed75a959780d464ee697dd109f" title="Solve absolute pose given 3 points (coplanar case of Horn&#39;s method) " alt="" coords="687,377,868,419"/>
+<area shape="rect" id="node35" href="$namespaceartvision__instanton.html#a4a34a017c3300e59d4404b63b3b24125" title="Create a projection matrix from a rotation matrix (R) and translation (t) of the camera. " alt="" coords="427,724,611,765"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#a3f7b3dcd17222ace4c4e6140f0702244" title="artvision_instanton\l::SubVector3" alt="" coords="945,668,1075,709"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#a6a5f3d08c58a9d93914a0a4fcdaa0f62" title="Sum sqaured. " alt="" coords="945,785,1075,827"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#a3dc56afdff2356f9987c14fc31ec8261" title="artvision_instanton\l::DotProduct3" alt="" coords="1165,584,1296,625"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#aaf2781e37f3d7d4e78dd2c872d0799b6" title="artvision_instanton::sqr" alt="" coords="931,917,1089,943"/>
+<area shape="rect" id="node10" href="$namespaceartvision__instanton.html#a85cb5c6265e4e14f79b18bc567bbf709" title="Solve for the real roots of a cubic polynomial of the form: " alt="" coords="697,1132,858,1173"/>
+<area shape="rect" id="node16" href="$namespaceartvision__instanton.html#ad3924d7ff8cb60cc404638ab80fe5b11" title="Polish the root of a quartic polynomial. " alt="" coords="687,1067,868,1108"/>
+<area shape="rect" id="node11" href="$namespaceartvision__instanton.html#a3eaa94252f465f459a636060aa8d3e56" title="Solve for the real roots of a quadratic polynomial of the form: " alt="" coords="919,968,1101,1009"/>
+<area shape="rect" id="node13" href="$namespaceartvision__instanton.html#adc1e30b0cec389f6c8e8b5512b69fb2e" title="artvision_instanton\l::sign" alt="" coords="1165,935,1296,976"/>
+<area shape="rect" id="node14" href="$namespaceartvision__instanton.html#ac3c0d561c97b525f88313d0054b1de06" title="artvision_instanton::cub" alt="" coords="930,1099,1090,1126"/>
+<area shape="rect" id="node15" href="$namespaceartvision__instanton.html#af395cd7a5076696b788c190fc9ec8100" title="Cube root y = x^(1/3) " alt="" coords="945,1201,1075,1243"/>
+<area shape="rect" id="node12" href="$namespaceartvision__instanton.html#adb0d6b298f7daaf74e79e27654c17df5" title="Solve for the real root of a linear polynomial of the form: " alt="" coords="1149,1000,1312,1041"/>
+<area shape="rect" id="node17" href="$namespaceartvision__instanton.html#acc6d0a656fcbbd674e8c3802dea9c7bf" title="Evaluate a quartic function. " alt="" coords="945,1033,1075,1075"/>
+<area shape="rect" id="node19" href="$namespaceartvision__instanton.html#ab30464c51e5dc12dc02c1822dc300f03" title="Rearrange array to remove duplicated elements in place. " alt="" coords="945,851,1075,892"/>
+<area shape="rect" id="node22" href="$namespaceartvision__instanton.html#ab4058805b1bbef9fbba6688a6f4ce7b6" title="artvision_instanton\l::AddVector3" alt="" coords="945,537,1075,579"/>
+<area shape="rect" id="node23" href="$namespaceartvision__instanton.html#ab0bba76a11f5b88fda96ddd2f6e33b34" title="artvision_instanton\l::ScaleVector3" alt="" coords="1165,115,1296,156"/>
+<area shape="rect" id="node24" href="$namespaceartvision__instanton.html#a762219ce63e83deda0b46bd6a5e7bd28" title="Cross product of two vectors. " alt="" coords="1165,180,1296,221"/>
+<area shape="rect" id="node25" href="$namespaceartvision__instanton.html#a37538b5aebf83a52778dbc1b7fe3f222" title="Compute a rotation matrix such that v2 = R*v1. " alt="" coords="923,239,1097,280"/>
+<area shape="rect" id="node28" href="$namespaceartvision__instanton.html#ae45ee6891c87f52629c7cc8682f2de46" title="Compute the Rodrigues rotation matrix. " alt="" coords="1161,376,1300,417"/>
+<area shape="rect" id="node29" href="$namespaceartvision__instanton.html#a614c9cf49c0617570fffd18befe57f8a" title="y = A*x where A is a 3x3 and x is a 3x1. " alt="" coords="945,603,1075,644"/>
+<area shape="rect" id="node30" href="$namespaceartvision__instanton.html#a3d0ce0df588b3caad7fc4bcbcb614b62" title="Transpose of a 3x3 matrix. " alt="" coords="936,407,1084,448"/>
+<area shape="rect" id="node31" href="$namespaceartvision__instanton.html#a77d8d8df593b392f9d9c81a9d70eaa2e" title="C = A*B where A,B and C are 3x3 matrices. " alt="" coords="945,472,1075,513"/>
+<area shape="rect" id="node32" href="$namespaceartvision__instanton.html#a2a337fa129d65b4e3470f954814f17d2" title="Compute the determinant of a 3x3 matrix. " alt="" coords="945,71,1075,112"/>
+<area shape="rect" id="node34" href="$namespaceartvision__instanton.html#a41b79f3ef269aeca8553c6daea6a60c9" title="artvision_instanton\l::ScaleVector9" alt="" coords="945,5,1075,47"/>
+<area shape="rect" id="node26" href="$namespaceartvision__instanton.html#a973bea6e091b3dd756418f53e458ce40" title="Create a 3x3 identity matrix. " alt="" coords="1165,311,1296,352"/>
+<area shape="rect" id="node27" href="$namespaceartvision__instanton.html#a7353501a2ebe28e96528be2f2bfe4eaf" title="Safe reciprical (1/x). " alt="" coords="1165,245,1296,287"/>
+<area shape="rect" id="node33" href="$namespaceartvision__instanton.html#abff23e96b142933b36f258f57fa6fd84" title="Computes the cofactor of a 2x2 matrix. " alt="" coords="1165,49,1296,91"/>
+<area shape="rect" id="node37" href="$namespaceartvision__instanton.html#ae2f91e798164e94f8da847fa07dc5dec" title="Extract a rotation matrix and translation from a projection matrix. " alt="" coords="684,1263,871,1304"/>
+<area shape="rect" id="node38" href="$namespaceartvision__instanton.html#a0bcd54deb4ce42595592e6acbe8dd7d1" title="Perform a rigid transformation on a point. " alt="" coords="701,603,853,644"/>
+<area shape="rect" id="node39" href="$namespaceartvision__instanton.html#afd6dbbd9acca322a19536bce2c32b43c" title="artvision_instanton\l::CopyVector" alt="" coords="712,1197,843,1239"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="artvision_instanton::FeaturePoint::serialize" name="artvision_instanton::FeaturePoint::serialize">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#adc131548ecd82533f107e752e4b2cd20" title="artvision_instanton\l::Write_uint32" alt="" coords="213,5,344,47"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#a6a3bb8af4157c0bf3fd75628f647acae" title="artvision_instanton\l::Write_float" alt="" coords="213,71,344,112"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#a98dbc2f9c60914ed87f376dec2a4b473" title="artvision_instanton\l::Write_bool" alt="" coords="213,136,344,177"/>
+</map>

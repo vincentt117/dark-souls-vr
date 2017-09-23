@@ -1,0 +1,11 @@
+<map id="TrackerPipeline::UpdateSmoother" name="TrackerPipeline::UpdateSmoother">
+<area shape="rect" id="node2" href="$class_a_r_trackable2_d.html#a512eecccffb708b5033db319502cc86a" title="ARTrackable2D::updateWith2\lDTrackingResults" alt="" coords="272,125,468,166"/>
+<area shape="rect" id="node3" href="$class_a_r_trackable.html#a445a8894d99c98bc966ebff530d58278" title="Completes an update begun in the parent class, performing filtering, generating OpenGL view matrix an..." alt="" coords="516,132,661,159"/>
+<area shape="rect" id="node4" href="$ar_filter_trans_mat_8c.html#a575d29079692c1af23b19f0477ee2123" title="Filters the supplied pose estimate transformation matrix in&#45;place. " alt="" coords="722,56,839,83"/>
+<area shape="rect" id="node8" href="$param_g_l_8h.html#a069eee4b7a32208a45b8c438283e9a7f" title="arglCameraViewRHf" alt="" coords="709,107,852,133"/>
+<area shape="rect" id="node9" href="$param_g_l_8h.html#a21250f8dd05058fe653e4a0116e7f592" title="Create an OpenGL viewing transformation matrix. " alt="" coords="711,157,850,184"/>
+<area shape="rect" id="node10" href="$ar_util_8c.html#ae28eeba3e16224a7d77b46bd34b8f4fe" title="arUtilMatMul" alt="" coords="733,208,829,235"/>
+<area shape="rect" id="node5" href="$ar_util_8c.html#adb4a9f8d233d3b954fd85bbb3deda173" title="arUtilMat2QuatPos" alt="" coords="900,5,1033,32"/>
+<area shape="rect" id="node6" href="$ar_util_8c.html#aa543b10d8b401ccf5626aba7dfa12e09" title="arUtilQuatNorm" alt="" coords="910,56,1023,83"/>
+<area shape="rect" id="node7" href="$ar_util_8c.html#a016bf9cc45eee7cd9eae471cecc68e9a" title="arUtilQuatPos2Mat" alt="" coords="900,107,1033,133"/>
+</map>

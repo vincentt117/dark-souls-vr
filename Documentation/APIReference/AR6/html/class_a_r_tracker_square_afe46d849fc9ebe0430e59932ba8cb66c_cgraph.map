@@ -1,0 +1,5 @@
+<map id="ARTrackerSquare::setThresholdMode" name="ARTrackerSquare::setThresholdMode">
+<area shape="rect" id="node2" href="$ar_create_handle_8c.html#a39e6a9d03584bb43ee3fae4925feaff2" title="Set the labeling threshold mode (auto/manual). " alt="" coords="295,31,468,57"/>
+<area shape="rect" id="node3" href="$ar_image_proc_8c.html#a99a7b2bbb653be2ecc772ceed7159ce1" title="Finish image processing and free memory. " alt="" coords="516,5,640,32"/>
+<area shape="rect" id="node4" href="$ar_image_proc_8c.html#a40df944801ad1069f667b366eba16855" title="Initialise image processing. " alt="" coords="521,56,635,83"/>
+</map>

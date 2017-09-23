@@ -1,0 +1,5 @@
+<map id="artvision_instanton::SampleTuple::ExtractFilter::receive" name="artvision_instanton::SampleTuple::ExtractFilter::receive">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_filter.html#adbb933af713b5ae070aa0d1711812f8d" title="Get an output stream with a stream Id. " alt="" coords="255,5,400,47"/>
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_video_stream_gray.html#a76dc97039615a7c242b3a658c41383ea" title="Get the stream type id. " alt="" coords="239,71,416,112"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_filter.html#ac2884c25d6bed9467810757cb0751c10" title="Send a container to the child filters. " alt="" coords="262,136,393,177"/>
+</map>

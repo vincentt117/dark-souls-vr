@@ -1,0 +1,11 @@
+<map id="artvision_instanton::RandomPerturbQuaternion" name="artvision_instanton::RandomPerturbQuaternion">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#a3dc56afdff2356f9987c14fc31ec8261" title="artvision_instanton\l::DotProduct3" alt="" coords="238,5,369,47"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#ab0bba76a11f5b88fda96ddd2f6e33b34" title="artvision_instanton\l::ScaleVector3" alt="" coords="425,61,555,103"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#a01d2c21affc38477d75b27b0b0061e07" title="Rotate a quaternion given rotation axis and a small rotation angle. " alt="" coords="237,125,369,167"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#ade3d50eaacf35b1a01dd69e1d9ab77b9" title="artvision_instanton\l::CopyVector3" alt="" coords="425,127,555,168"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#a90477268527a5e22c195aec6c3128811" title="Quaternion Multiplication. " alt="" coords="417,192,563,233"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#a1fa75eeba87180bee6aee2ab3c07be5a" title="Normalize a quaternion so that it has unit norm. " alt="" coords="611,192,763,233"/>
+<area shape="rect" id="node8" href="$namespaceartvision__instanton.html#aaf2781e37f3d7d4e78dd2c872d0799b6" title="artvision_instanton::sqr" alt="" coords="811,141,968,167"/>
+<area shape="rect" id="node9" href="$namespaceartvision__instanton.html#adc1e30b0cec389f6c8e8b5512b69fb2e" title="artvision_instanton\l::sign" alt="" coords="824,192,955,233"/>
+<area shape="rect" id="node10" href="$namespaceartvision__instanton.html#a15dadc526841cbe9f7a5d74530ca7746" title="artvision_instanton\l::ScaleVector4" alt="" coords="824,257,955,299"/>
+</map>

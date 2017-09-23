@@ -1,0 +1,15 @@
+<map id="artvision_instanton::FindZeros" name="artvision_instanton::FindZeros">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#a2d314480896bfc10d83b904e25c9d440" title="Computes the sturm chain of the polynomial A. " alt="" coords="184,93,315,135"/>
+<area shape="rect" id="node10" href="$namespaceartvision__instanton.html#a412a21286413eda56866856fbddf74b7" title="Finds the zeros of the polynomial who&#39;s sturm chain is given. " alt="" coords="184,312,315,353"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#a7d2621eff15b01c2162abacff259edd8" title="Computes the derivitive of P. " alt="" coords="363,5,493,47"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#a6212123ad606502e4baf7e84cbc8b370" title="Polynomial Division. " alt="" coords="363,123,493,164"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#aab53be7d4b926fe6711274d5d8b2245f" title="Scales a polynomial by a constant factor s. " alt="" coords="541,64,672,105"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#a4b6456b962a78866d637a25562624979" title="Asserts that the polynomial is set and is valid. " alt="" coords="720,91,892,132"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#a675b15a6a716970f66edd98bdc261d73" title="Subracts two polynomials. " alt="" coords="541,181,672,223"/>
+<area shape="rect" id="node9" href="$namespaceartvision__instanton.html#a6623718f13ae700d2ac4a41bddc62648" title="Removes the leading zeros – makes the deque a valid polynomial. " alt="" coords="541,247,672,288"/>
+<area shape="rect" id="node8" href="$namespaceartvision__instanton.html#abfab8b1bd712b039f3737dcaf16f030a" title="artvision_instanton\l::max2" alt="" coords="741,181,871,223"/>
+<area shape="rect" id="node11" href="$namespaceartvision__instanton.html#a75796dce4eceff92bfce14245bb94c83" title="Evaluates each polynomial in the given sturm chain at the value x. " alt="" coords="363,312,493,353"/>
+<area shape="rect" id="node13" href="$namespaceartvision__instanton.html#a94200f0825d8fb89a9c219c8df09de3f" title="Determines the number of sign changes in the vector going left to right. " alt="" coords="363,377,493,419"/>
+<area shape="rect" id="node12" href="$namespaceartvision__instanton.html#acefc98ae1ada2f1a335f071c7926c6e0" title="Evaluates the polynomial P at x. " alt="" coords="541,312,672,353"/>
+<area shape="rect" id="node14" href="$namespaceartvision__instanton.html#adc1e30b0cec389f6c8e8b5512b69fb2e" title="artvision_instanton\l::sign" alt="" coords="541,377,672,419"/>
+</map>

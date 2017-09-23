@@ -1,0 +1,14 @@
+<map id="artvision::PinholeLensModel::undistort_image" name="artvision::PinholeLensModel::undistort_image">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_image.html#a26334124ea185241a9af99e03bdd6385" title="Get the dimensions of the image. " alt="" coords="275,5,405,47"/>
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_image.html#a8fe378f1d9a2fbeb89112b9c9600bdd6" title="artvision_instanton\l::Image::height" alt="" coords="275,71,405,112"/>
+<area shape="rect" id="node4" href="$classartvision_1_1_pinhole_lens_model.html#a44aa5928a3a3a9163828486cc472952d" title="Get K matrix as a const function. " alt="" coords="239,137,441,163"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#ae7ddea6e66a6048556b4f1e119603636" title="artvision_instanton\l::CopyVector9" alt="" coords="275,188,405,229"/>
+<area shape="rect" id="node6" href="$ioapi_8h.html#a787fa3cf048117ba7123753c1e74fcd6" title="int" alt="" coords="602,479,641,506"/>
+<area shape="rect" id="node7" href="$classartvision_1_1_pinhole_lens_model.html#a86893bf36c3fd1f6b55e7550d2c21b04" title="take a point from image and project it to calibrated space " alt="" coords="247,253,433,295"/>
+<area shape="rect" id="node9" href="$classartvision_1_1_pinhole_lens_model.html#abd9de492e2e85e742611796fdfb2f749" title="Takes a point from calibrated space and projects it to image. " alt="" coords="247,319,433,360"/>
+<area shape="rect" id="node10" href="$namespaceartvision__instanton.html#a13f6fbbe42247d249a6d070c3c33446f" title="artvision_instanton\l::round" alt="" coords="275,436,405,477"/>
+<area shape="rect" id="node11" href="$classartvision__instanton_1_1_image.html#aa2721566b360cd4862e5b061e0a1a8ab" title="Get a pointer to the image data. " alt="" coords="275,501,405,543"/>
+<area shape="rect" id="node12" href="$namespaceartvision__instanton.html#afa84d0288f4c8164cfb4b8bbf69a6754" title="Perform bilinear interpolation. " alt="" coords="266,567,414,608"/>
+<area shape="rect" id="node13" href="$classartvision__instanton_1_1_image.html#abfe6de817ab2c75f289b7f679c3a1e54" title="artvision_instanton\l::Image::step" alt="" coords="275,632,405,673"/>
+<area shape="rect" id="node8" href="$namespaceartvision__instanton.html#aac7359704d1486d43ac7b00356511175" title="Multiply an in&#45;homogenous point by a transform. " alt="" coords="489,287,753,328"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="artvision_instanton::Sample" name="artvision_instanton::Sample">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_attitude_sample.html" title="Represents an attitude sample for the framework pipeline. " alt="" coords="196,5,327,47"/>
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_id_sample.html" title="Generic class to encapsulate any sample related to Ids. " alt="" coords="196,71,327,112"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_image_sample.html" title="Sample for all images passing through the framework pipeline. " alt="" coords="196,136,327,177"/>
+<area shape="rect" id="node5" href="$classartvision__instanton_1_1_interest_points_sample.html" title="artvision_instanton\l::InterestPointsSample" alt="" coords="184,201,339,243"/>
+<area shape="rect" id="node6" href="$classartvision__instanton_1_1_pose_sample.html" title="Represents a rotation and translation. " alt="" coords="196,267,327,308"/>
+<area shape="rect" id="node7" href="$classartvision__instanton_1_1_pyramid_sample.html" title="artvision_instanton\l::PyramidSample" alt="" coords="196,332,327,373"/>
+<area shape="rect" id="node8" href="$classartvision__instanton_1_1_sample_tuple.html" title="artvision_instanton\l::SampleTuple" alt="" coords="196,397,327,439"/>
+</map>

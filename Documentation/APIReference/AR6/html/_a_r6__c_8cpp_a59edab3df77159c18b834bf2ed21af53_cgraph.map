@@ -1,0 +1,5 @@
+<map id="arwSetTrackerOptionFloat" name="arwSetTrackerOptionFloat">
+<area shape="rect" id="node2" href="$class_a_r_controller.html#a8de280cc3c3c583b5fe08a93835aa4e0" title="ARController::getSquareTracker" alt="" coords="228,5,436,32"/>
+<area shape="rect" id="node3" href="$class_a_r_tracker_square.html#ad3549eb660b194dbc87c5383b1cb2b4d" title="ARTrackerSquare::setPatt\lRatio" alt="" coords="244,57,420,98"/>
+<area shape="rect" id="node4" href="$ar_create_handle_8c.html#a4afbac011922600f2f3ee33337b8f526" title="Set the width/height of the marker pattern space, as a proportion of marker width/height. " alt="" coords="484,64,592,91"/>
+</map>

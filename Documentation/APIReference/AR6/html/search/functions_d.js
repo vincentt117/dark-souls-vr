@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['name',['name',['../classartvision__instanton_1_1_filter.html#a10db18def7f8e09741de41467d3bf589',1,'artvision_instanton::Filter::name()'],['../classartvision__instanton_1_1_stream.html#aef76079019e4f47542ef06754038bbe0',1,'artvision_instanton::Stream::name()']]],
+  ['ncc',['ncc',['../namespaceartvision__instanton.html#a98b490948a290f738651f321eed6bf72',1,'artvision_instanton::ncc(float A1, float C1, float A2, float C2, const unsigned char *u, const unsigned char *v, int n)'],['../namespaceartvision__instanton.html#a4fbbb1601a1394f4503a63aace8abc35',1,'artvision_instanton::ncc(T A1, T C1, T A2, T C2, const T *u, const T *v, int n)'],['../namespaceartvision__instanton.html#a7dbdca4e9cf383e71c2f07a0a48b4c7d',1,'artvision_instanton::ncc(const T *u, const T *v, int n)'],['../namespaceartvision__instanton.html#a74f82cd3d715908104824f3ff67d2938',1,'artvision_instanton::ncc(const T A1, const T C1, const int ins_x, const int ins_y, const int rhw, const int rhh, const int n, const unsigned char *ins, const int ins_width, const unsigned char *ref, const int ref_width)']]],
+  ['ncccpu',['nccCPU',['../namespaceartvision__instanton_1_1details.html#a64545afa12d78d9705729c27033a7377',1,'artvision_instanton::details']]],
+  ['ncckeyframe',['NCCKeyframe',['../classartvision__instanton_1_1_n_c_c_keyframe.html#aabbb345dab4bc9a9fc64a11aaf8a216b',1,'artvision_instanton::NCCKeyframe']]],
+  ['nccmatcher',['NCCMatcher',['../classartvision__instanton_1_1_n_c_c_matcher.html#aa654fe580ae6b5dce820e24625c758e7',1,'artvision_instanton::NCCMatcher']]],
+  ['nccscorefeatures',['NCCScoreFeatures',['../namespaceartvision__instanton.html#afb83898376bbe47049800bdfcc182d78',1,'artvision_instanton']]],
+  ['ncctemplatestore',['NCCTemplateStore',['../classartvision__instanton_1_1_n_c_c_template_store.html#a197a054d3207518d7c4e789c4e646e1d',1,'artvision_instanton::NCCTemplateStore']]],
+  ['newwithconfig',['newWithConfig',['../class_a_r_tracker.html#a2d84b5fceab5a106f075027a80bc6bcb',1,'ARTracker::newWithConfig()'],['../class_a_r_tracker2_d.html#abafd57bcd07a84abbdc7bf27ed3b55a9',1,'ARTracker2D::newWithConfig()'],['../class_a_r_tracker_square.html#aa23507c7feb9d02ba2216949c743dba7',1,'ARTrackerSquare::newWithConfig()']]],
+  ['nftw',['nftw',['../ftw_8h.html#a42066b415d9db174f2c040f5b739346b',1,'ftw.h']]],
+  ['nftw64',['nftw64',['../ftw_8h.html#a5fb762cf681fe067cf005cbca095e00d',1,'ftw.h']]],
+  ['normalizehomography',['NormalizeHomography',['../namespaceartvision__instanton.html#a346aad18ded6dcb188124e2b663e2824',1,'artvision_instanton']]],
+  ['normalizequaternion',['NormalizeQuaternion',['../namespaceartvision__instanton.html#a1fa75eeba87180bee6aee2ab3c07be5a',1,'artvision_instanton']]],
+  ['normalizevector',['NormalizeVector',['../namespaceartvision__instanton.html#af121320941cf6d1ddc84e765ca3925dd',1,'artvision_instanton']]],
+  ['normsquared',['NormSquared',['../namespaceartvision__instanton.html#aa04a165fc5df84cc3f5d9a21d782e564',1,'artvision_instanton']]],
+  ['nullattitudelistener',['NullAttitudeListener',['../classartvision__instanton_1_1_null_attitude_listener.html#a38467781d17a6f66182f4e4093b4363c',1,'artvision_instanton::NullAttitudeListener']]],
+  ['nullcameralistener',['NullCameraListener',['../classartvision__instanton_1_1_null_camera_listener.html#adbdd5242d00d1697a972f15f412d2468',1,'artvision_instanton::NullCameraListener']]],
+  ['num_5fiterations',['num_iterations',['../classartvision_1_1_radial_lens_model.html#a7111a3c2950d7f8de296360fcef90e1b',1,'artvision::RadialLensModel']]],
+  ['numbuckets',['numBuckets',['../classartvision__instanton_1_1_n_c_c_matcher.html#a82d4d6af3cd2591d78acdd4ada66bb01',1,'artvision_instanton::NCCMatcher']]],
+  ['numframes',['numFrames',['../classartvision__instanton_1_1_track_index.html#aad87675e8e9b9f82b3a86412fe5bf9b6',1,'artvision_instanton::TrackIndex']]],
+  ['numnumbucketsx',['numNumBucketsX',['../classartvision__instanton_1_1_harris_detector.html#ab689cb541bccc6a1d7e8b715064c40a6',1,'artvision_instanton::HarrisDetector']]],
+  ['numnumbucketsy',['numNumBucketsY',['../classartvision__instanton_1_1_harris_detector.html#a9b9f07e3c00bd61e280e4222d062eae4',1,'artvision_instanton::HarrisDetector']]],
+  ['numoctaves',['numOctaves',['../classartvision__instanton_1_1_gaussian_scale_space_pyramid.html#a9ff1ea1b99d3ecccba241d5c59a4be0a',1,'artvision_instanton::GaussianScaleSpacePyramid::numOctaves()'],['../namespaceartvision__instanton.html#a5e08d75f6f1d91380ba47b8717d3131b',1,'artvision_instanton::numOctaves()']]],
+  ['numpixels',['numPixels',['../classartvision__instanton_1_1_n_c_c_template_store.html#a0612de74a3b46413c131faf8e485f118',1,'artvision_instanton::NCCTemplateStore']]],
+  ['numscalesperoctave',['numScalesPerOctave',['../classartvision__instanton_1_1_gaussian_scale_space_pyramid.html#a9c386483b076c46c5be59cdd9f7563c7',1,'artvision_instanton::GaussianScaleSpacePyramid']]]
+];

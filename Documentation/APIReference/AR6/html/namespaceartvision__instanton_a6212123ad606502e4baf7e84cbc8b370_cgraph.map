@@ -1,0 +1,7 @@
+<map id="artvision_instanton::PolyDiv" name="artvision_instanton::PolyDiv">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#a4b6456b962a78866d637a25562624979" title="Asserts that the polynomial is set and is valid. " alt="" coords="363,27,535,68"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#aab53be7d4b926fe6711274d5d8b2245f" title="Scales a polynomial by a constant factor s. " alt="" coords="184,27,315,68"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#a675b15a6a716970f66edd98bdc261d73" title="Subracts two polynomials. " alt="" coords="184,92,315,134"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#a6623718f13ae700d2ac4a41bddc62648" title="Removes the leading zeros – makes the deque a valid polynomial. " alt="" coords="184,158,315,199"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#abfab8b1bd712b039f3737dcaf16f030a" title="artvision_instanton\l::max2" alt="" coords="383,92,514,134"/>
+</map>

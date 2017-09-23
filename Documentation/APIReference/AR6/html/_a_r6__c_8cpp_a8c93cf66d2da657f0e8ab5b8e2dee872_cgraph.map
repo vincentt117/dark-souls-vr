@@ -1,0 +1,4 @@
+<map id="arwGetTrackerOptionBool" name="arwGetTrackerOptionBool">
+<area shape="rect" id="node2" href="$class_a_r_controller.html#a8de280cc3c3c583b5fe08a93835aa4e0" title="ARController::getSquareTracker" alt="" coords="233,5,441,32"/>
+<area shape="rect" id="node3" href="$class_a_r_tracker_square.html#a7c15af1df6d0434e46643a59966d5aef" title="Returns whether debug mode is currently enabled. " alt="" coords="225,56,448,83"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="arwSetTrackerOptionInt" name="arwSetTrackerOptionInt">
+<area shape="rect" id="node2" href="$class_a_r_controller.html#af7f2ae7863732f426de2df973abf3340" title="ARController::get2DTracker" alt="" coords="242,5,426,32"/>
+<area shape="rect" id="node3" href="$class_a_r_tracker2_d.html#a2442c2afc994c9f4cc1d191bbfc3e42b" title="ARTracker2D::setMaxSimultaneous\lTrackedImages" alt="" coords="218,57,450,98"/>
+<area shape="rect" id="node4" href="$class_a_r_controller.html#a8de280cc3c3c583b5fe08a93835aa4e0" title="ARController::getSquareTracker" alt="" coords="230,123,438,149"/>
+<area shape="rect" id="node5" href="$class_a_r_tracker_square.html#aa1d7bb8d4a238ad6ab122aaa1b6c606e" title="Sets the threshold value used for image binarization. " alt="" coords="229,173,439,200"/>
+<area shape="rect" id="node7" href="$class_a_r_tracker_square.html#afe46d849fc9ebe0430e59932ba8cb66c" title="Sets the thresholding mode to use. " alt="" coords="213,224,455,251"/>
+<area shape="rect" id="node11" href="$class_a_r_tracker_square.html#a62b32d13a3efb6d22a5627725739095e" title="Sets the labeling mode to use. " alt="" coords="218,275,450,301"/>
+<area shape="rect" id="node13" href="$class_a_r_tracker_square.html#ad13399664b282a8f7f124673fa1d2d07" title="ARTrackerSquare::setPattern\lDetectionMode" alt="" coords="237,326,431,367"/>
+<area shape="rect" id="node15" href="$class_a_r_tracker_square.html#ab2bc924411b08fec5f392280351fe3d8" title="ARTrackerSquare::setMatrix\lCodeType" alt="" coords="240,391,428,433"/>
+<area shape="rect" id="node17" href="$class_a_r_tracker_square.html#a2c79ed2634caf584df6b3e0a3bc2d525" title="ARTrackerSquare::setImage\lProcMode" alt="" coords="240,457,428,498"/>
+<area shape="rect" id="node6" href="$ar_create_handle_8c.html#ad36c1f16292bb544e4a28a55831bf20b" title="Set the labeling threshhold. " alt="" coords="523,173,665,200"/>
+<area shape="rect" id="node8" href="$ar_create_handle_8c.html#a39e6a9d03584bb43ee3fae4925feaff2" title="Set the labeling threshold mode (auto/manual). " alt="" coords="507,224,681,251"/>
+<area shape="rect" id="node9" href="$ar_image_proc_8c.html#a99a7b2bbb653be2ecc772ceed7159ce1" title="Finish image processing and free memory. " alt="" coords="733,199,857,225"/>
+<area shape="rect" id="node10" href="$ar_image_proc_8c.html#a40df944801ad1069f667b366eba16855" title="Initialise image processing. " alt="" coords="738,249,853,276"/>
+<area shape="rect" id="node12" href="$ar_create_handle_8c.html#a6cc43eaed20a4dcf1e6c72a687abcaaa" title="Select between detection of black markers and white markers. " alt="" coords="527,275,661,301"/>
+<area shape="rect" id="node14" href="$ar_create_handle_8c.html#a553658b36c1d9c989b7ed7cb05ef2efd" title="Set the pattern detection mode. " alt="" coords="503,333,685,360"/>
+<area shape="rect" id="node16" href="$ar_create_handle_8c.html#a4e428e6aa80696fd1520ce2a565b2338" title="Set the size and ECC algorithm to be used for matrix code (2D barcode) marker detection. " alt="" coords="519,399,669,425"/>
+<area shape="rect" id="node18" href="$ar_create_handle_8c.html#a40682ca5527dcdaa69d8695c398f02e2" title="Set the image processing mode. " alt="" coords="520,464,668,491"/>
+</map>

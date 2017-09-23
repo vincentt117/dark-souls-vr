@@ -1,0 +1,6 @@
+include ':ARTrackingExample', 'AR6J'
+
+project(':AR6J').projectDir = new File('../../../../../Source/AR6J/AR6JProj/AR6J')
+
+//If you want to implement AR6J and test the changes with ARTrackingExample remove the
+// comments from the AR6J lib above and see the ARTrackingExample build.gradle file in dependencies.

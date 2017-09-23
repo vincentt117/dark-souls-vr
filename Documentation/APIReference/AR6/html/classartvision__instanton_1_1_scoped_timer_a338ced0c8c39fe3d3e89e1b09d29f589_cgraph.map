@@ -1,0 +1,6 @@
+<map id="artvision_instanton::ScopedTimer::~ScopedTimer" name="artvision_instanton::ScopedTimer::~ScopedTimer">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_timer.html#a63f0eb44b27402196590a03781515dba" title="Stop the timer. " alt="" coords="255,5,386,47"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_timer.html#a8892da4ea9dc503f5b9e17ba8ece0b00" title="Get the timer in milliseconds. " alt="" coords="253,70,388,126"/>
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_timer.html#a0289effad7b573c508bc27e405900a23" title="Pause timer usage: pause the timer. " alt="" coords="438,5,569,47"/>
+<area shape="rect" id="node5" href="$classartvision__instanton_1_1_timer.html#ae2825671b9ca2365d983d573193fe712" title="Get the timer in seconds. " alt="" coords="436,70,571,126"/>
+</map>

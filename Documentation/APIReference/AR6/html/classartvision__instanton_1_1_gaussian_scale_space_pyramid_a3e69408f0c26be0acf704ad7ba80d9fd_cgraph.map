@@ -1,0 +1,18 @@
+<map id="artvision_instanton::GaussianScaleSpacePyramid::locate" name="artvision_instanton::GaussianScaleSpacePyramid::locate">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_gaussian_scale_space_pyramid.html#a7e757a47849dfa91d8945b8addf76c58" title="Locate a SIGMA on the pyramid. " alt="" coords="256,73,459,129"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#a531fdabc006461c4b4bc85c8ce1d244b" title="Use this function to downsample a point to an octave that was found from a bilinear downsampled pyram..." alt="" coords="264,185,451,227"/>
+<area shape="rect" id="node7" href="$classartvision__instanton_1_1_gaussian_scale_space_pyramid.html#a0f2b495abd2fda74331591eb3a37e006" title="artvision_instanton\l::GaussianScaleSpacePyramid\l::deepCopy" alt="" coords="256,250,459,306"/>
+<area shape="rect" id="node17" href="$classartvision__instanton_1_1_gaussian_scale_space_pyramid.html#a4315689784985af0e15a6b2fd91949f9" title="artvision_instanton\l::GaussianScaleSpacePyramid\l::operator==" alt="" coords="256,330,459,386"/>
+<area shape="rect" id="node3" href="$ioapi_8h.html#a787fa3cf048117ba7123753c1e74fcd6" title="int" alt="" coords="963,71,1001,98"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#aabfdfd6e431693d8b92948d037feaf4f" title="artvision_instanton::log" alt="" coords="507,122,663,149"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#a13f6fbbe42247d249a6d070c3c33446f" title="artvision_instanton\l::round" alt="" coords="519,5,650,47"/>
+<area shape="rect" id="node8" href="$classartvision__instanton_1_1_image.html#aa2c82bdd1f3bd615c52618e532daae8a" title="Copy functions. " alt="" coords="518,267,651,308"/>
+<area shape="rect" id="node9" href="$classartvision__instanton_1_1_image.html#af2b536a2073964b44f3328d7b9a5853a" title="Allocate the image data. " alt="" coords="711,275,841,316"/>
+<area shape="rect" id="node11" href="$classartvision__instanton_1_1_image.html#abfe6de817ab2c75f289b7f679c3a1e54" title="artvision_instanton\l::Image::step" alt="" coords="917,188,1047,229"/>
+<area shape="rect" id="node13" href="$classartvision__instanton_1_1_image.html#ac6859f6426c8d6729f2ada431148506f" title="Get the image type. " alt="" coords="917,371,1047,412"/>
+<area shape="rect" id="node14" href="$classartvision__instanton_1_1_image.html#a8376556c69707ff32d49a1e2b3d63a43" title="artvision_instanton\l::Image::channels" alt="" coords="917,436,1047,477"/>
+<area shape="rect" id="node15" href="$classartvision__instanton_1_1_image.html#a26334124ea185241a9af99e03bdd6385" title="Get the dimensions of the image. " alt="" coords="917,501,1047,543"/>
+<area shape="rect" id="node16" href="$classartvision__instanton_1_1_image.html#a8fe378f1d9a2fbeb89112b9c9600bdd6" title="artvision_instanton\l::Image::height" alt="" coords="917,123,1047,164"/>
+<area shape="rect" id="node10" href="$classartvision__instanton_1_1_image.html#a5da9991c89d2324c7ec145973298c130" title="artvision_instanton\l::Image::size" alt="" coords="1123,283,1253,324"/>
+<area shape="rect" id="node12" href="$classartvision__instanton_1_1_image.html#a31fdf398f739c5eccf617ae7e20c88ab" title="Calculate the size of a single unit. " alt="" coords="889,253,1075,295"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ARController::videoParameters" name="ARController::videoParameters">
+<area shape="rect" id="node2" href="$class_a_r_video_source.html#abee133d378f5c800b9184a983b02a46d" title="Returns the width of the video in pixels. " alt="" coords="258,5,466,32"/>
+<area shape="rect" id="node3" href="$class_a_r_video_source.html#ad891987fbd5707889d159319841f866d" title="Returns the height of the video in pixels. " alt="" coords="256,56,468,83"/>
+<area shape="rect" id="node4" href="$class_a_r_video_source.html#aa7b003e7ab2ce739d0940172bd91ca3c" title="Returns the pixel format of the video. " alt="" coords="257,107,467,133"/>
+</map>

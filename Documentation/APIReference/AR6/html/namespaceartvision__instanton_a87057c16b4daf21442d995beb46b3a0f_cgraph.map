@@ -1,0 +1,6 @@
+<map id="artvision_instanton::EstimateHomographyFromQuaternionPair" name="artvision_instanton::EstimateHomographyFromQuaternionPair">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#aa597f9135b078c157bf7bb51a02157f9" title="Invert a calibration matrix (K). " alt="" coords="341,5,503,47"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#ad25bd0a6cf65d9e6e6735d1c2945a50b" title="Inverse of the Quaternion. " alt="" coords="354,71,490,112"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#a474be183189084c258078959eaf4da00" title="Quaternion to Rotation Matrix. " alt="" coords="325,136,519,177"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#a77d8d8df593b392f9d9c81a9d70eaa2e" title="C = A*B where A,B and C are 3x3 matrices. " alt="" coords="357,201,487,243"/>
+</map>

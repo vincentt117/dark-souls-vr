@@ -1,0 +1,17 @@
+<map id="ARTrackableMultiSquare::load" name="ARTrackableMultiSquare::load">
+<area shape="rect" id="node2" href="$class_a_r_trackable_multi_square.html#a57881bb2ce7acf1852db2ee6665cd0f4" title="ARTrackableMultiSquare\l::unload" alt="" coords="237,57,403,98"/>
+<area shape="rect" id="node5" href="$ar_multi_read_config_file_8c.html#ad54b103e4097609ddc76b1e721eb20eb" title="arMultiReadConfigFile" alt="" coords="245,140,395,167"/>
+<area shape="rect" id="node14" href="$class_a_r_trackable.html#a913458e15352cfd5488f893c95f9c4f5" title="Allocates space for patterns within this marker. " alt="" coords="220,5,420,32"/>
+<area shape="rect" id="node15" href="$class_a_r_trackable_appearance.html#a9c872ae6cf5c3a16762c0a931e341548" title="ARTrackableAppearance\l::loadTemplate" alt="" coords="237,191,403,233"/>
+<area shape="rect" id="node16" href="$class_a_r_trackable_appearance.html#a5f40fc9fd7aa907696081a43ff24d105" title="ARTrackableAppearance\l::loadMatrix" alt="" coords="237,257,403,298"/>
+<area shape="rect" id="node3" href="$class_a_r_trackable.html#aa425f1e3e1ba8d8b39ec6a34f8e2f403" title="Frees allocated patterns and resets the pattern count to zero. " alt="" coords="489,5,666,32"/>
+<area shape="rect" id="node4" href="$ar_multi_free_config_8c.html#a0f33d2031514e1b5af6ba4dfa152633f" title="arMultiFreeConfig" alt="" coords="515,56,640,83"/>
+<area shape="rect" id="node6" href="$ar_util_8c.html#ae4f3e60c7edce9acfdddb9b454d13c1d" title="arUtilGetDirectoryNameFromPath" alt="" coords="468,107,687,133"/>
+<area shape="rect" id="node7" href="$ar_patt_load_8c.html#a6c3899cc1122ad7ae5bd93b4c00a64cf" title="Load a pattern file into a pattern handle. " alt="" coords="535,157,620,184"/>
+<area shape="rect" id="node9" href="$ioapi_8h.html#a787fa3cf048117ba7123753c1e74fcd6" title="int" alt="" coords="558,208,597,235"/>
+<area shape="rect" id="node10" href="$ar_util_8c.html#a97c94e6c703a2e449272302c925944d1" title="arUtilMatInv" alt="" coords="531,259,624,285"/>
+<area shape="rect" id="node8" href="$ar_patt_load_8c.html#a1eb242ab9531966ab8bd8a5379e78792" title="arPattLoadFromBuffer" alt="" coords="735,157,885,184"/>
+<area shape="rect" id="node11" href="$_a_r_2include_2_a_r6_2_a_r_2matrix_8h.html#a7169e4124d09fcbe1b8730ade678d64d" title="arMatrixAlloc" alt="" coords="761,208,859,235"/>
+<area shape="rect" id="node12" href="$_a_r_2include_2_a_r6_2_a_r_2matrix_8h.html#a929738025b539a0c1bbd2f395ad4d981" title="arMatrixSelfInv" alt="" coords="755,259,865,285"/>
+<area shape="rect" id="node13" href="$_a_r_2include_2_a_r6_2_a_r_2matrix_8h.html#ac4b7a714cce9fffda773d86363380454" title="arMatrixFree" alt="" coords="763,309,857,336"/>
+</map>

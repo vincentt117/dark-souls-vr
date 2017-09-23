@@ -1,0 +1,6 @@
+<map id="artvision_instanton::SolveLinearSystem2x2" name="artvision_instanton::SolveLinearSystem2x2">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#a4d3b09060d8477d50f766af30968b941" title="Compute the inverse of a 2x2 matrix. " alt="" coords="217,5,348,47"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#a6bde8cd1dfa63f4eaf095ea673e3da1e" title="y = A*x where A is a 2x2 and x is a 2x1. " alt="" coords="217,71,348,112"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#a435aede11734cf5615ef1d0c406b5a36" title="Compute the determinant of a 2x2 matrix. " alt="" coords="396,5,527,47"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#abff23e96b142933b36f258f57fa6fd84" title="Computes the cofactor of a 2x2 matrix. " alt="" coords="575,5,705,47"/>
+</map>

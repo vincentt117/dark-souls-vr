@@ -1,0 +1,8 @@
+<map id="artvision::PinholeLensModel::operator=" name="artvision::PinholeLensModel::operator=">
+<area shape="rect" id="node2" href="$classartvision_1_1_pinhole_lens_model.html#a5196cba98725a41061f90135e8b7a735" title="get width and height " alt="" coords="247,5,433,47"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#abdbe4d81301554bf8ac25414dcd8c43e" title="artvision_instanton\l::CastVector" alt="" coords="275,71,405,112"/>
+<area shape="rect" id="node4" href="$classartvision_1_1_pinhole_lens_model.html#a44aa5928a3a3a9163828486cc472952d" title="Get K matrix as a const function. " alt="" coords="239,137,441,163"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#aa597f9135b078c157bf7bb51a02157f9" title="Invert a calibration matrix (K). " alt="" coords="259,188,421,229"/>
+<area shape="rect" id="node6" href="$classartvision_1_1_pinhole_lens_model.html#a7372883d635b6a7df91b08a5775889b5" title="get the rectangle range of calibrated pixels correspondes to image range " alt="" coords="247,253,433,295"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#a0946b2aef5bb7922ab5d0161fef6ff88" title="Vector copy functions. " alt="" coords="489,253,620,295"/>
+</map>

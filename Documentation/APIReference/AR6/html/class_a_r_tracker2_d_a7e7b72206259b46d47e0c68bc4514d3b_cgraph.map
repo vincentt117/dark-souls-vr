@@ -1,0 +1,22 @@
+<map id="ARTracker2D::update" name="ARTracker2D::update">
+<area shape="rect" id="node2" href="$class_a_r_tracker2_d.html#acf206b0c66042ea3ec2c540dd4996deb" title="ARTracker2D::isRunning" alt="" coords="228,5,396,32"/>
+<area shape="rect" id="node3" href="$class_tracker_pipeline.html#ade14435bcbb0e019d1e36e0fd19f73a0" title="TrackerPipeline::Recognize\lAndTrack" alt="" coords="221,57,403,98"/>
+<area shape="rect" id="node4" href="$ioapi_8h.html#a787fa3cf048117ba7123753c1e74fcd6" title="int" alt="" coords="293,123,331,149"/>
+<area shape="rect" id="node5" href="$class_tracker_pipeline.html#a15056ab90e5bd28d8cd331aa28d92b63" title="TrackerPipeline::UpdateSmoother" alt="" coords="203,173,421,200"/>
+<area shape="rect" id="node6" href="$class_a_r_trackable2_d.html#a512eecccffb708b5033db319502cc86a" title="ARTrackable2D::updateWith2\lDTrackingResults" alt="" coords="471,166,667,207"/>
+<area shape="rect" id="node15" href="$class_tracker_pipeline.html#a15a827599e042391ef455a68840c626c" title="TrackerPipeline::AddTarget\lImage" alt="" coords="222,275,402,317"/>
+<area shape="rect" id="node19" href="$class_tracker_pipeline.html#a7095a927792abd7c765d4c08dafb6e33" title="TrackerPipeline::AddSmoother" alt="" coords="213,341,411,368"/>
+<area shape="rect" id="node20" href="$class_tracker_pipeline.html#a8164d59907fd0948082c7bbb4b84d941" title="TrackerPipeline::InitRecognizer" alt="" coords="210,392,414,419"/>
+<area shape="rect" id="node21" href="$class_tracker_pipeline.html#a25dfcd851ca745d5314783adc173079b" title="TrackerPipeline::InitTracker" alt="" coords="221,443,403,469"/>
+<area shape="rect" id="node7" href="$class_a_r_trackable.html#a445a8894d99c98bc966ebff530d58278" title="Completes an update begun in the parent class, performing filtering, generating OpenGL view matrix an..." alt="" coords="716,173,861,200"/>
+<area shape="rect" id="node8" href="$ar_filter_trans_mat_8c.html#a575d29079692c1af23b19f0477ee2123" title="Filters the supplied pose estimate transformation matrix in&#45;place. " alt="" coords="922,97,1039,124"/>
+<area shape="rect" id="node12" href="$param_g_l_8h.html#a069eee4b7a32208a45b8c438283e9a7f" title="arglCameraViewRHf" alt="" coords="909,148,1052,175"/>
+<area shape="rect" id="node13" href="$param_g_l_8h.html#a21250f8dd05058fe653e4a0116e7f592" title="Create an OpenGL viewing transformation matrix. " alt="" coords="911,199,1050,225"/>
+<area shape="rect" id="node14" href="$ar_util_8c.html#ae28eeba3e16224a7d77b46bd34b8f4fe" title="arUtilMatMul" alt="" coords="933,249,1029,276"/>
+<area shape="rect" id="node9" href="$ar_util_8c.html#adb4a9f8d233d3b954fd85bbb3deda173" title="arUtilMat2QuatPos" alt="" coords="1100,47,1233,73"/>
+<area shape="rect" id="node10" href="$ar_util_8c.html#aa543b10d8b401ccf5626aba7dfa12e09" title="arUtilQuatNorm" alt="" coords="1110,97,1223,124"/>
+<area shape="rect" id="node11" href="$ar_util_8c.html#a016bf9cc45eee7cd9eae471cecc68e9a" title="arUtilQuatPos2Mat" alt="" coords="1100,148,1233,175"/>
+<area shape="rect" id="node16" href="$class_a_r_trackable2_d.html#a077b2f77ba3440b291a5e7ea56fd72ca" title="ARTrackable2D::getRefImage\lWidth" alt="" coords="469,231,668,273"/>
+<area shape="rect" id="node17" href="$class_a_r_trackable2_d.html#a53f04623f5ed8f039b0a357073a99fb8" title="ARTrackable2D::getRefImage\lHeight" alt="" coords="469,297,668,338"/>
+<area shape="rect" id="node18" href="$class_a_r_trackable2_d.html#aa627214d857b1c6eb9f884c70407e256" title="ARTrackable2D::getRefImage" alt="" coords="469,363,668,389"/>
+</map>

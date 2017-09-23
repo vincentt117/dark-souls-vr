@@ -1,0 +1,5 @@
+<map id="ARTrackableSquare" name="ARTrackableSquare">
+<area shape="rect" id="node2" href="$class_a_r_trackable.html" title="Base class for supported marker types. " alt="" coords="39,95,138,121"/>
+<area shape="rect" id="node3" href="$class_a_r_trackable_appearance.html" title="Encapsulates information about a sub&#45;component of a marker useful for presentation to a user..." alt="" coords="5,5,172,32"/>
+<area shape="rect" id="node4" href="$struct_a_r_patt_handle.html" title="A structure which holds descriptions of trained patterns for template matching. " alt="" coords="162,95,269,121"/>
+</map>

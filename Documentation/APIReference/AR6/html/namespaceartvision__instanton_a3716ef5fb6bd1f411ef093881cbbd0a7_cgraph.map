@@ -1,0 +1,6 @@
+<map id="artvision_instanton::UpdateRigidTransformPostMultiply" name="artvision_instanton::UpdateRigidTransformPostMultiply">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#ae2f91e798164e94f8da847fa07dc5dec" title="Extract a rotation matrix and translation from a projection matrix. " alt="" coords="241,5,428,47"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#ae45ee6891c87f52629c7cc8682f2de46" title="Compute the Rodrigues rotation matrix. " alt="" coords="265,71,404,112"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#a77d8d8df593b392f9d9c81a9d70eaa2e" title="C = A*B where A,B and C are 3x3 matrices. " alt="" coords="269,136,400,177"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#a4a34a017c3300e59d4404b63b3b24125" title="Create a projection matrix from a rotation matrix (R) and translation (t) of the camera. " alt="" coords="243,201,427,243"/>
+</map>

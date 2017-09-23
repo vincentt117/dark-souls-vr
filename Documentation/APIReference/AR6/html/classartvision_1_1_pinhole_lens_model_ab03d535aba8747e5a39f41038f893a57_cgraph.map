@@ -1,0 +1,7 @@
+<map id="artvision::PinholeLensModel::adapt_to_pyramid_level" name="artvision::PinholeLensModel::adapt_to_pyramid_level">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#a0f2d3bf9a5f7cda3645e2dc5e62d9c5a" title="Scale a calibration matrix (K). " alt="" coords="251,5,412,47"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#aa597f9135b078c157bf7bb51a02157f9" title="Invert a calibration matrix (K). " alt="" coords="251,71,412,112"/>
+<area shape="rect" id="node4" href="$classartvision_1_1_pinhole_lens_model.html#a27f1b3550e2167e1d23dfb1e2c21d534" title="Compute mMaxCalibPixel and mMinCalibPixel, which are the max and min values of valid calibrated pixel..." alt="" coords="239,135,424,191"/>
+<area shape="rect" id="node5" href="$classartvision_1_1_pinhole_lens_model.html#a86893bf36c3fd1f6b55e7550d2c21b04" title="take a point from image and project it to calibrated space " alt="" coords="472,143,657,184"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#aac7359704d1486d43ac7b00356511175" title="Multiply an in&#45;homogenous point by a transform. " alt="" coords="705,143,969,184"/>
+</map>

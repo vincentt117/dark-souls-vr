@@ -1,0 +1,5 @@
+org.artoolkit.ar6.base
+org.artoolkit.ar6.base.assets
+org.artoolkit.ar6.base.camera
+org.artoolkit.ar6.base.rendering
+org.artoolkit.ar6.base.rendering.gles20

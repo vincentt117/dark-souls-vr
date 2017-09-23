@@ -1,0 +1,6 @@
+<map id="artvision_instanton::CameraFilter::start" name="artvision_instanton::CameraFilter::start">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_filter.html#a3e94d07d5bb67bbc930b1c3983445ec4" title="Start the filter. " alt="" coords="192,39,323,80"/>
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_task.html#a5d6a1d3c6cd5b587d2414737fab9f3ed" title="Start the task. " alt="" coords="371,5,501,47"/>
+<area shape="rect" id="node5" href="$classartvision__instanton_1_1_task.html#aed1edcdf4d79cbdb49a6f8fb4ef1fe98" title="set_up: a place for resource allocation for/in the svc() thread after its starting point ..." alt="" coords="371,71,501,112"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_thread.html#a51bc5725c88a3c82465234fbaf271881" title="Create the thread. " alt="" coords="549,5,680,47"/>
+</map>

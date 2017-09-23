@@ -1,0 +1,7 @@
+<map id="ARController::displayFrame" name="ARController::displayFrame">
+<area shape="rect" id="node2" href="$class_a_r_view.html#a2a9d8ffb858475a2b1e7bebbe94481c6" title="ARView::draw" alt="" coords="236,107,343,134"/>
+<area shape="rect" id="node3" href="$class_a_r_video_source.html#a0870e3e3099fe2bede89980bc89c5e70" title="Checkout a locked video frame if the frame&#39;s timestamp is newer than &#39;time&#39;. " alt="" coords="391,5,604,47"/>
+<area shape="rect" id="node4" href="$arg_8c.html#a25cc1097132fc11d1acb6b37694b5d2a" title="Upload a buffer of pixel data to an OpenGL texture for later use by arglDispImage(). " alt="" coords="409,71,585,112"/>
+<area shape="rect" id="node5" href="$class_a_r_video_source.html#a3d4b14784d083ae76f43c8942cb9076b" title="Checkin a locked video frame. " alt="" coords="395,137,600,163"/>
+<area shape="rect" id="node6" href="$arg_8c.html#afdd586c0ba2cc7df1347cc0522c6777b" title="Display an ARVideo image, by drawing it using OpenGL. " alt="" coords="444,187,551,214"/>
+</map>

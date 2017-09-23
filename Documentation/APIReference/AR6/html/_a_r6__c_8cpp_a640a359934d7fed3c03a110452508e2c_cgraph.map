@@ -1,0 +1,28 @@
+<map id="arwCapture" name="arwCapture">
+<area shape="rect" id="node2" href="$class_a_r_controller.html#ac26f04fb95670b8d2023f52f69df55ac" title="Requests the capture of a new frame from the video source(s). " alt="" coords="143,259,291,285"/>
+<area shape="rect" id="node3" href="$class_a_r_video_source.html#a9079adb38c430b6f3dfcafef8221e5e9" title="Asks the video source to capture a frame. " alt="" coords="339,259,541,285"/>
+<area shape="rect" id="node4" href="$video_8h.html#a0dbd5f4535b07a354ab860dc1a28ba13" title="ar2VideoGetImage" alt="" coords="589,259,720,285"/>
+<area shape="rect" id="node5" href="$video_dummy_8h.html#a9d99f8db2e250352a561ed1f4815d787" title="ar2VideoGetImageDummy" alt="" coords="786,5,962,32"/>
+<area shape="rect" id="node6" href="$video_v4_l2_8h.html#a4ed571b37c42df8b8179d0fcc13e4dcf" title="ar2VideoGetImageV4L2" alt="" coords="794,56,954,83"/>
+<area shape="rect" id="node7" href="$video1394_8h.html#ab79fe53e260d3c16958b511e77625ea8" title="ar2VideoGetImage1394" alt="" coords="795,107,953,133"/>
+<area shape="rect" id="node8" href="$video_a_v_foundation_8h.html#aad99b0428037a3f727de35853639b851" title="ar2VideoGetImageAVFoundation" alt="" coords="768,157,980,184"/>
+<area shape="rect" id="node9" href="$video_image_8h.html#a011bf1d53feddc3494993d92115cc1ed" title="ar2VideoGetImageImage" alt="" coords="791,208,957,235"/>
+<area shape="rect" id="node10" href="$video_android_8h.html#a1a25a95765371fcdbf082424d4417661" title="ar2VideoGetImageAndroid" alt="" coords="787,259,961,285"/>
+<area shape="rect" id="node11" href="$time_8h.html#ab80828fdf39cd90319db43f6b56b0948" title="Get the time in seconds since midnight (00:00:00), January 1, 1970, coordinated universal time (UTC)..." alt="" coords="798,309,950,336"/>
+<area shape="rect" id="node12" href="$video2_8c.html#a7780fac88f8c59974d8d9fe6d4a8047a" title="ar2VideoGetPixelFormat" alt="" coords="792,360,956,387"/>
+<area shape="rect" id="node19" href="$video2_8c.html#acc7f53f8bda5c4e3fc3a9c662b5196fb" title="ar2VideoGetSize" alt="" coords="814,512,934,539"/>
+<area shape="rect" id="node26" href="$video_luma_8h.html#a6d74b1b7f2c20f3e81e3c416f2154267" title="arVideoLumaInit" alt="" coords="816,563,932,589"/>
+<area shape="rect" id="node27" href="$video_luma_8h.html#a639d18be34603fc2ab1835ee493baf55" title="arVideoLuma" alt="" coords="825,613,923,640"/>
+<area shape="rect" id="node13" href="$video_dummy_8h.html#aef5bd63c5abf5e4479664647c084644b" title="ar2VideoGetPixelFormatDummy" alt="" coords="1046,157,1257,184"/>
+<area shape="rect" id="node14" href="$video_v4_l2_8h.html#aab61669af9d839aa23ecd79d1c4bde5a" title="ar2VideoGetPixelFormatV4L2" alt="" coords="1054,208,1249,235"/>
+<area shape="rect" id="node15" href="$video1394_8h.html#a1eb40205f18baab9d12c0bc187e9b50e" title="ar2VideoGetPixelFormat1394" alt="" coords="1055,259,1247,285"/>
+<area shape="rect" id="node16" href="$video_a_v_foundation_8h.html#a98d99736ba21ff6f85c9da3e0e2acab8" title="ar2VideoGetPixelFormatAVFoundation" alt="" coords="1028,309,1275,336"/>
+<area shape="rect" id="node17" href="$video_image_8h.html#a4e14913d6bea4a02cd3d17ddd95e2544" title="ar2VideoGetPixelFormatImage" alt="" coords="1051,360,1251,387"/>
+<area shape="rect" id="node18" href="$video_android_8h.html#ac511ed131837c08ea6f17725dd87d2bc" title="ar2VideoGetPixelFormatAndroid" alt="" coords="1047,411,1255,437"/>
+<area shape="rect" id="node20" href="$video_dummy_8h.html#a98be3ece55a3751acf6653ccd4d76c57" title="ar2VideoGetSizeDummy" alt="" coords="1068,461,1235,488"/>
+<area shape="rect" id="node21" href="$video_v4_l2_8h.html#a4cd15e53200db9db8334fa4c42fc1b56" title="ar2VideoGetSizeV4L2" alt="" coords="1076,512,1227,539"/>
+<area shape="rect" id="node22" href="$video1394_8h.html#a8edcf3e75cdc9d9a0a46e5c949fe024c" title="ar2VideoGetSize1394" alt="" coords="1077,563,1225,589"/>
+<area shape="rect" id="node23" href="$video_a_v_foundation_8h.html#a039c73ba8a3e6ec85abe801637b2be6f" title="ar2VideoGetSizeAVFoundation" alt="" coords="1050,613,1253,640"/>
+<area shape="rect" id="node24" href="$video_image_8h.html#a0faf54541ccba547d219e20002c36302" title="ar2VideoGetSizeImage" alt="" coords="1073,664,1229,691"/>
+<area shape="rect" id="node25" href="$video_android_8h.html#aafb49599502c8ce1d9f2c360cbb86caa" title="ar2VideoGetSizeAndroid" alt="" coords="1069,715,1233,741"/>
+</map>

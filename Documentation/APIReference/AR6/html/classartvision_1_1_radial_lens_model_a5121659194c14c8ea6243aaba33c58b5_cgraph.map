@@ -1,0 +1,7 @@
+<map id="artvision::RadialLensModel::calibrated_to_image" name="artvision::RadialLensModel::calibrated_to_image">
+<area shape="rect" id="node2" href="$namespaceartvision.html#a9d00942da55ff02843646e3149adee50" title="Apply the lens model to a calibrated point. " alt="" coords="241,45,409,71"/>
+<area shape="rect" id="node5" href="$classartvision_1_1_pinhole_lens_model.html#a698271e618754ea1cd4e14dba19ca53b" title="Check if input calibrated pixel is valid or not. " alt="" coords="232,96,417,137"/>
+<area shape="rect" id="node6" href="$classartvision_1_1_pinhole_lens_model.html#abac8fad2c6d9e19dc86fcba8dd6dd3ab" title="Check if input image pixel is valid or not. " alt="" coords="232,161,417,203"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#afb233cb1aedda46513c8b085c60ed0c0" title="Compute the dot product. " alt="" coords="532,5,663,47"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#aac7359704d1486d43ac7b00356511175" title="Multiply an in&#45;homogenous point by a transform. " alt="" coords="465,71,729,112"/>
+</map>

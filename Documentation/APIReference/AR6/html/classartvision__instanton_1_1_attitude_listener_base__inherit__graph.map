@@ -1,0 +1,8 @@
+<map id="artvision_instanton::AttitudeListenerBase" name="artvision_instanton::AttitudeListenerBase">
+<area shape="rect" id="node5" href="$classartvision__instanton_1_1_android_attitude_listener.html" title="Implements an iOS specific attitude listener. " alt="" coords="771,5,936,47"/>
+<area shape="rect" id="node6" href="$classartvision__instanton_1_1i_o_s_attitude_listener.html" title="Implements an iOS specific attitude listener. " alt="" coords="782,71,925,112"/>
+<area shape="rect" id="node7" href="$classartvision__instanton_1_1_null_attitude_listener.html" title="artvision_instanton\l::NullAttitudeListener" alt="" coords="781,136,925,177"/>
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_listener_base.html" title="artvision_instanton\l::ListenerBase\&lt; attitude\l_data \&gt;" alt="" coords="363,63,524,119"/>
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_task.html" title="A task is a recurring event. " alt="" coords="184,71,315,112"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_runnable.html" title="artvision_instanton\l::Runnable" alt="" coords="5,71,136,112"/>
+</map>

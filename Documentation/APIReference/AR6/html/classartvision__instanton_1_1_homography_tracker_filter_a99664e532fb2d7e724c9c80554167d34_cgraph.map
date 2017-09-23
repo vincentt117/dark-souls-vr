@@ -1,0 +1,5 @@
+<map id="artvision_instanton::HomographyTrackerFilter::HomographyTrackerFilter" name="artvision_instanton::HomographyTrackerFilter::HomographyTrackerFilter">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_harris_n_c_c_homography_tracker.html#ad2fdd99f5136be93f4d0da430118723b" title="Get the Harris matcher. " alt="" coords="231,5,444,61"/>
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_harris_n_c_c_matcher.html#a797b92f6f637bf52cc3349ba8ec63366" title="Get the Harris detector. " alt="" coords="262,85,413,141"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_track_detector_base.html#a16931b8fb23c8ff8da1ae2c8c6c95108" title="Set/Get maximum number of points. " alt="" coords="266,165,409,221"/>
+</map>

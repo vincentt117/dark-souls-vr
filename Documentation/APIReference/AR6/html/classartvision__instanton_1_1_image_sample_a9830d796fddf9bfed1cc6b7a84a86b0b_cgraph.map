@@ -1,0 +1,14 @@
+<map id="artvision_instanton::ImageSample::deepCopy" name="artvision_instanton::ImageSample::deepCopy">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_image.html#aa2c82bdd1f3bd615c52618e532daae8a" title="Copy functions. " alt="" coords="241,243,374,284"/>
+<area shape="rect" id="node12" href="$classartvision__instanton_1_1_image_sample.html#a35c53a5db36e9a3dff1d53df5319536b" title="Get the image. " alt="" coords="231,308,384,349"/>
+<area shape="rect" id="node13" href="$classartvision__instanton_1_1_sample.html#a49f9a53122b15156492deb3f1f6ceb01" title="artvision_instanton\l::Sample::deepCopy" alt="" coords="237,373,378,415"/>
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_image.html#af2b536a2073964b44f3328d7b9a5853a" title="Allocate the image data. " alt="" coords="432,184,563,225"/>
+<area shape="rect" id="node5" href="$classartvision__instanton_1_1_image.html#abfe6de817ab2c75f289b7f679c3a1e54" title="artvision_instanton\l::Image::step" alt="" coords="638,5,769,47"/>
+<area shape="rect" id="node6" href="$ioapi_8h.html#a787fa3cf048117ba7123753c1e74fcd6" title="int" alt="" coords="684,71,723,98"/>
+<area shape="rect" id="node8" href="$classartvision__instanton_1_1_image.html#ac6859f6426c8d6729f2ada431148506f" title="Get the image type. " alt="" coords="638,239,769,280"/>
+<area shape="rect" id="node9" href="$classartvision__instanton_1_1_image.html#a8376556c69707ff32d49a1e2b3d63a43" title="artvision_instanton\l::Image::channels" alt="" coords="638,304,769,345"/>
+<area shape="rect" id="node10" href="$classartvision__instanton_1_1_image.html#a26334124ea185241a9af99e03bdd6385" title="Get the dimensions of the image. " alt="" coords="638,369,769,411"/>
+<area shape="rect" id="node11" href="$classartvision__instanton_1_1_image.html#a8fe378f1d9a2fbeb89112b9c9600bdd6" title="artvision_instanton\l::Image::height" alt="" coords="638,435,769,476"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_image.html#a5da9991c89d2324c7ec145973298c130" title="artvision_instanton\l::Image::size" alt="" coords="844,144,975,185"/>
+<area shape="rect" id="node7" href="$classartvision__instanton_1_1_image.html#a31fdf398f739c5eccf617ae7e20c88ab" title="Calculate the size of a single unit. " alt="" coords="611,173,796,215"/>
+</map>

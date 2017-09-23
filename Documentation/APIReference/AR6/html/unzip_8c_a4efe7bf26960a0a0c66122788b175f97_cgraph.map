@@ -1,0 +1,18 @@
+<map id="unzOpen" name="unzOpen">
+<area shape="rect" id="node2" href="$unzip_8c.html#abf9f03bc622c0405d398cc0088216290" title="unzOpenInternal" alt="" coords="128,524,245,551"/>
+<area shape="rect" id="node3" href="$ioapi_8h.html#a50e9e9d5c30e481de822ad68fe537986" title="uLong" alt="" coords="1772,144,1829,171"/>
+<area shape="rect" id="node4" href="$ioapi_8h.html#a39ab6d73c1cd44bc17064c2dcbb3e753" title="voidpf" alt="" coords="1772,727,1829,753"/>
+<area shape="rect" id="node5" href="$ioapi_8c.html#aa67e4de04de04bf2d1694febd74bd16f" title="fill_fopen64_filefunc" alt="" coords="293,904,431,931"/>
+<area shape="rect" id="node6" href="$unzip_8c.html#a62c48825905347807e4daaf8451809e7" title="unz64local_SearchCentralDir" alt="" coords="479,589,669,616"/>
+<area shape="rect" id="node7" href="$unzip_8c.html#ad6a67f9e44f1e69bfc5fbdf9c49faa7f" title="unz64local_SearchCentral\lDir64" alt="" coords="718,517,893,558"/>
+<area shape="rect" id="node8" href="$unzip_8c.html#ad3fe51136556c1c4a1e964a157d153ba" title="unz64local_getLong" alt="" coords="979,448,1116,475"/>
+<area shape="rect" id="node11" href="$unzip_8c.html#aca92d6709924f9c82ce13f0c18cc26b1" title="unz64local_getShort" alt="" coords="1584,296,1724,323"/>
+<area shape="rect" id="node13" href="$unzip_8c.html#a65165fb74a10780ee7b66e9c6c57da3c" title="unz64local_getLong64" alt="" coords="1201,600,1352,627"/>
+<area shape="rect" id="node14" href="$unzip_8c.html#a54821c0b6da683800164a56f2ae14f33" title="unzGoToFirstFile" alt="" coords="301,405,423,432"/>
+<area shape="rect" id="node12" href="$unzip_8c.html#a5f1693991177fe0570e4c9bf0b95e510" title="OF" alt="" coords="1781,499,1821,525"/>
+<area shape="rect" id="node9" href="$unzip_8c.html#a4fdc20c5d880511c727c425b1f11ef68" title="unz64local_getByte" alt="" coords="1400,448,1536,475"/>
+<area shape="rect" id="node10" href="$ioapi_8h.html#a787fa3cf048117ba7123753c1e74fcd6" title="int" alt="" coords="1635,397,1673,424"/>
+<area shape="rect" id="node15" href="$unzip_8c.html#a73eb13cdd8085ee7901d3b8650aa5ae6" title="unzGoToFirstFile2" alt="" coords="509,380,639,407"/>
+<area shape="rect" id="node16" href="$unzip_8c.html#a7e95bff78b7b5e9e99e30b28d68da361" title="unz64local_GetCurrentFile\lInfoInternal" alt="" coords="717,339,893,381"/>
+<area shape="rect" id="node17" href="$unzip_8c.html#a48f0609b270f39b1243d76e69cc6173f" title="unz64local_DosDateToTmuDate" alt="" coords="941,195,1153,221"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="artvision_instanton::FindPnPInliers" name="artvision_instanton::FindPnPInliers">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#ae2f91e798164e94f8da847fa07dc5dec" title="Extract a rotation matrix and translation from a projection matrix. " alt="" coords="184,5,371,47"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#aaf2781e37f3d7d4e78dd2c872d0799b6" title="artvision_instanton::sqr" alt="" coords="199,71,356,98"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#a24d7ae588e0e2ec2eb7d5fc233427ad8" title="Compute the reprojection error from an observed point and 3d point. " alt="" coords="185,123,369,164"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#a2e4a1c1738a313cb7c2c174d94f6de59" title="Compute the Pinhole Projection of a 3D point in camera space. " alt="" coords="419,89,603,131"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#a7335db5e597223e1ac30919089f27045" title="Subtract two vectors. " alt="" coords="445,155,576,196"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#a7353501a2ebe28e96528be2f2bfe4eaf" title="Safe reciprical (1/x). " alt="" coords="651,89,781,131"/>
+</map>

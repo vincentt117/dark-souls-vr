@@ -1,0 +1,5 @@
+<map id="ar2VideoSetBufferSize" name="ar2VideoSetBufferSize">
+<area shape="rect" id="node2" href="$video_dummy_8h.html#a66a963881236aceb48c465bcc8d6db29" title="ar2VideoSetBufferSizeDummy" alt="" coords="226,5,426,32"/>
+<area shape="rect" id="node3" href="$video_a_v_foundation_8h.html#a0f8863cc17bf63401e511e86dd40e2e1" title="ar2VideoSetBufferSizeAVFoundation" alt="" coords="208,56,444,83"/>
+<area shape="rect" id="node4" href="$video_image_8h.html#a0002a65050de3abc821343f6b23762cf" title="ar2VideoSetBufferSizeImage" alt="" coords="231,107,421,133"/>
+</map>

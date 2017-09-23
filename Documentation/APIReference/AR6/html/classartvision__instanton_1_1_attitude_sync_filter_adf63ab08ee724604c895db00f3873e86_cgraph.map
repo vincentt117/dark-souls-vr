@@ -1,0 +1,12 @@
+<map id="artvision_instanton::AttitudeSyncFilter::synchronize" name="artvision_instanton::AttitudeSyncFilter::synchronize">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_attitude_sampler.html#a8eafd799481f3e0fb6f919de9c3ff375" title="Sample the attitude data at given timestamps. " alt="" coords="188,64,361,105"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#abc0c3a1f6eabdadcc0b31b91a25e4ffa" title="artvision_instanton\l::CopyVector4" alt="" coords="605,5,736,47"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#ae795a71faee044cca88539e959546170" title="Safe division (x/y). " alt="" coords="413,64,543,105"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#a752c0f8ffe9cd5be9bcabcf6be164773" title="Quaternion Spherical Linear Interpolation (SLERP). " alt="" coords="409,129,547,171"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#a52c0dfbde7558c411db7c1277228bbd1" title="artvision_instanton\l::DotProduct4" alt="" coords="605,71,736,112"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#aabc9e98c268ae008c284be49a6bd1430" title="w = a*u + b*v " alt="" coords="598,136,743,177"/>
+<area shape="rect" id="node8" href="$namespaceartvision__instanton.html#a1fa75eeba87180bee6aee2ab3c07be5a" title="Normalize a quaternion so that it has unit norm. " alt="" coords="595,201,747,243"/>
+<area shape="rect" id="node9" href="$namespaceartvision__instanton.html#aaf2781e37f3d7d4e78dd2c872d0799b6" title="artvision_instanton::sqr" alt="" coords="795,150,952,177"/>
+<area shape="rect" id="node10" href="$namespaceartvision__instanton.html#adc1e30b0cec389f6c8e8b5512b69fb2e" title="artvision_instanton\l::sign" alt="" coords="808,201,939,243"/>
+<area shape="rect" id="node11" href="$namespaceartvision__instanton.html#a15dadc526841cbe9f7a5d74530ca7746" title="artvision_instanton\l::ScaleVector4" alt="" coords="808,267,939,308"/>
+</map>

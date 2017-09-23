@@ -1,0 +1,18 @@
+<map id="/bitrise/src/Source/AR6/InstantOn/include/AR6/InstantOn/extensions/camera_listener_base.h" name="/bitrise/src/Source/AR6/InstantOn/include/AR6/InstantOn/extensions/camera_listener_base.h">
+<area shape="rect" id="node3" href="$sample_8h.html" title="AR6/InstantOn/framework\l/sample.h" alt="" coords="710,213,885,255"/>
+<area shape="rect" id="node20" href="$listener__base_8h.html" title="AR6/InstantOn/framework\l/listener_base.h" alt="" coords="157,213,331,255"/>
+<area shape="rect" id="node29" href="$image__sample_8h.html" title="AR6/InstantOn/extensions\l/image_sample.h" alt="" coords="452,124,628,165"/>
+<area shape="rect" id="node4" href="$stream_8h.html" title="stream.h" alt="" coords="942,303,1015,329"/>
+<area shape="rect" id="node19" href="$date__time_8h.html" title="date_time.h" alt="" coords="1137,303,1228,329"/>
+<area shape="rect" id="node6" href="$linear__algebra_8h.html" title="AR6/InstantOn/math\l/linear_algebra.h" alt="" coords="1057,377,1199,419"/>
+<area shape="rect" id="node14" href="$indexing_8h.html" title="indexing.h" alt="" coords="987,474,1069,501"/>
+<area shape="rect" id="node7" href="$math__utils_8h.html" title="math_utils.h" alt="" coords="1264,474,1357,501"/>
+<area shape="rect" id="node9" href="$_instant_on_2include_2_a_r6_2_instant_on_2math_2matrix_8h.html" title="matrix.h" alt="" coords="1381,474,1451,501"/>
+<area shape="rect" id="node10" href="$vector_8h.html" title="vector.h" alt="" coords="1453,563,1523,590"/>
+<area shape="rect" id="node21" href="$thread_8h.html" title="thread.h" alt="" coords="96,303,165,329"/>
+<area shape="rect" id="node24" href="$synchronization_8h.html" title="synchronization.h" alt="" coords="147,474,271,501"/>
+<area shape="rect" id="node26" href="$lockfree__queue_8h.html" title="lockfree_queue.h" alt="" coords="246,303,367,329"/>
+<area shape="rect" id="node27" href="$queue_8h.html" title="queue.h" alt="" coords="273,385,341,411"/>
+<area shape="rect" id="node30" href="$image_8h.html" title="AR6/InstantOn/framework\l/image.h" alt="" coords="483,467,658,508"/>
+<area shape="rect" id="node31" href="$image__yuv_8h.html" title="AR6/InstantOn/framework\l/image_yuv.h" alt="" coords="534,377,709,419"/>
+</map>

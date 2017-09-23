@@ -1,0 +1,7 @@
+<map id="artvision_instanton::WaitQueue::drop" name="artvision_instanton::WaitQueue::drop">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_wait_queue.html#adfa21c4b4c92f272b870a2a8fa107543" title="Pop an item from the queue. " alt="" coords="184,104,315,145"/>
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_guard.html#a7150e4d06668a64e07bb39741c6c4caa" title="Lock the mutex. " alt="" coords="363,5,493,47"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_guard.html#a12225e7b1666f22c638095320eaf2f2d" title="Wait for the condition to be signaled. " alt="" coords="363,71,493,112"/>
+<area shape="rect" id="node5" href="$classartvision__instanton_1_1_guard.html#a59b1ce219967accaa28e6ea74042507d" title="Unlock the mutex. " alt="" coords="363,136,493,177"/>
+<area shape="rect" id="node6" href="$classartvision__instanton_1_1_guard.html#ab5bce48515607e3e64f335343ad91330" title="Signal the condition variable. " alt="" coords="363,201,493,243"/>
+</map>

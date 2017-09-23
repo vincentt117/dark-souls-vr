@@ -1,0 +1,10 @@
+<map id="artvision_instanton::AndroidAttitudeListener::svc" name="artvision_instanton::AndroidAttitudeListener::svc">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#ae45ee6891c87f52629c7cc8682f2de46" title="Compute the Rodrigues rotation matrix. " alt="" coords="287,5,425,47"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#a2a6b4c2d4cba42d93da9660540cca1ed" title="Rotation Matrix to Quaternion. " alt="" coords="259,71,453,112"/>
+<area shape="rect" id="node8" href="$classartvision__instanton_1_1_android_attitude_listener.html#a53043500c30e0db55597bbddb4d94b7d" title="artvision_instanton\l::AndroidAttitudeListener\l::convertMotionScale" alt="" coords="273,135,439,191"/>
+<area shape="rect" id="node9" href="$classartvision__instanton_1_1_fixed_size_lock_free_queue.html#a045d02b7b57e58745fcd8dd152a173e7" title="Push an item onto the queue. " alt="" coords="248,215,464,256"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#a1fa75eeba87180bee6aee2ab3c07be5a" title="Normalize a quaternion so that it has unit norm. " alt="" coords="512,71,664,112"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#aaf2781e37f3d7d4e78dd2c872d0799b6" title="artvision_instanton::sqr" alt="" coords="712,19,869,46"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#adc1e30b0cec389f6c8e8b5512b69fb2e" title="artvision_instanton\l::sign" alt="" coords="725,71,856,112"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#a15dadc526841cbe9f7a5d74530ca7746" title="artvision_instanton\l::ScaleVector4" alt="" coords="725,136,856,177"/>
+</map>

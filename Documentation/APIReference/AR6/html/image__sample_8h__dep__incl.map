@@ -1,0 +1,12 @@
+<map id="/bitrise/src/Source/AR6/InstantOn/include/AR6/InstantOn/extensions/image_sample.h" name="/bitrise/src/Source/AR6/InstantOn/include/AR6/InstantOn/extensions/image_sample.h">
+<area shape="rect" id="node2" href="$attitude__sync__filter_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/extensions\l/attitude_sync_filter.cpp" alt="" coords="5,131,185,187"/>
+<area shape="rect" id="node3" href="$image__sample_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/extensions\l/image_sample.cpp" alt="" coords="209,131,389,187"/>
+<area shape="rect" id="node4" href="$pyramid__filter_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/extensions\l/pyramid_filter.cpp" alt="" coords="413,131,593,187"/>
+<area shape="rect" id="node5" href="$camera__filter_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/camera_filter.h" alt="" coords="516,243,696,313"/>
+<area shape="rect" id="node8" href="$camera__listener__base_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/camera_listener_base.h" alt="" coords="669,124,849,195"/>
+<area shape="rect" id="node10" href="$homography__tracker__filter_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/homography_tracker_filter.h" alt="" coords="947,124,1134,195"/>
+<area shape="rect" id="node6" href="$camera__filter_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/extensions\l/camera_filter.cpp" alt="" coords="567,361,747,417"/>
+<area shape="rect" id="node7" href="$_vision4d-_instant_on_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/extensions\l/Vision4d&#45;InstantOn.cpp" alt="" coords="796,361,976,417"/>
+<area shape="rect" id="node9" href="$_vision4d-_instant_on_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/Vision4d&#45;InstantOn.h" alt="" coords="823,243,1003,313"/>
+<area shape="rect" id="node11" href="$homography__tracker__filter_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/extensions\l/homography_tracker_filter.cpp" alt="" coords="1079,250,1280,306"/>
+</map>

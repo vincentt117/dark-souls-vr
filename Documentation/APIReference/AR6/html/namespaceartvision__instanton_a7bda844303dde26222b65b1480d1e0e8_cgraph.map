@@ -1,0 +1,23 @@
+<map id="artvision_instanton::ComputePerspectiveNormalEquationsPostMultiply" name="artvision_instanton::ComputePerspectiveNormalEquationsPostMultiply">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#a4e3faf7c78294e7ca0b205d5285287e4" title="artvision_instanton\l::ZeroVector" alt="" coords="1031,43,1161,84"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#a62b99613981a1f98a6beb3096f7f645d" title="Compute the Perspective Jacobian of the Post Multiplied Update equation. " alt="" coords="261,94,454,150"/>
+<area shape="rect" id="node20" href="$namespaceartvision__instanton.html#adf48d283b154203b12c526bbd11f0717" title="C += A&#39;*A. " alt="" coords="263,173,452,215"/>
+<area shape="rect" id="node21" href="$namespaceartvision__instanton.html#a5e1d6095eb08dc2ac1697fe595df3c24" title="y += A&#39;*x " alt="" coords="264,239,451,280"/>
+<area shape="rect" id="node22" href="$namespaceartvision__instanton.html#a6b7cf4cecd3a7d2fd08f75eb0a6c8233" title="Extend the upper right triangular matrix to the lower left. " alt="" coords="248,304,467,345"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#ae2f91e798164e94f8da847fa07dc5dec" title="Extract a rotation matrix and translation from a projection matrix. " alt="" coords="525,36,712,77"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#a2e4a1c1738a313cb7c2c174d94f6de59" title="Compute the Pinhole Projection of a 3D point in camera space. " alt="" coords="527,101,711,143"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#a6ffb7b16edab5abc8d818e06918bf296" title="Compute the Jacobian for the perspective transformation. " alt="" coords="543,291,694,332"/>
+<area shape="rect" id="node18" href="$namespaceartvision__instanton.html#a4dc10058ab0d51b3533fab033d195834" title="Compute the Cauchy Cost Jacobian. " alt="" coords="515,167,723,208"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#a7353501a2ebe28e96528be2f2bfe4eaf" title="Safe reciprical (1/x). " alt="" coords="805,57,935,99"/>
+<area shape="rect" id="node8" href="$namespaceartvision__instanton.html#a0bcd54deb4ce42595592e6acbe8dd7d1" title="Perform a rigid transformation on a point. " alt="" coords="794,291,946,332"/>
+<area shape="rect" id="node11" href="$namespaceartvision__instanton.html#a082aeedecdb5fcd65eb5a2ef8131ac32" title="Compute the Jacobian for the perspective division. " alt="" coords="771,225,969,267"/>
+<area shape="rect" id="node13" href="$namespaceartvision__instanton.html#af21696f6d0ec10dd9b3bc2dbf7072200" title="Compute the Jacobian for Rotation matrix in association with a 3x1 Vector. " alt="" coords="785,356,955,397"/>
+<area shape="rect" id="node17" href="$namespaceartvision__instanton.html#acb750555524d289e9fc3f7805e13534e" title="C = A*B where A is a 2x3 and B a 3x3. " alt="" coords="805,421,935,463"/>
+<area shape="rect" id="node9" href="$namespaceartvision__instanton.html#a614c9cf49c0617570fffd18befe57f8a" title="y = A*x where A is a 3x3 and x is a 3x1. " alt="" coords="1031,225,1161,267"/>
+<area shape="rect" id="node10" href="$namespaceartvision__instanton.html#ab4058805b1bbef9fbba6688a6f4ce7b6" title="artvision_instanton\l::AddVector3" alt="" coords="1031,291,1161,332"/>
+<area shape="rect" id="node12" href="$namespaceartvision__instanton.html#aaf2781e37f3d7d4e78dd2c872d0799b6" title="artvision_instanton::sqr" alt="" coords="1017,174,1175,201"/>
+<area shape="rect" id="node14" href="$namespaceartvision__instanton.html#ad3933fe06996e714aeae7b03787cc6dd" title="Skew&#45;Symmetric Matrix. " alt="" coords="1031,487,1161,528"/>
+<area shape="rect" id="node15" href="$namespaceartvision__instanton.html#a77d8d8df593b392f9d9c81a9d70eaa2e" title="C = A*B where A,B and C are 3x3 matrices. " alt="" coords="1031,356,1161,397"/>
+<area shape="rect" id="node16" href="$namespaceartvision__instanton.html#a41b79f3ef269aeca8553c6daea6a60c9" title="artvision_instanton\l::ScaleVector9" alt="" coords="1031,421,1161,463"/>
+<area shape="rect" id="node19" href="$namespaceartvision__instanton.html#aabfdfd6e431693d8b92948d037feaf4f" title="artvision_instanton::log" alt="" coords="792,123,948,150"/>
+</map>

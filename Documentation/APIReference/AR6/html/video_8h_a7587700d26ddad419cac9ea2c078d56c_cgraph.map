@@ -1,0 +1,9 @@
+<map id="arVideoGetSize" name="arVideoGetSize">
+<area shape="rect" id="node2" href="$video_8h.html#ae1b2a07ba0242e961598ef0c617aa610" title="ar2VideoGetSize" alt="" coords="167,132,287,159"/>
+<area shape="rect" id="node3" href="$video_dummy_8h.html#a98be3ece55a3751acf6653ccd4d76c57" title="ar2VideoGetSizeDummy" alt="" coords="353,5,519,32"/>
+<area shape="rect" id="node4" href="$video_v4_l2_8h.html#a4cd15e53200db9db8334fa4c42fc1b56" title="ar2VideoGetSizeV4L2" alt="" coords="361,56,511,83"/>
+<area shape="rect" id="node5" href="$video1394_8h.html#a8edcf3e75cdc9d9a0a46e5c949fe024c" title="ar2VideoGetSize1394" alt="" coords="362,107,510,133"/>
+<area shape="rect" id="node6" href="$video_a_v_foundation_8h.html#a039c73ba8a3e6ec85abe801637b2be6f" title="ar2VideoGetSizeAVFoundation" alt="" coords="335,157,537,184"/>
+<area shape="rect" id="node7" href="$video_image_8h.html#a0faf54541ccba547d219e20002c36302" title="ar2VideoGetSizeImage" alt="" coords="358,208,514,235"/>
+<area shape="rect" id="node8" href="$video_android_8h.html#aafb49599502c8ce1d9f2c360cbb86caa" title="ar2VideoGetSizeAndroid" alt="" coords="354,259,518,285"/>
+</map>

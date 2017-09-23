@@ -1,0 +1,11 @@
+<map id="artvision_instanton::NCCMatcher::numBuckets" name="artvision_instanton::NCCMatcher::numBuckets">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#af8ace30a02307ff76481d37502ced60b" title="Clip a scalar to be within a range. " alt="" coords="267,5,397,47"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#aaf2781e37f3d7d4e78dd2c872d0799b6" title="artvision_instanton::sqr" alt="" coords="253,71,411,98"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_n_c_c_template_store.html#aab0f51935b41d310e51b6e78c73df02d" title="Get point at an index. " alt="" coords="241,123,423,164"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#afb83898376bbe47049800bdfcc182d78" title="Compute the NCC score between features contained in NCC stores. " alt="" coords="259,188,405,229"/>
+<area shape="rect" id="node6" href="$classartvision__instanton_1_1_n_c_c_template_store.html#a3863074b551053a1818f073395ed8c22" title="Get NCC scalars at an index. " alt="" coords="479,86,633,142"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#a98b490948a290f738651f321eed6bf72" title="artvision_instanton::ncc" alt="" coords="476,166,636,193"/>
+<area shape="rect" id="node9" href="$classartvision__instanton_1_1_n_c_c_template_store.html#a175a81a7a994ebe97285da71b28eace6" title="Get a template at an index. " alt="" coords="471,217,641,259"/>
+<area shape="rect" id="node10" href="$classartvision__instanton_1_1_n_c_c_template_store.html#a0612de74a3b46413c131faf8e485f118" title="artvision_instanton\l::NCCTemplateStore::\lnumPixels" alt="" coords="479,282,633,338"/>
+<area shape="rect" id="node8" href="$namespaceartvision__instanton_1_1details.html#a64545afa12d78d9705729c27033a7377" title="artvision_instanton\l::details::nccCPU" alt="" coords="689,159,820,200"/>
+</map>

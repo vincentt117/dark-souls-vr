@@ -1,0 +1,8 @@
+<map id="artvision_instanton::DifferenceQuaternions" name="artvision_instanton::DifferenceQuaternions">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#ad25bd0a6cf65d9e6e6735d1c2945a50b" title="Inverse of the Quaternion. " alt="" coords="218,5,354,47"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#a90477268527a5e22c195aec6c3128811" title="Quaternion Multiplication. " alt="" coords="213,71,359,112"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#a1fa75eeba87180bee6aee2ab3c07be5a" title="Normalize a quaternion so that it has unit norm. " alt="" coords="407,71,559,112"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#aaf2781e37f3d7d4e78dd2c872d0799b6" title="artvision_instanton::sqr" alt="" coords="607,19,764,46"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#adc1e30b0cec389f6c8e8b5512b69fb2e" title="artvision_instanton\l::sign" alt="" coords="620,71,751,112"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#a15dadc526841cbe9f7a5d74530ca7746" title="artvision_instanton\l::ScaleVector4" alt="" coords="620,136,751,177"/>
+</map>

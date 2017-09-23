@@ -1,0 +1,10 @@
+<map id="/bitrise/src/Source/AR6/InstantOn/include/AR6/InstantOn/extensions/attitude_listener_base.h" name="/bitrise/src/Source/AR6/InstantOn/include/AR6/InstantOn/extensions/attitude_listener_base.h">
+<area shape="rect" id="node2" href="$attitude__sync__filter_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/attitude_sync_filter.h" alt="" coords="12,131,192,202"/>
+<area shape="rect" id="node5" href="$_vision4d-_instant_on_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/Vision4d&#45;InstantOn.h" alt="" coords="216,131,396,202"/>
+<area shape="rect" id="node6" href="$android__attitude__listener_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/external\l/platform/android/device\l/android_attitude_listener.h" alt="" coords="421,124,599,209"/>
+<area shape="rect" id="node8" href="$i_o_s__attitude__listener_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/external\l/platform/iOS/device/iOS\l_attitude_listener.h" alt="" coords="627,124,793,209"/>
+<area shape="rect" id="node3" href="$attitude__sync__filter_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/extensions\l/attitude_sync_filter.cpp" alt="" coords="5,265,185,321"/>
+<area shape="rect" id="node4" href="$_vision4d-_instant_on_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/extensions\l/Vision4d&#45;InstantOn.cpp" alt="" coords="209,265,389,321"/>
+<area shape="rect" id="node7" href="$android__attitude__listener_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/external\l/platform/android/device\l/android_attitude_listener.cpp" alt="" coords="414,257,606,328"/>
+<area shape="rect" id="node9" href="$i_o_s__attitude__listener_8mm.html" title="/bitrise/src/Source\l/AR6/InstantOn/external\l/platform/iOS/device/iOS\l_attitude_listener.mm" alt="" coords="631,257,797,328"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="artvision_instanton::RotateQuaternion" name="artvision_instanton::RotateQuaternion">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#ab0bba76a11f5b88fda96ddd2f6e33b34" title="artvision_instanton\l::ScaleVector3" alt="" coords="193,5,323,47"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#ade3d50eaacf35b1a01dd69e1d9ab77b9" title="artvision_instanton\l::CopyVector3" alt="" coords="193,71,323,112"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#a90477268527a5e22c195aec6c3128811" title="Quaternion Multiplication. " alt="" coords="185,136,331,177"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#a1fa75eeba87180bee6aee2ab3c07be5a" title="Normalize a quaternion so that it has unit norm. " alt="" coords="379,136,531,177"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#aaf2781e37f3d7d4e78dd2c872d0799b6" title="artvision_instanton::sqr" alt="" coords="579,85,736,111"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#adc1e30b0cec389f6c8e8b5512b69fb2e" title="artvision_instanton\l::sign" alt="" coords="592,136,723,177"/>
+<area shape="rect" id="node8" href="$namespaceartvision__instanton.html#a15dadc526841cbe9f7a5d74530ca7746" title="artvision_instanton\l::ScaleVector4" alt="" coords="592,201,723,243"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="artvision_instanton::Timer::start" name="artvision_instanton::Timer::start">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_timer.html#a9020542d73357a4eef512eefaf57524b" title="Reset the timer; reset the accumulated time to 0. " alt="" coords="184,5,315,47"/>
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_timer.html#a4ac55a73bb3431db9d4d2fd70ae9a2e8" title="Pause timer usage: Start or resume the timer. " alt="" coords="184,71,315,112"/>
+</map>

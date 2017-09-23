@@ -1,0 +1,10 @@
+<map id="/bitrise/src/Source/AR6/AR/arPattLoad.c" name="/bitrise/src/Source/AR6/AR/arPattLoad.c">
+<area shape="rect" id="node4" href="$ar_8h.html" title="ARToolKit core routines. " alt="" coords="591,95,688,121"/>
+<area shape="rect" id="node9" href="$ar_config_8h.html" title="AR6/AR/arConfig.h" alt="" coords="822,169,956,196"/>
+<area shape="rect" id="node10" href="$log_8h.html" title="Logging utilities. " alt="" coords="1032,169,1154,196"/>
+<area shape="rect" id="node13" href="$_a_r_2include_2_a_r6_2_a_r_2matrix_8h.html" title="AR6/AR/matrix.h" alt="" coords="25,169,148,196"/>
+<area shape="rect" id="node14" href="$icp_8h.html" title="AR6/AR/icp.h" alt="" coords="643,169,746,196"/>
+<area shape="rect" id="node16" href="$param_8h.html" title="ARToolKit functions for handling calibrated camera parameters. " alt="" coords="356,169,478,196"/>
+<area shape="rect" id="node17" href="$ar_image_proc_8h.html" title="ARToolKit functions for 2D luminance image processing. " alt="" coords="172,169,332,196"/>
+<area shape="rect" id="node15" href="$icp_core_8h.html" title="AR6/AR/icpCore.h" alt="" coords="629,244,760,271"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="/bitrise/src/Source/AR6/include/AR6/ARTracker2D.h" name="/bitrise/src/Source/AR6/include/AR6/ARTracker2D.h">
+<area shape="rect" id="node2" href="$_a_r_controller_8cpp.html" title="/bitrise/src/Source\l/AR6/ARController.cpp" alt="" coords="5,184,161,225"/>
+<area shape="rect" id="node3" href="$_a_r_trackable_8cpp.html" title="/bitrise/src/Source\l/AR6/ARTrackable.cpp" alt="" coords="186,184,343,225"/>
+<area shape="rect" id="node4" href="$_a_r_tracker2_d_8cpp.html" title="/bitrise/src/Source\l/AR6/ARTracker2D.cpp" alt="" coords="664,95,825,136"/>
+<area shape="rect" id="node5" href="$_a_r_controller_8h.html" title="/bitrise/src/Source\l/AR6/include/AR6/ARController.h" alt="" coords="423,95,640,136"/>
+<area shape="rect" id="node6" href="$_a_r6__c_8cpp.html" title="/bitrise/src/Source\l/AR6/AR6_c.cpp" alt="" coords="367,184,495,225"/>
+<area shape="rect" id="node7" href="$_a_r_trackable_appearance_8cpp.html" title="/bitrise/src/Source\l/AR6/ARTrackableAppearance.cpp" alt="" coords="519,184,746,225"/>
+<area shape="rect" id="node8" href="$_a_r_trackable_multi_square_8cpp.html" title="/bitrise/src/Source\l/AR6/ARTrackableMultiSquare.cpp" alt="" coords="770,184,997,225"/>
+<area shape="rect" id="node9" href="$_a_r_trackable_square_8cpp.html" title="/bitrise/src/Source\l/AR6/ARTrackableSquare.cpp" alt="" coords="1021,184,1220,225"/>
+<area shape="rect" id="node10" href="$_a_r_tracker_square_8cpp.html" title="/bitrise/src/Source\l/AR6/ARTrackerSquare.cpp" alt="" coords="1244,184,1429,225"/>
+<area shape="rect" id="node11" href="$_a_r_video_source_8cpp.html" title="/bitrise/src/Source\l/AR6/ARVideoSource.cpp" alt="" coords="1453,184,1628,225"/>
+</map>

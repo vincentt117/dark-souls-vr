@@ -1,0 +1,22 @@
+<map id="ARTrackerSquare::startWithCameraParameters" name="ARTrackerSquare::startWithCameraParameters">
+<area shape="rect" id="node2" href="$ar_create_handle_8c.html#a500136d0d06144ffb732fc680aaf896f" title="Create a handle to hold settings for an ARToolKit tracker instance. " alt="" coords="275,67,388,93"/>
+<area shape="rect" id="node3" href="$ar_create_handle_8c.html#a2154cad5a1a78f3d2e9042ce602471a7" title="Enable or disable ARToolKit&#39;s debug mode. " alt="" coords="509,8,632,35"/>
+<area shape="rect" id="node4" href="$ar_create_handle_8c.html#a39e6a9d03584bb43ee3fae4925feaff2" title="Set the labeling threshold mode (auto/manual). " alt="" coords="484,125,657,152"/>
+<area shape="rect" id="node8" href="$ar_create_handle_8c.html#ad7ba69e6cb3fbb355f0a04c80fc40fbc" title="Set the expected pixel format for video frames being passed to arDetectMarker. " alt="" coords="270,168,393,195"/>
+<area shape="rect" id="node10" href="$ar_patt_attach_8c.html#aa20f17a257b19a05281e80430301a8d5" title="Associate a set of patterns with an ARHandle. " alt="" coords="284,219,379,245"/>
+<area shape="rect" id="node11" href="$ar_create_handle_8c.html#ad36c1f16292bb544e4a28a55831bf20b" title="Set the labeling threshhold. " alt="" coords="261,269,402,296"/>
+<area shape="rect" id="node12" href="$ar_create_handle_8c.html#a40682ca5527dcdaa69d8695c398f02e2" title="Set the image processing mode. " alt="" coords="257,320,405,347"/>
+<area shape="rect" id="node13" href="$ar_create_handle_8c.html#a6cc43eaed20a4dcf1e6c72a687abcaaa" title="Select between detection of black markers and white markers. " alt="" coords="265,371,398,397"/>
+<area shape="rect" id="node14" href="$ar_create_handle_8c.html#a4afbac011922600f2f3ee33337b8f526" title="Set the width/height of the marker pattern space, as a proportion of marker width/height. " alt="" coords="277,421,385,448"/>
+<area shape="rect" id="node15" href="$ar_create_handle_8c.html#a553658b36c1d9c989b7ed7cb05ef2efd" title="Set the pattern detection mode. " alt="" coords="240,472,423,499"/>
+<area shape="rect" id="node16" href="$ar_create_handle_8c.html#a4e428e6aa80696fd1520ce2a565b2338" title="Set the size and ECC algorithm to be used for matrix code (2D barcode) marker detection. " alt="" coords="257,523,406,549"/>
+<area shape="rect" id="node17" href="$ar3_d_create_handle_8c.html#ad144c85e2395d3440935b9b2c75bed83" title="Create handle used for 3D calculation from calibrated camera parameters. " alt="" coords="266,675,397,701"/>
+<area shape="rect" id="node20" href="$ar_patt_attach_8c.html#ae9eebe71b3b73edf6f674d847fbab6bc" title="Reset an ARHandle to no pattern association. " alt="" coords="282,624,381,651"/>
+<area shape="rect" id="node21" href="$ar_create_handle_8c.html#ac044da75a479ba275db558f8e3b1d6fd" title="Delete a handle which holds settings for an ARToolKit tracker instance. " alt="" coords="515,475,627,501"/>
+<area shape="rect" id="node7" href="$ar_create_handle_8c.html#a3d9f12c7e00c11f77c1b062a751b93be" title="Set the number of frames between auto&#45;threshold calculations. " alt="" coords="471,59,671,101"/>
+<area shape="rect" id="node5" href="$ar_image_proc_8c.html#a99a7b2bbb653be2ecc772ceed7159ce1" title="Finish image processing and free memory. " alt="" coords="719,276,843,303"/>
+<area shape="rect" id="node6" href="$ar_image_proc_8c.html#a40df944801ad1069f667b366eba16855" title="Initialise image processing. " alt="" coords="723,125,838,152"/>
+<area shape="rect" id="node9" href="$ar_util_8c.html#a97d737ba2827a9edfd10deefb3ce03b4" title="Get the size in bytes of a single pixel for a given pixel format. " alt="" coords="506,176,635,203"/>
+<area shape="rect" id="node18" href="$ar3_d_create_handle_8c.html#aa8c448b9f37c06050d53edeeb32114b1" title="Create handle used for 3D calculation from an intrinsic parameters matrix. " alt="" coords="502,675,639,701"/>
+<area shape="rect" id="node19" href="$icp_handle_8c.html#ae5a7f3015c4daa239f9bb569967d3d8e" title="icpCreateHandle" alt="" coords="721,675,840,701"/>
+</map>

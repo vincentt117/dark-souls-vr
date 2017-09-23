@@ -1,0 +1,7 @@
+<map id="artvision_instanton::CauchyProjectiveReprojectionCost" name="artvision_instanton::CauchyProjectiveReprojectionCost">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#ad86c7a71a52e1f604306cb3af0f89403" title="Compute the Cauchy reprojection cost for H*p&#45;q. " alt="" coords="288,39,523,80"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#aac7359704d1486d43ac7b00356511175" title="Multiply an in&#45;homogenous point by a transform. " alt="" coords="571,5,835,47"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#a7f364fe0dfa85b3e8e808022f9e53d1f" title="As one_over_scale2 gets larger, cost increases. " alt="" coords="637,71,768,112"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#aabfdfd6e431693d8b92948d037feaf4f" title="artvision_instanton::log" alt="" coords="883,53,1039,79"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#aaf2781e37f3d7d4e78dd2c872d0799b6" title="artvision_instanton::sqr" alt="" coords="883,103,1040,130"/>
+</map>

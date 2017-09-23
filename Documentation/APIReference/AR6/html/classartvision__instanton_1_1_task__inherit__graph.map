@@ -1,0 +1,22 @@
+<map id="artvision_instanton::Task" name="artvision_instanton::Task">
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_filter.html" title="artvision_instanton\l::Filter" alt="" coords="393,152,523,193"/>
+<area shape="rect" id="node13" href="$classartvision__instanton_1_1_listener_base.html" title="artvision_instanton\l::ListenerBase\&lt; T \&gt;" alt="" coords="389,391,527,432"/>
+<area shape="rect" id="node14" href="$classartvision__instanton_1_1_listener_base.html" title="artvision_instanton\l::ListenerBase\&lt; attitude\l_data \&gt;" alt="" coords="377,455,539,511"/>
+<area shape="rect" id="node19" href="$classartvision__instanton_1_1_listener_base.html" title="artvision_instanton\l::ListenerBase\&lt; SamplePtr \&gt;" alt="" coords="363,564,553,605"/>
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_runnable.html" title="artvision_instanton\l::Runnable" alt="" coords="5,427,136,468"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_sink_filter.html" title="artvision_instanton\l::SinkFilter" alt="" coords="612,23,743,64"/>
+<area shape="rect" id="node6" href="$classartvision__instanton_1_1_source_filter.html" title="artvision_instanton\l::SourceFilter" alt="" coords="612,104,743,145"/>
+<area shape="rect" id="node8" href="$classartvision__instanton_1_1_transform_filter.html" title="artvision_instanton\l::TransformFilter" alt="" coords="612,201,743,243"/>
+<area shape="rect" id="node5" href="$classartvision__instanton_1_1facade_1_1_instant_on_sink_filter.html" title="artvision_instanton\l::facade::InstantOnSinkFilter" alt="" coords="801,5,991,47"/>
+<area shape="rect" id="node7" href="$classartvision__instanton_1_1_camera_filter.html" title="Implements a filter to generate image from a camera source. " alt="" coords="831,71,961,112"/>
+<area shape="rect" id="node9" href="$classartvision__instanton_1_1_attitude_sync_filter.html" title="artvision_instanton\l::AttitudeSyncFilter" alt="" coords="829,136,963,177"/>
+<area shape="rect" id="node10" href="$classartvision__instanton_1_1_homography_tracker_filter.html" title="Implements a homography tracker based on feature points. " alt="" coords="807,201,985,243"/>
+<area shape="rect" id="node11" href="$classartvision__instanton_1_1_pyramid_filter.html" title="artvision_instanton\l::PyramidFilter" alt="" coords="831,267,961,308"/>
+<area shape="rect" id="node12" href="$classartvision__instanton_1_1_sample_tuple_1_1_extract_filter.html" title="artvision_instanton\l::SampleTuple::ExtractFilter" alt="" coords="803,332,989,373"/>
+<area shape="rect" id="node15" href="$classartvision__instanton_1_1_attitude_listener_base.html" title="artvision_instanton\l::AttitudeListenerBase" alt="" coords="602,463,753,504"/>
+<area shape="rect" id="node16" href="$classartvision__instanton_1_1_android_attitude_listener.html" title="Implements an iOS specific attitude listener. " alt="" coords="813,397,979,439"/>
+<area shape="rect" id="node17" href="$classartvision__instanton_1_1i_o_s_attitude_listener.html" title="Implements an iOS specific attitude listener. " alt="" coords="825,463,967,504"/>
+<area shape="rect" id="node18" href="$classartvision__instanton_1_1_null_attitude_listener.html" title="artvision_instanton\l::NullAttitudeListener" alt="" coords="824,528,968,569"/>
+<area shape="rect" id="node20" href="$classartvision__instanton_1_1_camera_listener_base.html" title="artvision_instanton\l::CameraListenerBase" alt="" coords="601,579,753,620"/>
+<area shape="rect" id="node21" href="$classartvision__instanton_1_1_null_camera_listener.html" title="artvision_instanton\l::NullCameraListener" alt="" coords="823,593,969,635"/>
+</map>

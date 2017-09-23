@@ -1,0 +1,9 @@
+<map id="arVideoCapStop" name="arVideoCapStop">
+<area shape="rect" id="node2" href="$video_8h.html#a7f44f09a5e412bb83330887458e96b84" title="ar2VideoCapStop" alt="" coords="171,132,295,159"/>
+<area shape="rect" id="node3" href="$video_dummy_8h.html#a78fa5654276bc8d340ffe8182d0bcd6c" title="ar2VideoCapStopDummy" alt="" coords="361,5,531,32"/>
+<area shape="rect" id="node4" href="$video_v4_l2_8h.html#a530b43b034daf2f89586fb69e9de74aa" title="ar2VideoCapStopV4L2" alt="" coords="369,56,523,83"/>
+<area shape="rect" id="node5" href="$video1394_8h.html#a23f653b38bb02af6d9050d02b0702f94" title="ar2VideoCapStop1394" alt="" coords="370,107,522,133"/>
+<area shape="rect" id="node6" href="$video_a_v_foundation_8h.html#a80dffabb6c571245b002d91e9031ca64" title="ar2VideoCapStopAVFoundation" alt="" coords="343,157,549,184"/>
+<area shape="rect" id="node7" href="$video_image_8h.html#af8b971aac579641ba46492cbd6394293" title="ar2VideoCapStopImage" alt="" coords="366,208,526,235"/>
+<area shape="rect" id="node8" href="$video_android_8h.html#a0d13c2368b42b9e85c60830fb13fd04e" title="ar2VideoCapStopAndroid" alt="" coords="362,259,530,285"/>
+</map>

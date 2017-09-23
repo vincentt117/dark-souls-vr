@@ -1,0 +1,17 @@
+<map id="ARView::initWithVideoSource" name="ARView::initWithVideoSource">
+<area shape="rect" id="node2" href="$arg_8c.html#a85f626e83b50240007e8b8cc349f1ddf" title="Free memory used by arg associated with the specified context. " alt="" coords="310,5,401,32"/>
+<area shape="rect" id="node3" href="$class_a_r_video_source.html#a5fcaa2cdbbe4a214da643b8b3c9f56e8" title="Returns the camera parameters for the video source. " alt="" coords="262,57,449,98"/>
+<area shape="rect" id="node4" href="$arg_8c.html#ad95c0c2dafc0b081fde74cb34f8cf7ce" title="Initialise the arg library for the current OpenGL context. " alt="" coords="263,123,448,149"/>
+<area shape="rect" id="node7" href="$class_a_r_video_source.html#aa7b003e7ab2ce739d0940172bd91ca3c" title="Returns the pixel format of the video. " alt="" coords="250,173,461,200"/>
+<area shape="rect" id="node8" href="$param_8h.html#a408e5586069334fc2ae229b1924f132c" title="Create a camera parameter structure representing an idealised lens. " alt="" coords="304,224,407,251"/>
+<area shape="rect" id="node10" href="$class_a_r_video_source.html#abee133d378f5c800b9184a983b02a46d" title="Returns the width of the video in pixels. " alt="" coords="251,275,459,301"/>
+<area shape="rect" id="node11" href="$class_a_r_video_source.html#ad891987fbd5707889d159319841f866d" title="Returns the height of the video in pixels. " alt="" coords="249,325,461,352"/>
+<area shape="rect" id="node12" href="$arg_8c.html#a4cf2d1c5f499640230f2dcc5cce8dc2a" title="Set or unset a 90 degree rotation in all OpenGL drawing performed by ARGL. " alt="" coords="297,376,413,403"/>
+<area shape="rect" id="node13" href="$arg_8c.html#a336171b329a6dff60ebe3a23157737e6" title="arglSetFlipH" alt="" coords="308,427,403,453"/>
+<area shape="rect" id="node14" href="$arg_8c.html#a077eb626510231817d6d7d146a2fb7e0" title="arglSetFlipV" alt="" coords="309,477,402,504"/>
+<area shape="rect" id="node15" href="$arg_8c.html#aa5ca20b707a271f658448b5550783a0a" title="Set compensation for camera lens distortion in arglDispImage to off or on. " alt="" coords="254,528,457,555"/>
+<area shape="rect" id="node16" href="$ioapi_8h.html#a787fa3cf048117ba7123753c1e74fcd6" title="int" alt="" coords="336,579,375,605"/>
+<area shape="rect" id="node5" href="$arg_8c.html#aabe153eb55c310c8ae24bb7347f58f07" title="arglIsOpenGLES2OrLater" alt="" coords="720,123,891,149"/>
+<area shape="rect" id="node6" href="$arg_8c.html#a70f432550d41765bc7b7b13a53e6015d" title="arglOpenGLVersion" alt="" coords="523,148,658,175"/>
+<area shape="rect" id="node9" href="$param_clear_8c.html#a3a67c8e9b71679e2f01173cfdb2b950a" title="arParamDistFactorClear" alt="" coords="509,224,672,251"/>
+</map>

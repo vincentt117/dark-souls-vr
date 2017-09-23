@@ -1,0 +1,4 @@
+<map id="artvision_instanton::bilinear_downsample_point" name="artvision_instanton::bilinear_downsample_point">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#a694abee5a4fb46db17abac25fda0d8e9" title="Apply a 2D binomial filter to a source image. " alt="" coords="246,5,385,47"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#a138423c5e6331108b9b359fed5875eb0" title="The mean of the first pixel quad, and then every other pixel quad afterwards. " alt="" coords="240,71,391,112"/>
+</map>

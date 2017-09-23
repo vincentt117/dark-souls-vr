@@ -1,0 +1,9 @@
+<map id="artvision_instanton::SturmChain" name="artvision_instanton::SturmChain">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#a7d2621eff15b01c2162abacff259edd8" title="Computes the derivitive of P. " alt="" coords="184,5,315,47"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#a6212123ad606502e4baf7e84cbc8b370" title="Polynomial Division. " alt="" coords="184,123,315,164"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#aab53be7d4b926fe6711274d5d8b2245f" title="Scales a polynomial by a constant factor s. " alt="" coords="363,64,493,105"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#a4b6456b962a78866d637a25562624979" title="Asserts that the polynomial is set and is valid. " alt="" coords="541,91,713,132"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#a675b15a6a716970f66edd98bdc261d73" title="Subracts two polynomials. " alt="" coords="363,181,493,223"/>
+<area shape="rect" id="node8" href="$namespaceartvision__instanton.html#a6623718f13ae700d2ac4a41bddc62648" title="Removes the leading zeros – makes the deque a valid polynomial. " alt="" coords="363,247,493,288"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#abfab8b1bd712b039f3737dcaf16f030a" title="artvision_instanton\l::max2" alt="" coords="562,181,693,223"/>
+</map>

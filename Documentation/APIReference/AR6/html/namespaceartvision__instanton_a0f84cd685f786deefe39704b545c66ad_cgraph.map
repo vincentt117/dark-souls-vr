@@ -1,0 +1,15 @@
+<map id="artvision_instanton::ComputeHarrisStrengthImage" name="artvision_instanton::ComputeHarrisStrengthImage">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton_1_1details.html#ac0dd1f01eddc30cc45bf4bda832da540" title="artvision_instanton\l::details::ComputeHarrisStrength\lImageNeon" alt="" coords="517,5,731,61"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton_1_1details.html#ab5de2b812a018d49a9dd75880623d67b" title="Generic CPU Implementation. " alt="" coords="256,307,469,363"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#af8ace30a02307ff76481d37502ced60b" title="Clip a scalar to be within a range. " alt="" coords="559,85,689,126"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#ad8a8482e6fbc7de1a619523b3e584194" title="Compute (Ixx, Iyy, Ixy) given 3 rows. " alt="" coords="549,150,699,191"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#a1ad1d52c7a87c6d66c51feed11508538" title="Apply horizontal binomial. " alt="" coords="555,215,693,257"/>
+<area shape="rect" id="node8" href="$namespaceartvision__instanton.html#ab5c7d9238b9298256f3cc1d8eddea111" title="Apply vertical binomial on a pixel. " alt="" coords="559,281,689,322"/>
+<area shape="rect" id="node9" href="$namespaceartvision__instanton.html#a51c3880f3a0ded750fc4e3f47614b313" title="Compute the horizontal Harris stengths. " alt="" coords="536,346,712,387"/>
+<area shape="rect" id="node10" href="$namespaceartvision__instanton.html#a38e9129602426b4c1b5cf46cdeb18200" title="Swap the pointers in a &quot;rolling shutter&quot; style. " alt="" coords="559,411,689,453"/>
+<area shape="rect" id="node11" href="$namespaceartvision__instanton_1_1details.html#af0e6d1ae36e253575b4c67422b776311" title="artvision_instanton\l::details::ComputeDerivatives\lU8Neon" alt="" coords="527,476,721,532"/>
+<area shape="rect" id="node12" href="$namespaceartvision__instanton_1_1details.html#a60280ab2eb5819e6ac9484e7a034cc5e" title="Compute the binomial response an input vector. " alt="" coords="531,556,717,612"/>
+<area shape="rect" id="node13" href="$namespaceartvision__instanton_1_1details.html#a8a0a2f8ffd30e69e8c92b6ab96b4666b" title="Convolve rows vertically with [1; 4; 6; 4; 1] kernel. " alt="" coords="539,636,709,692"/>
+<area shape="rect" id="node14" href="$namespaceartvision__instanton_1_1details.html#a2a3bafbeb3384b4a2762d9b36f9a875b" title="artvision_instanton\l::details::HorizontalHarris\lStengthsS32F32Neon" alt="" coords="539,716,709,772"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#aaf2781e37f3d7d4e78dd2c872d0799b6" title="artvision_instanton::sqr" alt="" coords="779,256,936,283"/>
+</map>

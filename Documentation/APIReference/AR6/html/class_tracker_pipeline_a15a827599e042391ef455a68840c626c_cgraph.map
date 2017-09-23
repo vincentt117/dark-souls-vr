@@ -1,0 +1,5 @@
+<map id="TrackerPipeline::AddTargetImage" name="TrackerPipeline::AddTargetImage">
+<area shape="rect" id="node2" href="$class_a_r_trackable2_d.html#a077b2f77ba3440b291a5e7ea56fd72ca" title="ARTrackable2D::getRefImage\lWidth" alt="" coords="233,5,432,47"/>
+<area shape="rect" id="node3" href="$class_a_r_trackable2_d.html#a53f04623f5ed8f039b0a357073a99fb8" title="ARTrackable2D::getRefImage\lHeight" alt="" coords="233,71,432,112"/>
+<area shape="rect" id="node4" href="$class_a_r_trackable2_d.html#aa627214d857b1c6eb9f884c70407e256" title="ARTrackable2D::getRefImage" alt="" coords="233,137,432,163"/>
+</map>

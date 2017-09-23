@@ -1,0 +1,9 @@
+<map id="ar2VideoClose" name="ar2VideoClose">
+<area shape="rect" id="node2" href="$video_luma_8h.html#af73e0e884452c46682458a136539792b" title="arVideoLumaFinal" alt="" coords="191,5,318,32"/>
+<area shape="rect" id="node3" href="$video_dummy_8h.html#ae518c53d87b1320ba8cd80ed8a23bf0a" title="ar2VideoCloseDummy" alt="" coords="178,56,331,83"/>
+<area shape="rect" id="node4" href="$video_v4_l2_8h.html#a160602fb4d1827e9053166f051f4613d" title="ar2VideoCloseV4L2" alt="" coords="186,107,323,133"/>
+<area shape="rect" id="node5" href="$video1394_8h.html#aaea7efdd8dad25a42fe9b8f3bc3edf0b" title="ar2VideoClose1394" alt="" coords="187,157,322,184"/>
+<area shape="rect" id="node6" href="$video_a_v_foundation_8h.html#a2883b331cca58ccd1c036f2318041f03" title="ar2VideoCloseAVFoundation" alt="" coords="160,208,349,235"/>
+<area shape="rect" id="node7" href="$video_image_8h.html#a3ffc443b510b55d94d0aed46e4277388" title="ar2VideoCloseImage" alt="" coords="183,259,326,285"/>
+<area shape="rect" id="node8" href="$video_android_8h.html#afb5748a9176a3e1a8aee435726c18be2" title="ar2VideoCloseAndroid" alt="" coords="179,309,330,336"/>
+</map>

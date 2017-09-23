@@ -1,0 +1,6 @@
+<map id="artvision_instanton::GaussianScaleSpacePyramid" name="artvision_instanton::GaussianScaleSpacePyramid">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_binomial_pyramid32f.html" title="Build a Binomial Gaussian Scale Space Pyramid represented represented as 32&#45;bit floats. " alt="" coords="266,5,413,47"/>
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_binomial_pyramid8u.html" title="Implements a [1 4 6 4 1] Binomial filter pyramid for image reduction. " alt="" coords="268,71,411,112"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_binomial_pyramid_u_char.html" title="Build a Binomial Gaussian Scale Space Pyramid represented represented as 8&#45;bit unsigned chars..." alt="" coords="256,136,423,177"/>
+<area shape="rect" id="node5" href="$classartvision__instanton_1_1_box_filter_pyramid8u.html" title="Implements a box filter pyramid for image reduction. " alt="" coords="267,201,411,243"/>
+</map>

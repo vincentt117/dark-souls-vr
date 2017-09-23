@@ -1,0 +1,51 @@
+<map id="artvision_instanton::PreemptiveRobustHomography" name="artvision_instanton::PreemptiveRobustHomography">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#aaf2781e37f3d7d4e78dd2c872d0799b6" title="artvision_instanton::sqr" alt="" coords="916,34,1073,61"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#ad411e1f1200097816c72bd20d151f284" title="artvision_instanton\l::min2" alt="" coords="317,540,448,581"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#a24fa81c5746cb6eff1cbfc877481c667" title="Create a sequential vector {x0+0, x0+1, x0+2, ...}. " alt="" coords="317,605,448,647"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#a55c9462520e43630748a1245d3363e21" title="Shuffle the elements of an array. " alt="" coords="317,671,448,712"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#a118e9ff812fd00659831872e76050c3d" title="Check the geometric consistency between four correspondences. " alt="" coords="567,591,795,647"/>
+<area shape="rect" id="node9" href="$namespaceartvision__instanton.html#a0dae72ae805cb4227617bf3006d13266" title="Solve for the homography given 4 point correspondences. " alt="" coords="292,304,473,345"/>
+<area shape="rect" id="node41" href="$namespaceartvision__instanton.html#a843f12ddd632a72175837a0e783a0ca6" title="artvision_instanton\l::HomographyPointsGeometrically\lConsistent" alt="" coords="272,409,493,465"/>
+<area shape="rect" id="node44" href="$namespaceartvision__instanton.html#ad86c7a71a52e1f604306cb3af0f89403" title="Compute the Cauchy reprojection cost for H*p&#45;q. " alt="" coords="265,140,500,181"/>
+<area shape="rect" id="node47" href="$namespaceartvision__instanton.html#a9c1328feaf3ef10a32c322ae0ad51485" title="Find the median of an array. " alt="" coords="317,736,448,777"/>
+<area shape="rect" id="node49" href="$namespaceartvision__instanton.html#ae7ddea6e66a6048556b4f1e119603636" title="artvision_instanton\l::CopyVector9" alt="" coords="317,801,448,843"/>
+<area shape="rect" id="node50" href="$namespaceartvision__instanton.html#a346aad18ded6dcb188124e2b663e2824" title="Normalize a homography such that H(3,3) = 1. " alt="" coords="301,867,464,908"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#a1e5ec9ca9158b9898fe405d9712fad61" title="Implements a fast random number generator. " alt="" coords="616,671,747,712"/>
+<area shape="rect" id="node8" href="$namespaceartvision__instanton.html#a1d7845265a2f29434cf065e934964a34" title="Find which side of a line a point is on (+,&#45;). " alt="" coords="929,559,1060,600"/>
+<area shape="rect" id="node10" href="$namespaceartvision__instanton.html#af2af9ac4ead6413f8b00f6161603ddb3" title="Condition four 2D points such that the mean is zero and the standard deviation is sqrt(2)..." alt="" coords="610,199,753,240"/>
+<area shape="rect" id="node11" href="$namespaceartvision__instanton.html#a09a0ac4160b0cc46b2aa251bf219b44f" title="Solve for the homography given four 2D point correspondences. " alt="" coords="548,381,815,423"/>
+<area shape="rect" id="node40" href="$namespaceartvision__instanton.html#ad8503f43540d4f5ea0175e5d0fbf20e5" title="Denomalize the homograhy H. " alt="" coords="593,264,770,305"/>
+<area shape="rect" id="node12" href="$namespaceartvision__instanton.html#a6a3f08216ccb3f647651205b40c98939" title="Construct the homography constraint matrix from 4 point correspondences. " alt="" coords="875,374,1115,430"/>
+<area shape="rect" id="node15" href="$namespaceartvision__instanton.html#a92d56de23a51e3ec405182886fcbd019" title="Solve for the null vector x of an 8x9 matrix A such A*x=0. " alt="" coords="889,453,1101,495"/>
+<area shape="rect" id="node39" href="$namespaceartvision__instanton.html#aac7359704d1486d43ac7b00356511175" title="Multiply an in&#45;homogenous point by a transform. " alt="" coords="863,309,1127,351"/>
+<area shape="rect" id="node13" href="$namespaceartvision__instanton.html#ad88187b6bb4ee47a8a02d8b522325608" title="Add a point to the homography constraint matrix. " alt="" coords="1175,95,1385,136"/>
+<area shape="rect" id="node14" href="$namespaceartvision__instanton.html#a132fe11643174a543ee2a1292bbbe282" title="artvision_instanton\l::ZeroVector3" alt="" coords="1440,61,1571,103"/>
+<area shape="rect" id="node16" href="$namespaceartvision__instanton.html#a4e3faf7c78294e7ca0b205d5285287e4" title="artvision_instanton\l::ZeroVector" alt="" coords="1215,388,1345,429"/>
+<area shape="rect" id="node17" href="$group___project.html#gafa1317c43567e363b4d994f946da069a" title="artvision_instanton\l::OrthogonalizePivot8x9Basis0" alt="" coords="1179,649,1381,691"/>
+<area shape="rect" id="node23" href="$group___project.html#gae36a1f31e960156c4b5a2c8b6a7f05fd" title="artvision_instanton\l::OrthogonalizePivot8x9Basis1" alt="" coords="1179,584,1381,625"/>
+<area shape="rect" id="node25" href="$group___project.html#gaa5c89162ba9f880e57776f56f28d8379" title="artvision_instanton\l::OrthogonalizePivot8x9Basis2" alt="" coords="1179,780,1381,821"/>
+<area shape="rect" id="node27" href="$group___project.html#ga08352502e44ab48fbf68c5ec39247484" title="artvision_instanton\l::OrthogonalizePivot8x9Basis3" alt="" coords="1179,519,1381,560"/>
+<area shape="rect" id="node29" href="$group___project.html#ga73ca9ba18c6e2e35c5038ed6fc6a688e" title="artvision_instanton\l::OrthogonalizePivot8x9Basis4" alt="" coords="1179,323,1381,364"/>
+<area shape="rect" id="node31" href="$group___project.html#ga51ca1a97b0b094be7047c01702e619ac" title="artvision_instanton\l::OrthogonalizePivot8x9Basis5" alt="" coords="1179,715,1381,756"/>
+<area shape="rect" id="node33" href="$group___project.html#gab404b5e4d24406eee137f9bc1bf244a5" title="artvision_instanton\l::OrthogonalizePivot8x9Basis6" alt="" coords="1179,453,1381,495"/>
+<area shape="rect" id="node35" href="$group___project.html#gac1fbdca70cba4f3a1a520e6a0b0571d3" title="artvision_instanton\l::OrthogonalizePivot8x9Basis7" alt="" coords="1179,257,1381,299"/>
+<area shape="rect" id="node36" href="$namespaceartvision__instanton.html#af121320941cf6d1ddc84e765ca3925dd" title="artvision_instanton\l::NormalizeVector" alt="" coords="1215,192,1345,233"/>
+<area shape="rect" id="node18" href="$namespaceartvision__instanton.html#a9c52620d821ec47fece2a51bac17822a" title="Sum sqaured. " alt="" coords="1440,584,1571,625"/>
+<area shape="rect" id="node19" href="$namespaceartvision__instanton.html#ad10cbaa87585bcc7d3cb8f5badcbbf34" title="artvision_instanton\l::MaxIndex8" alt="" coords="1440,780,1571,821"/>
+<area shape="rect" id="node20" href="$namespaceartvision__instanton.html#a68a4505b691c74bc7659d01dd361f043" title="Swap the contents of two vectors. " alt="" coords="1440,649,1571,691"/>
+<area shape="rect" id="node21" href="$namespaceartvision__instanton.html#a41b79f3ef269aeca8553c6daea6a60c9" title="artvision_instanton\l::ScaleVector9" alt="" coords="1440,453,1571,495"/>
+<area shape="rect" id="node22" href="$group___project.html#gabb8fa21e1b317c4721f6e97f032896a3" title="Project a vector &quot;x&quot; onto a normalized basis vector &quot;u&quot; and subtract it off x. " alt="" coords="1433,519,1577,560"/>
+<area shape="rect" id="node24" href="$namespaceartvision__instanton.html#ad12499e962456042625c35b3b7b36bcb" title="artvision_instanton\l::MaxIndex7" alt="" coords="1440,715,1571,756"/>
+<area shape="rect" id="node26" href="$namespaceartvision__instanton.html#adb543a9baca6b95a1f98b0708e91939e" title="artvision_instanton\l::MaxIndex6" alt="" coords="1440,911,1571,952"/>
+<area shape="rect" id="node28" href="$namespaceartvision__instanton.html#a8ed60ff9921440bf354be4b19688526b" title="artvision_instanton\l::MaxIndex5" alt="" coords="1440,388,1571,429"/>
+<area shape="rect" id="node30" href="$namespaceartvision__instanton.html#a704d3edde3b8cf1715deb16147bdd2b6" title="artvision_instanton\l::MaxIndex4" alt="" coords="1440,257,1571,299"/>
+<area shape="rect" id="node32" href="$namespaceartvision__instanton.html#ab4840ea66b9a85b9215531830e4a60e1" title="artvision_instanton\l::MaxIndex3" alt="" coords="1440,845,1571,887"/>
+<area shape="rect" id="node34" href="$namespaceartvision__instanton.html#a34c8e5ff15e71ec79636d73956380578" title="artvision_instanton\l::MaxIndex2" alt="" coords="1440,323,1571,364"/>
+<area shape="rect" id="node37" href="$namespaceartvision__instanton.html#aa04a165fc5df84cc3f5d9a21d782e564" title="artvision_instanton\l::NormSquared" alt="" coords="1440,127,1571,168"/>
+<area shape="rect" id="node38" href="$namespaceartvision__instanton.html#a12e67d3b644dea0c7ddef80fd8c547f6" title="artvision_instanton\l::ScaleVector" alt="" coords="1440,192,1571,233"/>
+<area shape="rect" id="node42" href="$namespaceartvision__instanton.html#a0946b2aef5bb7922ab5d0161fef6ff88" title="Vector copy functions. " alt="" coords="616,447,747,488"/>
+<area shape="rect" id="node43" href="$namespaceartvision__instanton.html#a5c636a82a3f1f79aebf5b37903285c40" title="Check the geometric consistency between three correspondences. " alt="" coords="567,511,795,567"/>
+<area shape="rect" id="node45" href="$namespaceartvision__instanton.html#a7f364fe0dfa85b3e8e808022f9e53d1f" title="As one_over_scale2 gets larger, cost increases. " alt="" coords="616,81,747,123"/>
+<area shape="rect" id="node46" href="$namespaceartvision__instanton.html#aabfdfd6e431693d8b92948d037feaf4f" title="artvision_instanton::log" alt="" coords="917,89,1073,115"/>
+<area shape="rect" id="node48" href="$namespaceartvision__instanton.html#a1b93a7dd7d9295ade9032efb77abd687" title="Perform a partial sort of an array. " alt="" coords="616,736,747,777"/>
+</map>

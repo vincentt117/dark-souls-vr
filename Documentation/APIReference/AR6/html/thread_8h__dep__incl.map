@@ -1,0 +1,33 @@
+<map id="/bitrise/src/Source/AR6/InstantOn/include/AR6/InstantOn/framework/thread.h" name="/bitrise/src/Source/AR6/InstantOn/include/AR6/InstantOn/framework/thread.h">
+<area shape="rect" id="node2" href="$thread_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/framework\l/thread.cpp" alt="" coords="361,131,540,187"/>
+<area shape="rect" id="node3" href="$filter_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/framework\l/filter.h" alt="" coords="564,124,743,195"/>
+<area shape="rect" id="node24" href="$listener__base_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/framework\l/listener_base.h" alt="" coords="1919,124,2097,195"/>
+<area shape="rect" id="node4" href="$filter_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/framework\l/filter.cpp" alt="" coords="461,376,640,432"/>
+<area shape="rect" id="node5" href="$framework_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/framework\l/framework.h" alt="" coords="335,243,513,313"/>
+<area shape="rect" id="node8" href="$transform__filter_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/framework\l/transform_filter.h" alt="" coords="1177,243,1356,313"/>
+<area shape="rect" id="node18" href="$sink__filter_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/framework\l/sink_filter.h" alt="" coords="5,369,184,439"/>
+<area shape="rect" id="node20" href="$source__filter_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/framework\l/source_filter.h" alt="" coords="645,243,824,313"/>
+<area shape="rect" id="node6" href="$_vision4d-_instant_on_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/extensions\l/Vision4d&#45;InstantOn.cpp" alt="" coords="1687,502,1867,558"/>
+<area shape="rect" id="node7" href="$framework_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/framework\l/framework.cpp" alt="" coords="208,376,387,432"/>
+<area shape="rect" id="node9" href="$transform__filter_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/framework\l/transform_filter.cpp" alt="" coords="1280,376,1459,432"/>
+<area shape="rect" id="node10" href="$attitude__sync__filter_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/attitude_sync_filter.h" alt="" coords="2147,369,2327,439"/>
+<area shape="rect" id="node12" href="$homography__tracker__filter_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/homography_tracker_filter.h" alt="" coords="1069,369,1256,439"/>
+<area shape="rect" id="node14" href="$pyramid__filter_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/pyramid_filter.h" alt="" coords="1483,369,1663,439"/>
+<area shape="rect" id="node16" href="$sample__tuple_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/framework\l/sample_tuple.h" alt="" coords="867,369,1045,439"/>
+<area shape="rect" id="node11" href="$attitude__sync__filter_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/extensions\l/attitude_sync_filter.cpp" alt="" coords="2147,502,2327,558"/>
+<area shape="rect" id="node13" href="$homography__tracker__filter_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/extensions\l/homography_tracker_filter.cpp" alt="" coords="1062,502,1263,558"/>
+<area shape="rect" id="node15" href="$pyramid__filter_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/extensions\l/pyramid_filter.cpp" alt="" coords="1483,502,1663,558"/>
+<area shape="rect" id="node17" href="$sample__tuple_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/framework\l/sample_tuple.cpp" alt="" coords="859,502,1037,558"/>
+<area shape="rect" id="node19" href="$sink__filter_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/framework\l/sink_filter.cpp" alt="" coords="5,502,184,558"/>
+<area shape="rect" id="node21" href="$source__filter_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/framework\l/source_filter.cpp" alt="" coords="664,376,843,432"/>
+<area shape="rect" id="node22" href="$camera__filter_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/camera_filter.h" alt="" coords="1687,369,1867,439"/>
+<area shape="rect" id="node23" href="$camera__filter_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/extensions\l/camera_filter.cpp" alt="" coords="1917,502,2097,558"/>
+<area shape="rect" id="node25" href="$listener__base_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/framework\l/listener_base.cpp" alt="" coords="2020,250,2199,306"/>
+<area shape="rect" id="node26" href="$attitude__listener__base_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/attitude_listener_base.h" alt="" coords="2223,243,2403,313"/>
+<area shape="rect" id="node32" href="$camera__listener__base_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/camera_listener_base.h" alt="" coords="1815,243,1995,313"/>
+<area shape="rect" id="node27" href="$_vision4d-_instant_on_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/Vision4d&#45;InstantOn.h" alt="" coords="1943,369,2123,439"/>
+<area shape="rect" id="node28" href="$android__attitude__listener_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/external\l/platform/android/device\l/android_attitude_listener.h" alt="" coords="2596,361,2775,447"/>
+<area shape="rect" id="node30" href="$i_o_s__attitude__listener_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/external\l/platform/iOS/device/iOS\l_attitude_listener.h" alt="" coords="2403,361,2570,447"/>
+<area shape="rect" id="node29" href="$android__attitude__listener_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/external\l/platform/android/device\l/android_attitude_listener.cpp" alt="" coords="2592,495,2784,565"/>
+<area shape="rect" id="node31" href="$i_o_s__attitude__listener_8mm.html" title="/bitrise/src/Source\l/AR6/InstantOn/external\l/platform/iOS/device/iOS\l_attitude_listener.mm" alt="" coords="2401,495,2567,565"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="artvision::UndistortImagePointOulu" name="artvision::UndistortImagePointOulu">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#aac7359704d1486d43ac7b00356511175" title="Multiply an in&#45;homogenous point by a transform. " alt="" coords="221,12,485,53"/>
+<area shape="rect" id="node3" href="$namespaceartvision.html#ad31242c1a1204f19b6fc7e3a4181384c" title="Undistort a normalized point according to the Oulu model. " alt="" coords="259,78,448,105"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#a0946b2aef5bb7922ab5d0161fef6ff88" title="Vector copy functions. " alt="" coords="533,5,664,47"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#afb233cb1aedda46513c8b085c60ed0c0" title="Compute the dot product. " alt="" coords="533,71,664,112"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#ae795a71faee044cca88539e959546170" title="Safe division (x/y). " alt="" coords="533,136,664,177"/>
+</map>

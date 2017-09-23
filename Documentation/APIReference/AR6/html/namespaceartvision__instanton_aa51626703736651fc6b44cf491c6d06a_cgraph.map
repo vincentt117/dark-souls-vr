@@ -1,0 +1,11 @@
+<map id="artvision_instanton::DecomposeHomography" name="artvision_instanton::DecomposeHomography">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#a77d8d8df593b392f9d9c81a9d70eaa2e" title="C = A*B where A,B and C are 3x3 matrices. " alt="" coords="259,5,390,47"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#aa597f9135b078c157bf7bb51a02157f9" title="Invert a calibration matrix (K). " alt="" coords="244,71,405,112"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#a41b79f3ef269aeca8553c6daea6a60c9" title="artvision_instanton\l::ScaleVector9" alt="" coords="259,136,390,177"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#ab0bba76a11f5b88fda96ddd2f6e33b34" title="artvision_instanton\l::ScaleVector3" alt="" coords="259,201,390,243"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#a2a6b4c2d4cba42d93da9660540cca1ed" title="Rotation Matrix to Quaternion. " alt="" coords="228,267,421,308"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#a1fa75eeba87180bee6aee2ab3c07be5a" title="Normalize a quaternion so that it has unit norm. " alt="" coords="469,267,621,308"/>
+<area shape="rect" id="node8" href="$namespaceartvision__instanton.html#aaf2781e37f3d7d4e78dd2c872d0799b6" title="artvision_instanton::sqr" alt="" coords="669,215,827,242"/>
+<area shape="rect" id="node9" href="$namespaceartvision__instanton.html#adc1e30b0cec389f6c8e8b5512b69fb2e" title="artvision_instanton\l::sign" alt="" coords="683,267,813,308"/>
+<area shape="rect" id="node10" href="$namespaceartvision__instanton.html#a15dadc526841cbe9f7a5d74530ca7746" title="artvision_instanton\l::ScaleVector4" alt="" coords="683,332,813,373"/>
+</map>

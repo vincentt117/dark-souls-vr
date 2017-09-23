@@ -1,0 +1,23 @@
+<map id="ARController::~ARController" name="ARController::~ARController">
+<area shape="rect" id="node2" href="$class_a_r_controller.html#ac3aad1d57eb54ef10ecdd57562fad461" title="Stop, if running. " alt="" coords="241,335,403,361"/>
+<area shape="rect" id="node3" href="$class_a_r_controller.html#a889dbbe581e771d1f4f2e28fad3f686b" title="Video capture and marker detection stops, but markers are still valid and can be configured. " alt="" coords="475,284,653,311"/>
+<area shape="rect" id="node21" href="$class_a_r_controller.html#a0ce295c65ca5138b666b87387f996016" title="Returns the number of currently loaded trackables. " alt="" coords="725,360,927,387"/>
+<area shape="rect" id="node22" href="$class_a_r_controller.html#a4be78b9f44e98f73f850b12700607da1" title="Clears the collection of markers. " alt="" coords="451,385,677,412"/>
+<area shape="rect" id="node4" href="$class_a_r_video_source.html#ae67083e64b2b3c6d7aa6d8cbe33ef95f" title="Closes the video source. " alt="" coords="749,284,903,311"/>
+<area shape="rect" id="node5" href="$video_8h.html#a7f44f09a5e412bb83330887458e96b84" title="ar2VideoCapStop" alt="" coords="975,157,1099,184"/>
+<area shape="rect" id="node12" href="$param_8h.html#a42d02aaf13cedaf0f2cd1b93a5d81643" title="Dispose of a memory allocated to a lookup&#45;table camera parameter. " alt="" coords="981,284,1093,311"/>
+<area shape="rect" id="node13" href="$video_8h.html#a4b8a9b1a18beed51b2f0600687de63b8" title="ar2VideoClose" alt="" coords="983,436,1090,463"/>
+<area shape="rect" id="node6" href="$video_dummy_8h.html#a78fa5654276bc8d340ffe8182d0bcd6c" title="ar2VideoCapStopDummy" alt="" coords="1165,5,1335,32"/>
+<area shape="rect" id="node7" href="$video_v4_l2_8h.html#a530b43b034daf2f89586fb69e9de74aa" title="ar2VideoCapStopV4L2" alt="" coords="1173,56,1327,83"/>
+<area shape="rect" id="node8" href="$video1394_8h.html#a23f653b38bb02af6d9050d02b0702f94" title="ar2VideoCapStop1394" alt="" coords="1174,107,1326,133"/>
+<area shape="rect" id="node9" href="$video_a_v_foundation_8h.html#a80dffabb6c571245b002d91e9031ca64" title="ar2VideoCapStopAVFoundation" alt="" coords="1147,157,1353,184"/>
+<area shape="rect" id="node10" href="$video_image_8h.html#af8b971aac579641ba46492cbd6394293" title="ar2VideoCapStopImage" alt="" coords="1170,208,1330,235"/>
+<area shape="rect" id="node11" href="$video_android_8h.html#a0d13c2368b42b9e85c60830fb13fd04e" title="ar2VideoCapStopAndroid" alt="" coords="1166,259,1334,285"/>
+<area shape="rect" id="node14" href="$video_luma_8h.html#af73e0e884452c46682458a136539792b" title="arVideoLumaFinal" alt="" coords="1187,309,1313,336"/>
+<area shape="rect" id="node15" href="$video_dummy_8h.html#ae518c53d87b1320ba8cd80ed8a23bf0a" title="ar2VideoCloseDummy" alt="" coords="1173,360,1327,387"/>
+<area shape="rect" id="node16" href="$video_v4_l2_8h.html#a160602fb4d1827e9053166f051f4613d" title="ar2VideoCloseV4L2" alt="" coords="1181,411,1319,437"/>
+<area shape="rect" id="node17" href="$video1394_8h.html#aaea7efdd8dad25a42fe9b8f3bc3edf0b" title="ar2VideoClose1394" alt="" coords="1183,461,1317,488"/>
+<area shape="rect" id="node18" href="$video_a_v_foundation_8h.html#a2883b331cca58ccd1c036f2318041f03" title="ar2VideoCloseAVFoundation" alt="" coords="1155,512,1345,539"/>
+<area shape="rect" id="node19" href="$video_image_8h.html#a3ffc443b510b55d94d0aed46e4277388" title="ar2VideoCloseImage" alt="" coords="1179,563,1321,589"/>
+<area shape="rect" id="node20" href="$video_android_8h.html#afb5748a9176a3e1a8aee435726c18be2" title="ar2VideoCloseAndroid" alt="" coords="1175,613,1325,640"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="/bitrise/src/Source/AR6/InstantOn/extensions/attitude_sync_filter.cpp" name="/bitrise/src/Source/AR6/InstantOn/extensions/attitude_sync_filter.cpp">
+<area shape="rect" id="node2" href="$attitude__sync__filter_8h.html" title="AR6/InstantOn/extensions\l/attitude_sync_filter.h" alt="" coords="754,109,930,151"/>
+<area shape="rect" id="node22" href="$date__time_8h.html" title="date_time.h" alt="" coords="912,556,1003,583"/>
+<area shape="rect" id="node38" href="$attitude__sampler_8h.html" title="AR6/InstantOn/extensions\l/attitude_sampler.h" alt="" coords="292,109,468,151"/>
+<area shape="rect" id="node39" href="$image__sample_8h.html" title="AR6/InstantOn/extensions\l/image_sample.h" alt="" coords="1163,377,1339,419"/>
+<area shape="rect" id="node41" href="$attitude__sample__io_8h.html" title="AR6/InstantOn/extensions\l/attitude_sample_io.h" alt="" coords="534,109,710,151"/>
+<area shape="rect" id="node42" href="$log_8h.html" title="Logging utilities. " alt="" coords="1312,117,1435,143"/>
+<area shape="rect" id="node4" href="$transform__filter_8h.html" title="AR6/InstantOn/framework\l/transform_filter.h" alt="" coords="754,199,929,240"/>
+<area shape="rect" id="node35" href="$attitude__sample_8h.html" title="AR6/InstantOn/extensions\l/attitude_sample.h" alt="" coords="282,288,458,329"/>
+<area shape="rect" id="node36" href="$attitude__listener__base_8h.html" title="AR6/InstantOn/extensions\l/attitude_listener_base.h" alt="" coords="508,199,684,240"/>
+<area shape="rect" id="node5" href="$filter_8h.html" title="filter.h" alt="" coords="682,295,740,322"/>
+<area shape="rect" id="node6" href="$container_8h.html" title="container.h" alt="" coords="864,385,950,411"/>
+<area shape="rect" id="node25" href="$thread_8h.html" title="thread.h" alt="" coords="234,385,303,411"/>
+<area shape="rect" id="node28" href="$wait__queue_8h.html" title="wait_queue.h" alt="" coords="575,385,674,411"/>
+<area shape="rect" id="node32" href="$lockfree__queue_8h.html" title="lockfree_queue.h" alt="" coords="328,385,449,411"/>
+<area shape="rect" id="node33" href="$image_8h.html" title="image.h" alt="" coords="1230,556,1298,583"/>
+<area shape="rect" id="node7" href="$sample_8h.html" title="sample.h" alt="" coords="912,474,987,501"/>
+<area shape="rect" id="node8" href="$stream_8h.html" title="stream.h" alt="" coords="616,556,689,583"/>
+<area shape="rect" id="node10" href="$linear__algebra_8h.html" title="AR6/InstantOn/math\l/linear_algebra.h" alt="" coords="358,631,501,672"/>
+<area shape="rect" id="node18" href="$indexing_8h.html" title="indexing.h" alt="" coords="780,720,861,747"/>
+<area shape="rect" id="node11" href="$math__utils_8h.html" title="math_utils.h" alt="" coords="331,720,424,747"/>
+<area shape="rect" id="node13" href="$_instant_on_2include_2_a_r6_2_instant_on_2math_2matrix_8h.html" title="matrix.h" alt="" coords="238,720,307,747"/>
+<area shape="rect" id="node14" href="$vector_8h.html" title="vector.h" alt="" coords="202,802,271,829"/>
+<area shape="rect" id="node29" href="$queue_8h.html" title="queue.h" alt="" coords="432,474,500,501"/>
+<area shape="rect" id="node31" href="$synchronization_8h.html" title="synchronization.h" alt="" coords="713,556,837,583"/>
+<area shape="rect" id="node37" href="$listener__base_8h.html" title="AR6/InstantOn/framework\l/listener_base.h" alt="" coords="482,288,657,329"/>
+<area shape="rect" id="node40" href="$image__yuv_8h.html" title="AR6/InstantOn/framework\l/image_yuv.h" alt="" coords="1164,467,1338,508"/>
+</map>

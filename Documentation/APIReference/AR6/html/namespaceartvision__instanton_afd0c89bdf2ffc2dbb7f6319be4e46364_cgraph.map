@@ -1,0 +1,9 @@
+<map id="artvision_instanton::BinomialDecimate8u" name="artvision_instanton::BinomialDecimate8u">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#a0b57dc1d8130f4f23288cecaec79cdc6" title="Reset the 5 row pointers. " alt="" coords="475,49,605,90"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#acedb869751009d61d9702bb3f953e2da" title="Binomial decimate (n*2)+4 bytes into n bytes. " alt="" coords="216,38,411,80"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#ab5c7d9238b9298256f3cc1d8eddea111" title="Apply vertical binomial on a pixel. " alt="" coords="475,186,605,228"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#a38e9129602426b4c1b5cf46cdeb18200" title="Swap the pointers in a &quot;rolling shutter&quot; style. " alt="" coords="475,252,605,293"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#afe2af0431ceada10e9f1c2fabd777bf7" title="Decimate the left/right border pixels. " alt="" coords="204,103,423,159"/>
+<area shape="rect" id="node8" href="$namespaceartvision__instanton.html#a3cb292eebb5deee022ef9c2c817d4a9c" title="Decimate the left/right border pixels. " alt="" coords="204,183,423,239"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#a1ad1d52c7a87c6d66c51feed11508538" title="Apply horizontal binomial. " alt="" coords="471,114,609,156"/>
+</map>

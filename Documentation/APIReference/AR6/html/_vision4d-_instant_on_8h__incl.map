@@ -1,0 +1,22 @@
+<map id="/bitrise/src/Source/AR6/InstantOn/include/AR6/InstantOn/extensions/Vision4d&#45;InstantOn.h" name="/bitrise/src/Source/AR6/InstantOn/include/AR6/InstantOn/extensions/Vision4d&#45;InstantOn.h">
+<area shape="rect" id="node2" href="$camera__listener__base_8h.html" title="camera_listener_base.h" alt="" coords="377,124,537,151"/>
+<area shape="rect" id="node33" href="$attitude__listener__base_8h.html" title="attitude_listener_base.h" alt="" coords="565,124,725,151"/>
+<area shape="rect" id="node35" href="$pose__sample_8h.html" title="pose_sample.h" alt="" coords="901,206,1011,233"/>
+<area shape="rect" id="node4" href="$sample_8h.html" title="AR6/InstantOn/framework\l/sample.h" alt="" coords="693,288,867,329"/>
+<area shape="rect" id="node21" href="$listener__base_8h.html" title="AR6/InstantOn/framework\l/listener_base.h" alt="" coords="370,288,545,329"/>
+<area shape="rect" id="node30" href="$image__sample_8h.html" title="AR6/InstantOn/extensions\l/image_sample.h" alt="" coords="212,199,388,240"/>
+<area shape="rect" id="node5" href="$stream_8h.html" title="stream.h" alt="" coords="861,377,934,404"/>
+<area shape="rect" id="node20" href="$date__time_8h.html" title="date_time.h" alt="" coords="745,377,836,404"/>
+<area shape="rect" id="node7" href="$linear__algebra_8h.html" title="AR6/InstantOn/math\l/linear_algebra.h" alt="" coords="941,452,1083,493"/>
+<area shape="rect" id="node15" href="$indexing_8h.html" title="indexing.h" alt="" coords="1213,549,1294,575"/>
+<area shape="rect" id="node8" href="$math__utils_8h.html" title="math_utils.h" alt="" coords="780,549,873,575"/>
+<area shape="rect" id="node10" href="$_instant_on_2include_2_a_r6_2_instant_on_2math_2matrix_8h.html" title="matrix.h" alt="" coords="897,549,967,575"/>
+<area shape="rect" id="node11" href="$vector_8h.html" title="vector.h" alt="" coords="967,638,1036,665"/>
+<area shape="rect" id="node22" href="$thread_8h.html" title="thread.h" alt="" coords="521,377,591,404"/>
+<area shape="rect" id="node25" href="$synchronization_8h.html" title="synchronization.h" alt="" coords="347,549,471,575"/>
+<area shape="rect" id="node27" href="$lockfree__queue_8h.html" title="lockfree_queue.h" alt="" coords="375,377,497,404"/>
+<area shape="rect" id="node28" href="$queue_8h.html" title="queue.h" alt="" coords="362,459,430,486"/>
+<area shape="rect" id="node31" href="$image_8h.html" title="AR6/InstantOn/framework\l/image.h" alt="" coords="46,541,221,583"/>
+<area shape="rect" id="node32" href="$image__yuv_8h.html" title="AR6/InstantOn/framework\l/image_yuv.h" alt="" coords="111,452,286,493"/>
+<area shape="rect" id="node34" href="$attitude__sample_8h.html" title="attitude_sample.h" alt="" coords="717,206,843,233"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="artvision_instanton::ObjectPool::get" name="artvision_instanton::ObjectPool::get">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_fixed_size_lock_free_queue.html#a5836e43562ee85f38846f252588b3e81" title="Pop an item from the queue. " alt="" coords="187,5,397,47"/>
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_fixed_size_lock_free_queue.html#a045d02b7b57e58745fcd8dd152a173e7" title="Push an item onto the queue. " alt="" coords="184,71,400,112"/>
+</map>

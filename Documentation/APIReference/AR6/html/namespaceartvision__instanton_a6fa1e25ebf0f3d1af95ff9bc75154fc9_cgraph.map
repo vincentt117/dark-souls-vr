@@ -1,0 +1,8 @@
+<map id="artvision_instanton::BoxFilterDecimate" name="artvision_instanton::BoxFilterDecimate">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton_1_1details.html#a35b3ed65e4b54423bfbf71ff1e729721" title="artvision_instanton\l::details::HorizontalBoxFilter\lDecimate128U8Neon" alt="" coords="208,5,395,61"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton_1_1details.html#af28ceae80f6e4e053a592bab50911d2f" title="artvision_instanton\l::details::VerticalBoxFilter64\lU16Neon" alt="" coords="208,85,395,141"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#a36088af2e63b4c5790a2f75c91881398" title="Horizontal box filter decimate. " alt="" coords="192,165,411,206"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#af4c833f8eb62ac3ce4e49bcd4caa59b1" title="Vertical box filter. " alt="" coords="231,230,371,271"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#aa692c7bdc1b7b3df8e1d0ad764e6b003" title="artvision_instanton\l::HorizontalBoxFilterDecimate" alt="" coords="203,295,400,337"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#aa1d68ad8ca8812a1f1b22c0dee7007f0" title="artvision_instanton\l::VerticalBoxFilter" alt="" coords="236,361,367,402"/>
+</map>

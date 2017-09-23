@@ -1,0 +1,5 @@
+<map id="arwGetARToolKitVersion" name="arwGetARToolKitVersion">
+<area shape="rect" id="node2" href="$class_a_r_controller.html#ac9def91f09d79a2f0e8a5aed2e4756f4" title="Returns a pointer to a C string containing the ARToolKit version, such as &quot;4.5.1&quot;. " alt="" coords="221,5,404,47"/>
+<area shape="rect" id="node4" href="$class_a_r_controller.html#a6e45b81b71ac241dbb8fb2327751910d" title="ARController::setError" alt="" coords="237,71,388,98"/>
+<area shape="rect" id="node3" href="$ar_util_8c.html#a5f6a6f78cfce8c8dfc80479b47232eb4" title="Get the ARToolKit version information in numberic and string format. " alt="" coords="452,13,551,39"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="arVideoOpen" name="arVideoOpen">
+<area shape="rect" id="node2" href="$video_8h.html#a6e7d521b174901d784ce04190fccc9d9" title="ar2VideoOpen" alt="" coords="151,107,255,133"/>
+<area shape="rect" id="node3" href="$video_dummy_8h.html#a97c9c62563dbaa2d1c32d6f7ffd6186c" title="ar2VideoOpenDummy" alt="" coords="321,5,471,32"/>
+<area shape="rect" id="node4" href="$video_v4_l2_8h.html#a65f46b5acf507e11f1e398983f654b01" title="ar2VideoOpenV4L2" alt="" coords="329,56,463,83"/>
+<area shape="rect" id="node5" href="$video1394_8h.html#a415d8d6e136b1d6481aab6df1327d38b" title="ar2VideoOpen1394" alt="" coords="330,107,462,133"/>
+<area shape="rect" id="node6" href="$video_a_v_foundation_8h.html#ad5a12bb05d89e8876b3d92334935ebd8" title="ar2VideoOpenAVFoundation" alt="" coords="303,157,489,184"/>
+<area shape="rect" id="node7" href="$video_image_8h.html#a15ea74b900729dfd225554e9862871f1" title="ar2VideoOpenImage" alt="" coords="326,208,466,235"/>
+</map>

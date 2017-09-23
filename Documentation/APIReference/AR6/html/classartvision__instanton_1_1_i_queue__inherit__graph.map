@@ -1,0 +1,6 @@
+<map id="artvision_instanton::IQueue&lt; T &gt;" name="artvision_instanton::IQueue&lt; T &gt;">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_concurrent_queue.html" title="Thread&#45;safe queue. " alt="" coords="208,5,372,47"/>
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_fixed_size_lock_free_queue.html" title="artvision_instanton\l::FixedSizeLockFreeQueue\&lt; T \&gt;" alt="" coords="184,71,396,112"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_queue.html" title="Wrapper around the STL queue implementation. " alt="" coords="225,136,355,177"/>
+<area shape="rect" id="node5" href="$classartvision__instanton_1_1_wait_queue.html" title="Implementation of synchronized FIFO for multiple produces and consumers. " alt="" coords="225,201,355,243"/>
+</map>

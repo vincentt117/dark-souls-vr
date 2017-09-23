@@ -1,0 +1,8 @@
+<map id="artvision_instanton::OrthogonalizePivot7x9Basis2" name="artvision_instanton::OrthogonalizePivot7x9Basis2">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#af1c323814e3a5910c5680077ea4b90e5" title="Project a vector &quot;a&quot; onto a normalized basis vector &quot;e&quot;. " alt="" coords="255,5,419,47"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#a9c52620d821ec47fece2a51bac17822a" title="Sum sqaured. " alt="" coords="271,71,402,112"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#a8ed60ff9921440bf354be4b19688526b" title="artvision_instanton\l::MaxIndex5" alt="" coords="271,136,402,177"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#a68a4505b691c74bc7659d01dd361f043" title="Swap the contents of two vectors. " alt="" coords="271,201,402,243"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#a41b79f3ef269aeca8553c6daea6a60c9" title="artvision_instanton\l::ScaleVector9" alt="" coords="271,267,402,308"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#a3c08baabe637df86886a8cc5dcb12b6b" title="artvision_instanton\l::DotProduct9" alt="" coords="467,39,597,80"/>
+</map>

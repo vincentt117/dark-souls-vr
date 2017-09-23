@@ -1,0 +1,51 @@
+<map id="arwStartRunningB" name="arwStartRunningB">
+<area shape="rect" id="node2" href="$class_a_r_controller.html#ab63641c43919f8297ba38a0ee9ce3253" title="ARController::setProjection\lNearPlane" alt="" coords="181,837,363,878"/>
+<area shape="rect" id="node4" href="$class_a_r_controller.html#a15aa6c50cd138d4131bbed2517498927" title="ARController::setProjection\lFarPlane" alt="" coords="181,902,363,943"/>
+<area shape="rect" id="node6" href="$class_a_r_controller.html#a418d8aaf7e0561d1ccfffc7d35a840cf" title="Start video capture and marker detection. " alt="" coords="183,1019,361,1045"/>
+<area shape="rect" id="node3" href="$class_a_r_controller.html#a6107f783d52887d655bd571ac906421c" title="ARController::projection\lNearPlane" alt="" coords="418,837,579,878"/>
+<area shape="rect" id="node5" href="$class_a_r_controller.html#a290ba1cd38c6a7e38104af03cfe33c88" title="ARController::projection\lFarPlane" alt="" coords="418,902,579,943"/>
+<area shape="rect" id="node7" href="$class_a_r_controller.html#a6e45b81b71ac241dbb8fb2327751910d" title="ARController::setError" alt="" coords="423,968,574,995"/>
+<area shape="rect" id="node8" href="$class_a_r_video_source.html#aa385c7136b3d45c6efaa6604bf0a6d9a" title="Sets initial parameters which will be used when the video source is opened. " alt="" coords="411,1019,587,1045"/>
+<area shape="rect" id="node9" href="$class_a_r_video_source.html#ad6e81f0a07ddf8e844dfb867bc94de4b" title="Opens the video source. " alt="" coords="423,1069,574,1096"/>
+<area shape="rect" id="node50" href="$class_a_r_video_source.html#a1d4e4cebdf413918427c39aa99a197cc" title="ARVideoSource::getError" alt="" coords="414,1120,583,1147"/>
+<area shape="rect" id="node10" href="$video_8h.html#a6627f0eff034d0a9d8d3400648f90efd" title="ar2VideoOpenAsync" alt="" coords="653,56,795,83"/>
+<area shape="rect" id="node13" href="$video_8h.html#a6e7d521b174901d784ce04190fccc9d9" title="ar2VideoOpen" alt="" coords="672,233,776,260"/>
+<area shape="rect" id="node19" href="$video_8h.html#ae1b2a07ba0242e961598ef0c617aa610" title="ar2VideoGetSize" alt="" coords="664,512,784,539"/>
+<area shape="rect" id="node26" href="$class_a_r_video_source.html#ae67083e64b2b3c6d7aa6d8cbe33ef95f" title="Closes the video source. " alt="" coords="647,740,801,767"/>
+<area shape="rect" id="node30" href="$video_8h.html#ac87cc80e94e3e4d1dbe0da408d4f2d28" title="ar2VideoGetPixelFormat" alt="" coords="642,892,806,919"/>
+<area shape="rect" id="node37" href="$ar_util_8c.html#a97d737ba2827a9edfd10deefb3ce03b4" title="Get the size in bytes of a single pixel for a given pixel format. " alt="" coords="659,943,789,969"/>
+<area shape="rect" id="node38" href="$ar_util_8c.html#a6fc7ced3a5cee590c5e9f0166b83a6d7" title="Get a string holding a descriptive name for a given pixel format enumeration. " alt="" coords="635,993,813,1020"/>
+<area shape="rect" id="node39" href="$video_8h.html#ad451f2f35435194d472527896775efce" title="ar2VideoSetParami" alt="" coords="657,1044,791,1071"/>
+<area shape="rect" id="node42" href="$param_8h.html#ab1e71efe8de44e7480414a7ed251d0c7" title="Load lens parameters from a buffer. " alt="" coords="642,1095,806,1121"/>
+<area shape="rect" id="node43" href="$param_8h.html#a09b936765527cf0b1cbf5636d8757ff2" title="Load lens parameters from a file. " alt="" coords="675,1145,773,1172"/>
+<area shape="rect" id="node44" href="$video_8h.html#addbe89926372af707da389a5cc378851" title="ar2VideoGetCParam" alt="" coords="653,1196,795,1223"/>
+<area shape="rect" id="node45" href="$video_8h.html#af35776b8b32d15e9ffd64049023c756a" title="ar2VideoGetCParamAsync" alt="" coords="635,1247,813,1273"/>
+<area shape="rect" id="node46" href="$param_8h.html#ac81e706468fee3150d5b2413ec743fae" title="Create a camera parameter structure representing an idealised lens with specified field&#45;of&#45;view..." alt="" coords="643,1297,805,1324"/>
+<area shape="rect" id="node47" href="$param_8h.html#aad3ef0e0fba8944c501a2819e1e99ad9" title="arParamChangeSize" alt="" coords="653,1348,795,1375"/>
+<area shape="rect" id="node48" href="$param_8h.html#a16b30d02f6542af9f7cd0b12a9e56dde" title="Allocate and calculate a lookup&#45;table camera parameter from a standard camera parameter. " alt="" coords="661,1399,787,1425"/>
+<area shape="rect" id="node49" href="$video_8h.html#a5a0834041e696e10609994bfdf089981" title="ar2VideoCapStart" alt="" coords="661,1449,787,1476"/>
+<area shape="rect" id="node11" href="$video_a_v_foundation_8h.html#aeeda53e796311199493f4acdaa075e3c" title="ar2VideoOpenAsyncAVFoundation" alt="" coords="873,5,1096,32"/>
+<area shape="rect" id="node12" href="$video_android_8h.html#aa38cb37e30ae2fdfc4ee16dfb3662f83" title="ar2VideoOpenAsyncAndroid" alt="" coords="892,56,1077,83"/>
+<area shape="rect" id="node14" href="$video_dummy_8h.html#a97c9c62563dbaa2d1c32d6f7ffd6186c" title="ar2VideoOpenDummy" alt="" coords="909,107,1060,133"/>
+<area shape="rect" id="node15" href="$video_v4_l2_8h.html#a65f46b5acf507e11f1e398983f654b01" title="ar2VideoOpenV4L2" alt="" coords="917,157,1052,184"/>
+<area shape="rect" id="node16" href="$video1394_8h.html#a415d8d6e136b1d6481aab6df1327d38b" title="ar2VideoOpen1394" alt="" coords="919,208,1051,235"/>
+<area shape="rect" id="node17" href="$video_a_v_foundation_8h.html#ad5a12bb05d89e8876b3d92334935ebd8" title="ar2VideoOpenAVFoundation" alt="" coords="891,259,1078,285"/>
+<area shape="rect" id="node18" href="$video_image_8h.html#a15ea74b900729dfd225554e9862871f1" title="ar2VideoOpenImage" alt="" coords="915,309,1055,336"/>
+<area shape="rect" id="node20" href="$video_dummy_8h.html#a98be3ece55a3751acf6653ccd4d76c57" title="ar2VideoGetSizeDummy" alt="" coords="901,360,1068,387"/>
+<area shape="rect" id="node21" href="$video_v4_l2_8h.html#a4cd15e53200db9db8334fa4c42fc1b56" title="ar2VideoGetSizeV4L2" alt="" coords="909,411,1060,437"/>
+<area shape="rect" id="node22" href="$video1394_8h.html#a8edcf3e75cdc9d9a0a46e5c949fe024c" title="ar2VideoGetSize1394" alt="" coords="911,461,1059,488"/>
+<area shape="rect" id="node23" href="$video_a_v_foundation_8h.html#a039c73ba8a3e6ec85abe801637b2be6f" title="ar2VideoGetSizeAVFoundation" alt="" coords="883,512,1086,539"/>
+<area shape="rect" id="node24" href="$video_image_8h.html#a0faf54541ccba547d219e20002c36302" title="ar2VideoGetSizeImage" alt="" coords="907,563,1063,589"/>
+<area shape="rect" id="node25" href="$video_android_8h.html#aafb49599502c8ce1d9f2c360cbb86caa" title="ar2VideoGetSizeAndroid" alt="" coords="903,613,1067,640"/>
+<area shape="rect" id="node27" href="$video_8h.html#a7f44f09a5e412bb83330887458e96b84" title="ar2VideoCapStop" alt="" coords="923,664,1047,691"/>
+<area shape="rect" id="node28" href="$param_8h.html#a42d02aaf13cedaf0f2cd1b93a5d81643" title="Dispose of a memory allocated to a lookup&#45;table camera parameter. " alt="" coords="929,715,1041,741"/>
+<area shape="rect" id="node29" href="$video_8h.html#a4b8a9b1a18beed51b2f0600687de63b8" title="ar2VideoClose" alt="" coords="931,765,1038,792"/>
+<area shape="rect" id="node31" href="$video_dummy_8h.html#aef5bd63c5abf5e4479664647c084644b" title="ar2VideoGetPixelFormatDummy" alt="" coords="879,816,1090,843"/>
+<area shape="rect" id="node32" href="$video_v4_l2_8h.html#aab61669af9d839aa23ecd79d1c4bde5a" title="ar2VideoGetPixelFormatV4L2" alt="" coords="887,867,1082,893"/>
+<area shape="rect" id="node33" href="$video1394_8h.html#a1eb40205f18baab9d12c0bc187e9b50e" title="ar2VideoGetPixelFormat1394" alt="" coords="889,917,1081,944"/>
+<area shape="rect" id="node34" href="$video_a_v_foundation_8h.html#a98d99736ba21ff6f85c9da3e0e2acab8" title="ar2VideoGetPixelFormatAVFoundation" alt="" coords="861,968,1108,995"/>
+<area shape="rect" id="node35" href="$video_image_8h.html#a4e14913d6bea4a02cd3d17ddd95e2544" title="ar2VideoGetPixelFormatImage" alt="" coords="885,1019,1085,1045"/>
+<area shape="rect" id="node36" href="$video_android_8h.html#ac511ed131837c08ea6f17725dd87d2bc" title="ar2VideoGetPixelFormatAndroid" alt="" coords="881,1069,1089,1096"/>
+<area shape="rect" id="node40" href="$video_dummy_8h.html#accfc9bd063be86a02e9c387f0f470948" title="ar2VideoSetParamiDummy" alt="" coords="895,1120,1075,1147"/>
+<area shape="rect" id="node41" href="$video_v4_l2_8h.html#a1c26a387d473bc0120e15ec19b627cf9" title="ar2VideoSetParamiV4L2" alt="" coords="903,1171,1067,1197"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="arwGetVideoParams" name="arwGetVideoParams">
+<area shape="rect" id="node2" href="$class_a_r_controller.html#ae504ee5e5ac8dea6f044f7f96f472cdb" title="Reports width, height and pixel format of a video source. " alt="" coords="196,56,399,83"/>
+<area shape="rect" id="node6" href="$ar_util_8c.html#a97d737ba2827a9edfd10deefb3ce03b4" title="Get the size in bytes of a single pixel for a given pixel format. " alt="" coords="233,107,362,133"/>
+<area shape="rect" id="node7" href="$ar_util_8c.html#a6fc7ced3a5cee590c5e9f0166b83a6d7" title="Get a string holding a descriptive name for a given pixel format enumeration. " alt="" coords="208,157,387,184"/>
+<area shape="rect" id="node3" href="$class_a_r_video_source.html#abee133d378f5c800b9184a983b02a46d" title="Returns the width of the video in pixels. " alt="" coords="449,5,657,32"/>
+<area shape="rect" id="node4" href="$class_a_r_video_source.html#ad891987fbd5707889d159319841f866d" title="Returns the height of the video in pixels. " alt="" coords="447,56,659,83"/>
+<area shape="rect" id="node5" href="$class_a_r_video_source.html#aa7b003e7ab2ce739d0940172bd91ca3c" title="Returns the pixel format of the video. " alt="" coords="447,107,658,133"/>
+</map>

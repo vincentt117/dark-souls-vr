@@ -1,0 +1,18 @@
+<map id="/bitrise/src/Source/AR6/include/AR6/ARTrackerSquare.h" name="/bitrise/src/Source/AR6/include/AR6/ARTrackerSquare.h">
+<area shape="rect" id="node2" href="$_a_r_tracker_8h.html" title="AR6/ARTracker.h" alt="" coords="1003,109,1130,136"/>
+<area shape="rect" id="node20" href="$_a_r_trackable_8h.html" title="AR6/ARTrackable.h" alt="" coords="720,184,859,211"/>
+<area shape="rect" id="node25" href="$_a_r_trackable_square_8h.html" title="AR6/ARTrackableSquare.h" alt="" coords="799,109,979,136"/>
+<area shape="rect" id="node26" href="$_a_r_trackable_multi_square_8h.html" title="AR6/ARTrackableMultiSquare.h" alt="" coords="516,109,724,136"/>
+<area shape="rect" id="node3" href="$_platform_8h.html" title="AR6/Platform.h" alt="" coords="968,184,1080,211"/>
+<area shape="rect" id="node4" href="$ar_8h.html" title="ARToolKit core routines. " alt="" coords="626,333,723,360"/>
+<area shape="rect" id="node10" href="$ar_config_8h.html" title="AR6/AR/arConfig.h" alt="" coords="897,408,1031,435"/>
+<area shape="rect" id="node11" href="$log_8h.html" title="Logging utilities. " alt="" coords="323,408,445,435"/>
+<area shape="rect" id="node14" href="$_a_r_2include_2_a_r6_2_a_r_2matrix_8h.html" title="AR6/AR/matrix.h" alt="" coords="1056,408,1179,435"/>
+<area shape="rect" id="node16" href="$icp_8h.html" title="AR6/AR/icp.h" alt="" coords="139,408,242,435"/>
+<area shape="rect" id="node18" href="$param_8h.html" title="ARToolKit functions for handling calibrated camera parameters. " alt="" coords="1203,408,1325,435"/>
+<area shape="rect" id="node19" href="$ar_image_proc_8h.html" title="ARToolKit functions for 2D luminance image processing. " alt="" coords="712,408,872,435"/>
+<area shape="rect" id="node17" href="$icp_core_8h.html" title="AR6/AR/icpCore.h" alt="" coords="5,483,136,509"/>
+<area shape="rect" id="node21" href="$ar_filter_trans_mat_8h.html" title="Provides filtering of transformation matrices (pose estimates). " alt="" coords="712,259,893,285"/>
+<area shape="rect" id="node22" href="$_a_r_trackable_appearance_8h.html" title="AR6/ARTrackableAppearance.h" alt="" coords="379,259,587,285"/>
+<area shape="rect" id="node27" href="$ar_multi_8h.html" title="AR6/AR/arMulti.h" alt="" coords="559,184,684,211"/>
+</map>

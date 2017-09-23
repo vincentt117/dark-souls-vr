@@ -1,0 +1,51 @@
+<map id="arwSetTrackableOptionFloat" name="arwSetTrackableOptionFloat">
+<area shape="rect" id="node2" href="$class_a_r_controller.html#a4eafe05e50bdb9e788ad836f4c2104f1" title="Searches the collection of markers for the given ID. " alt="" coords="748,313,931,339"/>
+<area shape="rect" id="node3" href="$class_a_r_trackable.html#a003593728264b87959a7494f3415e585" title="ARTrackable::setFilterSampleRate" alt="" coords="475,1089,700,1115"/>
+<area shape="rect" id="node5" href="$class_a_r_trackable.html#ad395b7942a14c6862bcbe80891dfcd39" title="ARTrackable::setFilterCutoff\lFrequency" alt="" coords="493,1191,682,1232"/>
+<area shape="rect" id="node6" href="$_a_r6__c_8cpp.html#a54b29610bc4fc2f2f4dc50bf8febbebd" title="Gets the ARToolKit version as a string, such as &quot;4.5.1&quot;. " alt="" coords="503,1257,671,1283"/>
+<area shape="rect" id="node8" href="$_a_r6__c_8cpp.html#aa0bdf561e7cd716bb855f50728e8fabe" title="Return error information Returns the value of the error flag. " alt="" coords="541,515,633,542"/>
+<area shape="rect" id="node9" href="$_a_r6__c_8cpp.html#aa2100c17403a18479585b19b8bfb462b" title="Sets the severity level. " alt="" coords="530,566,645,593"/>
+<area shape="rect" id="node10" href="$_a_r6__c_8cpp.html#a599ffcf785a4864d3610d4814c7aaa83" title="Initialises the ARToolKit to use default pattern size and number of square markers. " alt="" coords="532,617,643,643"/>
+<area shape="rect" id="node11" href="$_a_r6__c_8cpp.html#a46e025c372522627bb163230f5ee2322" title="Initialises the ARToolKit with non&#45;default options for size and number of square markers. " alt="" coords="496,667,679,694"/>
+<area shape="rect" id="node12" href="$_a_r6__c_8cpp.html#a064c4fdea5b871967ac6b2235289479f" title="Changes the working directory to the resources directory used by ARToolKit. " alt="" coords="496,718,679,745"/>
+<area shape="rect" id="node13" href="$_a_r6__c_8cpp.html#ab2c8122ef4f1de61553a5a762da5555d" title="ARToolKit calls arwStopRunning and transitions to an uninitialise state. " alt="" coords="527,769,647,795"/>
+<area shape="rect" id="node14" href="$_a_r6__c_8cpp.html#a145c793949180556b9c793b62724fd42" title="Initialises and starts video capture (sourcing). " alt="" coords="528,819,647,846"/>
+<area shape="rect" id="node15" href="$_a_r6__c_8cpp.html#a255af82cd4725b89158d67a11a159acd" title="arwStartRunningStereo" alt="" coords="509,870,666,897"/>
+<area shape="rect" id="node16" href="$_a_r6__c_8cpp.html#ae6e65dda93a8632499b4cdc2bd8d0a1e" title="Returns true is ARToolKit is initialized which should be the case if arwInitialiseAR() or arwInitiali..." alt="" coords="544,921,631,947"/>
+<area shape="rect" id="node17" href="$_a_r6__c_8cpp.html#ac34baf548a621497df35fa6005267fe3" title="Returns true if ARToolKit started video capture (sourcing) and marker detection is enabled..." alt="" coords="536,971,639,998"/>
+<area shape="rect" id="node18" href="$_a_r6__c_8cpp.html#ac1ceff31fcd707c9afe8d3ae74fdc17c" title="ARToolKit stops &#45; disables marker detection, stops video capture, closes the video source(s) and free..." alt="" coords="528,1307,647,1334"/>
+<area shape="rect" id="node19" href="$_a_r6__c_8cpp.html#a14e7228d3738a76407002ae9d8c0ee02" title="Populates the given float array with the projection matrix computed from camera parameters for the vi..." alt="" coords="508,1358,667,1385"/>
+<area shape="rect" id="node20" href="$_a_r6__c_8cpp.html#a3ba58d366e03fcecda647f194283afbf" title="Populates the given float arrays with the projection matrices computed from camera parameters for eac..." alt="" coords="489,1409,685,1435"/>
+<area shape="rect" id="node21" href="$_a_r6__c_8cpp.html#afabd773b9ce4edd2968268b79b1a71c6" title="Returns the parameters of the video source frame. " alt="" coords="516,1459,659,1486"/>
+<area shape="rect" id="node22" href="$_a_r6__c_8cpp.html#ad2a43bbcaeecfa7044c589deada8a38c" title="Returns the parameters of the video source frames. " alt="" coords="497,1510,677,1537"/>
+<area shape="rect" id="node23" href="$_a_r6__c_8cpp.html#a640a359934d7fed3c03a110452508e2c" title="Captures a newest frame from the video source. " alt="" coords="543,1561,632,1587"/>
+<area shape="rect" id="node24" href="$_a_r6__c_8cpp.html#aecf9a315428b2ca7902ce4698038e59e" title="Performs detection and marker updates. " alt="" coords="535,1611,639,1638"/>
+<area shape="rect" id="node25" href="$_a_r6__c_8cpp.html#ae099059b936ece9178b847dbb8fd6c50" title="Populates the provided floating&#45;point RGBA32 buffer with the current video frame. ..." alt="" coords="516,1662,659,1689"/>
+<area shape="rect" id="node26" href="$_a_r6__c_8cpp.html#a28f09f118c0f6afc08e374047b218cf1" title="Initialise display of video frames in a graphics context. " alt="" coords="516,1713,659,1739"/>
+<area shape="rect" id="node27" href="$_a_r6__c_8cpp.html#a34751fd1c2269f9524b77ebfdebd4a8b" title="Specify the layout of the graphics context in which display of video frames will occur. " alt="" coords="501,1763,673,1790"/>
+<area shape="rect" id="node28" href="$_a_r6__c_8cpp.html#a1745100357575c581224223aa8510de0" title="Displays the latest frame from the video source in the active graphics context. " alt="" coords="525,1814,649,1841"/>
+<area shape="rect" id="node29" href="$_a_r6__c_8cpp.html#ace6a3f36ac37588c5c634c3ebc904d30" title="Finalise display of video frames in a graphics context. " alt="" coords="511,1865,663,1891"/>
+<area shape="rect" id="node30" href="$_a_r6__c_8cpp.html#aadde1bb88cbbcb0499856ee88ca53af6" title="Adds a trackable as specified in the given configuration string. " alt="" coords="534,1915,641,1942"/>
+<area shape="rect" id="node31" href="$_a_r6__c_8cpp.html#ab065f1eafc1531ee0ce1795f3390cb7a" title="Removes the marker with the given unique identifier (UID). " alt="" coords="521,1966,653,1993"/>
+<area shape="rect" id="node32" href="$_a_r6__c_8cpp.html#acac2a89bb60b2a749073507972ea170a" title="Clears the collection of markers. " alt="" coords="510,2017,665,2043"/>
+<area shape="rect" id="node33" href="$_a_r6__c_8cpp.html#a9fad5b0c5cc201b2bd4f77109933542c" title="arwLoad2DTrackerImageDatabase" alt="" coords="475,2067,699,2094"/>
+<area shape="rect" id="node34" href="$_a_r6__c_8cpp.html#a01f896e88ce33b768bcc7f2a3d9288e5" title="Returns the visibility status of the specified marker. " alt="" coords="504,414,671,441"/>
+<area shape="rect" id="node35" href="$_a_r6__c_8cpp.html#ae64e001a639ab245e7434ad1df6d25e7" title="Populates the provided float array with the current transformation for the specified marker..." alt="" coords="485,465,690,491"/>
+<area shape="rect" id="node36" href="$_a_r6__c_8cpp.html#a7df47519e0ee32d9669f763089bf1800" title="Populates the provided float arrays with the current transformations for the specified marker..." alt="" coords="485,1023,690,1064"/>
+<area shape="rect" id="node37" href="$_a_r6__c_8cpp.html#a6e1c746d5aa8b2e630716d3af0365faf" title="Returns the number of pattern images associated with the specified marker. " alt="" coords="492,95,683,136"/>
+<area shape="rect" id="node38" href="$_a_r6__c_8cpp.html#ae01a14ad9582c7e371dfdfe82929ee17" title="Set boolean options associated with a tracker. " alt="" coords="502,2118,673,2145"/>
+<area shape="rect" id="node39" href="$_a_r6__c_8cpp.html#aa09a50275d6f178d6ec10930eb300033" title="Set integer options associated with a tracker. " alt="" coords="507,2169,667,2195"/>
+<area shape="rect" id="node40" href="$_a_r6__c_8cpp.html#a59edab3df77159c18b834bf2ed21af53" title="Set floating&#45;point options associated with a tracker. " alt="" coords="500,2219,675,2246"/>
+<area shape="rect" id="node41" href="$_a_r6__c_8cpp.html#a8c93cf66d2da657f0e8ab5b8e2dee872" title="Get boolean options associated with a tracker. " alt="" coords="501,2270,673,2297"/>
+<area shape="rect" id="node42" href="$_a_r6__c_8cpp.html#af4c0c93a08bc2fda145cd692c733c045" title="Get integer options associated with a tracker. " alt="" coords="507,2321,668,2347"/>
+<area shape="rect" id="node43" href="$_a_r6__c_8cpp.html#a968a6dd785d576d6c0828176e0f7b199" title="Get floating&#45;point options associated with a tracker. " alt="" coords="500,2371,675,2398"/>
+<area shape="rect" id="node44" href="$_a_r6__c_8cpp.html#a3958aa832d3456fd908ea6223513c7b7" title="Set boolean options associated with a marker. " alt="" coords="495,161,679,187"/>
+<area shape="rect" id="node45" href="$_a_r6__c_8cpp.html#a592f2d23ee7fb59cde4a5076bde574c3" title="Set integer options associated with a marker. " alt="" coords="501,211,674,238"/>
+<area shape="rect" id="node46" href="$_a_r6__c_8cpp.html#a981a66035962a17c43c0c83d4786f2f7" title="Set floating&#45;point options associated with a marker. " alt="" coords="240,1257,427,1283"/>
+<area shape="rect" id="node47" href="$_a_r6__c_8cpp.html#a7f287927eab67fb97dc347449ffbfaf5" title="Get boolean options associated with a marker. " alt="" coords="495,262,680,289"/>
+<area shape="rect" id="node48" href="$_a_r6__c_8cpp.html#a7039e564e810513934a70f925b002bb5" title="Get integer options associated with a marker. " alt="" coords="500,313,675,339"/>
+<area shape="rect" id="node49" href="$_a_r6__c_8cpp.html#a62e6954319ee6830901877ed012d40b7" title="Get floating&#45;point options associated with a marker. " alt="" coords="493,363,681,390"/>
+<area shape="rect" id="node50" href="$_a_r6__c_8cpp.html#a71b145cb2548edfbf80ce3e7e9ab4fcd" title="Populates the provided floating&#45;point RGBA32 buffers with the current stereo video frame..." alt="" coords="497,2422,678,2449"/>
+<area shape="rect" id="node4" href="$ar_filter_trans_mat_8c.html#ae82377e0d7286e5808b319a38c13c02c" title="Set the filter parameters. " alt="" coords="748,1143,931,1170"/>
+<area shape="rect" id="node7" href="$class_a_r_controller.html#ac9def91f09d79a2f0e8a5aed2e4756f4" title="Returns a pointer to a C string containing the ARToolKit version, such as &quot;4.5.1&quot;. " alt="" coords="748,1249,931,1291"/>
+</map>

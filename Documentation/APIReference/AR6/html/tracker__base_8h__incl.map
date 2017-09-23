@@ -1,0 +1,10 @@
+<map id="/bitrise/src/Source/AR6/InstantOn/include/AR6/InstantOn/cv/trackers/tracker_base.h" name="/bitrise/src/Source/AR6/InstantOn/include/AR6/InstantOn/cv/trackers/tracker_base.h">
+<area shape="rect" id="node2" href="$image_8h.html" title="AR6/InstantOn/framework\l/image.h" alt="" coords="87,124,261,165"/>
+<area shape="rect" id="node6" href="$point_8h.html" title="AR6/InstantOn/utils\l/point.h" alt="" coords="347,213,484,255"/>
+<area shape="rect" id="node7" href="$track__index_8h.html" title="track_index.h" alt="" coords="691,131,791,158"/>
+<area shape="rect" id="node9" href="$feature__point_8h.html" title="../features/feature\l_point.h" alt="" coords="1274,213,1399,255"/>
+<area shape="rect" id="node11" href="$matcher__types_8h.html" title="../matchers/matcher\l_types.h" alt="" coords="1111,213,1250,255"/>
+<area shape="rect" id="node13" href="$visual__database__types_8h.html" title="../matchers/visual\l_database_types.h" alt="" coords="675,213,807,255"/>
+<area shape="rect" id="node15" href="$filesystem__utils_8h.html" title="AR6/InstantOn/framework\l/filesystem_utils.h" alt="" coords="912,213,1087,255"/>
+<area shape="rect" id="node16" href="$indexing_8h.html" title="AR6/InstantOn/math\l/indexing.h" alt="" coords="508,213,651,255"/>
+</map>

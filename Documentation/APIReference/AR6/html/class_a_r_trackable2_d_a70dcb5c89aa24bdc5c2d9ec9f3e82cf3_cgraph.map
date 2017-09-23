@@ -1,0 +1,9 @@
+<map id="ARTrackable2D::load" name="ARTrackable2D::load">
+<area shape="rect" id="node2" href="$class_a_r_trackable2_d.html#af6ba92d6646fc2f236f382fdc91cec6a" title="ARTrackable2D::unload" alt="" coords="219,5,381,32"/>
+<area shape="rect" id="node4" href="$_a_r_util_2image__utils_8cpp.html#af7036ecc945f9c5078d5c828add42eb8" title="ReadImageFromFile" alt="" coords="230,107,370,133"/>
+<area shape="rect" id="node6" href="$class_a_r_trackable.html#a913458e15352cfd5488f893c95f9c4f5" title="Allocates space for patterns within this marker. " alt="" coords="200,56,400,83"/>
+<area shape="rect" id="node7" href="$class_a_r_trackable_appearance.html#ae707a5cb985f8f0d0af788858e6d8ea4" title="ARTrackableAppearance\l::load2DTrackerImage" alt="" coords="217,158,383,199"/>
+<area shape="rect" id="node3" href="$class_a_r_trackable.html#aa425f1e3e1ba8d8b39ec6a34f8e2f403" title="Frees allocated patterns and resets the pattern count to zero. " alt="" coords="448,31,625,57"/>
+<area shape="rect" id="node5" href="$_a_r_util_2image__utils_8cpp.html#a9424817ba777cc65968d811652a948ef" title="getFileExtension" alt="" coords="477,107,596,133"/>
+<area shape="rect" id="node8" href="$ioapi_8h.html#a787fa3cf048117ba7123753c1e74fcd6" title="int" alt="" coords="517,165,556,192"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="artvision_instanton::RelativeRigidTransform" name="artvision_instanton::RelativeRigidTransform">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#a9016228a67ca0a10378385eb6222da3f" title="Invert a rigid transform (R,t). " alt="" coords="235,71,387,112"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#ac92c4eddb2fe53974a5c9daf206ea219" title="Compound the rigid transformation y = R1*(R0*x+t0)+t1. " alt="" coords="220,136,403,177"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#a3d0ce0df588b3caad7fc4bcbcb614b62" title="Transpose of a 3x3 matrix. " alt="" coords="451,5,599,47"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#a614c9cf49c0617570fffd18befe57f8a" title="y = A*x where A is a 3x3 and x is a 3x1. " alt="" coords="459,71,590,112"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#a77d8d8df593b392f9d9c81a9d70eaa2e" title="C = A*B where A,B and C are 3x3 matrices. " alt="" coords="459,136,590,177"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#ab4058805b1bbef9fbba6688a6f4ce7b6" title="artvision_instanton\l::AddVector3" alt="" coords="459,201,590,243"/>
+</map>

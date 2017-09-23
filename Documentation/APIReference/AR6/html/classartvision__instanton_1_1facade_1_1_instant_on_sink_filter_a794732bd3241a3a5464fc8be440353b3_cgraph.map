@@ -1,0 +1,6 @@
+<map id="artvision_instanton::facade::InstantOnSinkFilter::receive" name="artvision_instanton::facade::InstantOnSinkFilter::receive">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_filter.html#a00f9e5e9622b401a6ed5f4008af57ce5" title="Get an input stream id with a type id. " alt="" coords="260,5,397,47"/>
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_pose_stream.html#a56ae1dee334aa35fe4f7674a371ded81" title="Get the stream type id. " alt="" coords="255,71,402,112"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_pose_sample.html#ac4d838909518b88bf9fd7333143e4f79" title="artvision_instanton\l::PoseSample::quaternion" alt="" coords="243,136,415,177"/>
+<area shape="rect" id="node5" href="$classartvision__instanton_1_1_pose_sample.html#aa59848d8182596879b637281cd19e084" title="artvision_instanton\l::PoseSample::translation" alt="" coords="243,201,415,243"/>
+</map>

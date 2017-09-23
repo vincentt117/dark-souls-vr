@@ -1,0 +1,4 @@
+<map id="artvision_instanton::ComputePinholeProjection" name="artvision_instanton::ComputePinholeProjection">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#a2e4a1c1738a313cb7c2c174d94f6de59" title="Compute the Pinhole Projection of a 3D point in camera space. " alt="" coords="237,5,421,47"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#a7353501a2ebe28e96528be2f2bfe4eaf" title="Safe reciprical (1/x). " alt="" coords="469,5,600,47"/>
+</map>

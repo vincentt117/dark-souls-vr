@@ -1,0 +1,20 @@
+<map id="/bitrise/src/Source/AR6/InstantOn/include/AR6/InstantOn/math/quaternion.h" name="/bitrise/src/Source/AR6/InstantOn/include/AR6/InstantOn/math/quaternion.h">
+<area shape="rect" id="node2" href="$harris__ncc__tracker_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/cv/trackers\l/harris_ncc_tracker.cpp" alt="" coords="759,591,942,647"/>
+<area shape="rect" id="node3" href="$attitude__sampler_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/extensions\l/attitude_sampler.cpp" alt="" coords="50,117,230,173"/>
+<area shape="rect" id="node4" href="$homography__tracker__filter_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/extensions\l/homography_tracker_filter.cpp" alt="" coords="615,703,816,759"/>
+<area shape="rect" id="node5" href="$_vision4d-_instant_on_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/extensions\l/Vision4d&#45;InstantOn.cpp" alt="" coords="167,703,347,759"/>
+<area shape="rect" id="node6" href="$camera_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/cv/geometry\l/camera.h" alt="" coords="1138,109,1328,180"/>
+<area shape="rect" id="node7" href="$cv_2geometry_2homography_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/cv/geometry\l/homography.h" alt="" coords="1488,465,1677,536"/>
+<area shape="rect" id="node14" href="$math_2homography_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/math/homography.h" alt="" coords="624,117,856,173"/>
+<area shape="rect" id="node8" href="$p3p_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/cv/geometry/p3p.h" alt="" coords="1270,235,1495,291"/>
+<area shape="rect" id="node12" href="$pinhole__lens__model_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/cv/geometry\l/pinhole_lens_model.h" alt="" coords="956,228,1145,299"/>
+<area shape="rect" id="node13" href="$radial__lens__model_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/cv/geometry\l/radial_lens_model.h" alt="" coords="938,347,1128,417"/>
+<area shape="rect" id="node9" href="$pnp__jacobians_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/cv/pnp\l_estimation/pnp_jacobians.h" alt="" coords="1253,347,1440,417"/>
+<area shape="rect" id="node10" href="$pnp__solver_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/cv/pnp\l_estimation/pnp_solver.h" alt="" coords="1195,465,1362,536"/>
+<area shape="rect" id="node11" href="$robust__pnp_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/cv/pnp\l_estimation/robust_pnp.h" alt="" coords="1256,584,1424,655"/>
+<area shape="rect" id="node15" href="$homography__solver_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/cv/homography\l_estimation/homography_solver.h" alt="" coords="203,228,420,299"/>
+<area shape="rect" id="node16" href="$robust__homography_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/cv/homography\l_estimation/robust_homography.h" alt="" coords="460,347,678,417"/>
+<area shape="rect" id="node19" href="$homography__tracker_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/cv/trackers\l/homography_tracker.h" alt="" coords="444,228,627,299"/>
+<area shape="rect" id="node17" href="$harris__ncc__tracker_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/cv/trackers\l/harris_ncc_tracker.h" alt="" coords="486,465,668,536"/>
+<area shape="rect" id="node18" href="$homography__tracker__filter_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/homography_tracker_filter.h" alt="" coords="484,584,670,655"/>
+</map>

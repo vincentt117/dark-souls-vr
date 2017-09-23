@@ -1,0 +1,18 @@
+<map id="artvision_instanton::PyramidFilter::receive" name="artvision_instanton::PyramidFilter::receive">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_sample.html#a0c5451f20fdad414c06ca3c35f743d6e" title="Get sample as a type. " alt="" coords="234,5,365,47"/>
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_filter.html#a00f9e5e9622b401a6ed5f4008af57ce5" title="Get an input stream id with a type id. " alt="" coords="231,71,368,112"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_video_stream_gray.html#a76dc97039615a7c242b3a658c41383ea" title="Get the stream type id. " alt="" coords="211,136,388,177"/>
+<area shape="rect" id="node5" href="$classartvision__instanton_1_1_image_sample.html#a35c53a5db36e9a3dff1d53df5319536b" title="Get the image. " alt="" coords="223,201,376,243"/>
+<area shape="rect" id="node6" href="$classartvision__instanton_1_1_object_pool.html#a69af143612ec698e3bdf9e242407fd42" title="Get an instance of an object. " alt="" coords="234,267,365,308"/>
+<area shape="rect" id="node9" href="$namespaceartvision__instanton.html#a5e08d75f6f1d91380ba47b8717d3131b" title="Compute the number of octaves for a width/height from the minimum size at the coarsest octave..." alt="" coords="234,332,365,373"/>
+<area shape="rect" id="node10" href="$classartvision__instanton_1_1_image.html#a26334124ea185241a9af99e03bdd6385" title="Get the dimensions of the image. " alt="" coords="234,397,365,439"/>
+<area shape="rect" id="node11" href="$ioapi_8h.html#a787fa3cf048117ba7123753c1e74fcd6" title="int" alt="" coords="280,463,319,490"/>
+<area shape="rect" id="node12" href="$classartvision__instanton_1_1_image.html#a8fe378f1d9a2fbeb89112b9c9600bdd6" title="artvision_instanton\l::Image::height" alt="" coords="234,515,365,556"/>
+<area shape="rect" id="node13" href="$classartvision__instanton_1_1_sample.html#aad71b692072280b82f2d6deaa84db100" title="artvision_instanton\l::Sample::getFrameTime" alt="" coords="216,580,383,621"/>
+<area shape="rect" id="node14" href="$classartvision__instanton_1_1_filter.html#adbb933af713b5ae070aa0d1711812f8d" title="Get an output stream with a stream Id. " alt="" coords="227,645,372,687"/>
+<area shape="rect" id="node15" href="$classartvision__instanton_1_1_pyramid_stream.html#a0c009a3762734fda70bbee68ea586d2a" title="Get the stream type id. " alt="" coords="217,711,381,752"/>
+<area shape="rect" id="node16" href="$classartvision__instanton_1_1_pyramid_sample.html#aacde41239e1f83d0c3048e957c28494e" title="Set/Get the pointer to the pyramid. " alt="" coords="225,776,373,817"/>
+<area shape="rect" id="node17" href="$classartvision__instanton_1_1_filter.html#ac2884c25d6bed9467810757cb0751c10" title="Send a container to the child filters. " alt="" coords="234,841,365,883"/>
+<area shape="rect" id="node7" href="$classartvision__instanton_1_1_fixed_size_lock_free_queue.html#a5836e43562ee85f38846f252588b3e81" title="Pop an item from the queue. " alt="" coords="439,235,649,276"/>
+<area shape="rect" id="node8" href="$classartvision__instanton_1_1_fixed_size_lock_free_queue.html#a045d02b7b57e58745fcd8dd152a173e7" title="Push an item onto the queue. " alt="" coords="436,300,652,341"/>
+</map>

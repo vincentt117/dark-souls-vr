@@ -1,0 +1,9 @@
+<map id="artvision_instanton::Timer::~Timer" name="artvision_instanton::Timer::~Timer">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_timer.html#a3a8b5272198d029779dc9302a54305a8" title="Start the timer–reet the accumulated time to 0. " alt="" coords="186,51,317,92"/>
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_timer.html#a9020542d73357a4eef512eefaf57524b" title="Reset the timer; reset the accumulated time to 0. " alt="" coords="369,5,499,47"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_timer.html#a4ac55a73bb3431db9d4d2fd70ae9a2e8" title="Pause timer usage: Start or resume the timer. " alt="" coords="369,96,499,137"/>
+<area shape="rect" id="node5" href="$classartvision__instanton_1_1_timer.html#a63f0eb44b27402196590a03781515dba" title="Stop the timer. " alt="" coords="186,168,317,209"/>
+<area shape="rect" id="node6" href="$classartvision__instanton_1_1_timer.html#a0289effad7b573c508bc27e405900a23" title="Pause timer usage: pause the timer. " alt="" coords="369,205,499,247"/>
+<area shape="rect" id="node7" href="$classartvision__instanton_1_1_timer.html#ae2825671b9ca2365d983d573193fe712" title="Get the timer in seconds. " alt="" coords="367,291,501,347"/>
+<area shape="rect" id="node8" href="$classartvision__instanton_1_1_timer.html#a8892da4ea9dc503f5b9e17ba8ece0b00" title="Get the timer in milliseconds. " alt="" coords="184,335,319,391"/>
+</map>

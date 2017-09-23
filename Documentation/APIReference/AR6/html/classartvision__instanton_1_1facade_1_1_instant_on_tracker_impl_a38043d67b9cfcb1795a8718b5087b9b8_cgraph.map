@@ -1,0 +1,8 @@
+<map id="artvision_instanton::facade::InstantOnTrackerImpl::initializeTracking" name="artvision_instanton::facade::InstantOnTrackerImpl::initializeTracking">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_video_stream_gray.html#a76dc97039615a7c242b3a658c41383ea" title="Get the stream type id. " alt="" coords="238,5,415,47"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#ae7ddea6e66a6048556b4f1e119603636" title="artvision_instanton\l::CopyVector9" alt="" coords="261,71,392,112"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_attitude_stream.html#a97689b8ec55f320dfa6b2e0359da1cf6" title="Get the stream type id. " alt="" coords="246,136,407,177"/>
+<area shape="rect" id="node5" href="$classartvision__instanton_1_1_pyramid_stream.html#a0c009a3762734fda70bbee68ea586d2a" title="Get the stream type id. " alt="" coords="245,201,409,243"/>
+<area shape="rect" id="node6" href="$classartvision__instanton_1_1_pose_stream.html#a56ae1dee334aa35fe4f7674a371ded81" title="Get the stream type id. " alt="" coords="253,267,400,308"/>
+<area shape="rect" id="node7" href="$classartvision__instanton_1_1facade_1_1_instant_on_sink_filter.html#a576bfd6029f369910950d34731f0a13f" title="artvision_instanton\l::facade::InstantOnSinkFilter\l::InstantOnSinkFilter" alt="" coords="232,331,421,387"/>
+</map>

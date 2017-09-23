@@ -1,0 +1,33 @@
+<map id="/bitrise/src/Source/AR6/InstantOn/include/AR6/InstantOn/framework/lockfree_queue.h" name="/bitrise/src/Source/AR6/InstantOn/include/AR6/InstantOn/framework/lockfree_queue.h">
+<area shape="rect" id="node2" href="$filter_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/framework\l/filter.h" alt="" coords="1079,124,1258,195"/>
+<area shape="rect" id="node23" href="$listener__base_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/framework\l/listener_base.h" alt="" coords="2045,124,2223,195"/>
+<area shape="rect" id="node32" href="$object__pool_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/framework\l/object_pool.h" alt="" coords="513,124,691,195"/>
+<area shape="rect" id="node3" href="$filter_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/framework\l/filter.cpp" alt="" coords="1282,376,1461,432"/>
+<area shape="rect" id="node4" href="$framework_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/framework\l/framework.h" alt="" coords="1079,243,1258,313"/>
+<area shape="rect" id="node7" href="$transform__filter_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/framework\l/transform_filter.h" alt="" coords="517,243,695,313"/>
+<area shape="rect" id="node17" href="$sink__filter_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/framework\l/sink_filter.h" alt="" coords="826,369,1005,439"/>
+<area shape="rect" id="node19" href="$source__filter_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/framework\l/source_filter.h" alt="" coords="1447,243,1626,313"/>
+<area shape="rect" id="node5" href="$_vision4d-_instant_on_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/extensions\l/Vision4d&#45;InstantOn.cpp" alt="" coords="1344,502,1524,558"/>
+<area shape="rect" id="node6" href="$framework_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/framework\l/framework.cpp" alt="" coords="1029,376,1207,432"/>
+<area shape="rect" id="node8" href="$transform__filter_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/framework\l/transform_filter.cpp" alt="" coords="413,376,591,432"/>
+<area shape="rect" id="node9" href="$attitude__sync__filter_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/attitude_sync_filter.h" alt="" coords="1739,369,1919,439"/>
+<area shape="rect" id="node11" href="$homography__tracker__filter_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/homography_tracker_filter.h" alt="" coords="615,369,802,439"/>
+<area shape="rect" id="node13" href="$pyramid__filter_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/pyramid_filter.h" alt="" coords="5,369,185,439"/>
+<area shape="rect" id="node15" href="$sample__tuple_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/framework\l/sample_tuple.h" alt="" coords="210,369,389,439"/>
+<area shape="rect" id="node10" href="$attitude__sync__filter_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/extensions\l/attitude_sync_filter.cpp" alt="" coords="1739,502,1919,558"/>
+<area shape="rect" id="node12" href="$homography__tracker__filter_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/extensions\l/homography_tracker_filter.cpp" alt="" coords="608,502,809,558"/>
+<area shape="rect" id="node14" href="$pyramid__filter_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/extensions\l/pyramid_filter.cpp" alt="" coords="5,502,185,558"/>
+<area shape="rect" id="node16" href="$sample__tuple_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/framework\l/sample_tuple.cpp" alt="" coords="210,502,389,558"/>
+<area shape="rect" id="node18" href="$sink__filter_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/framework\l/sink_filter.cpp" alt="" coords="834,502,1013,558"/>
+<area shape="rect" id="node20" href="$source__filter_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/framework\l/source_filter.cpp" alt="" coords="1485,376,1663,432"/>
+<area shape="rect" id="node21" href="$camera__filter_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/camera_filter.h" alt="" coords="1943,369,2123,439"/>
+<area shape="rect" id="node22" href="$camera__filter_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/extensions\l/camera_filter.cpp" alt="" coords="2065,502,2245,558"/>
+<area shape="rect" id="node24" href="$listener__base_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/framework\l/listener_base.cpp" alt="" coords="2351,250,2530,306"/>
+<area shape="rect" id="node25" href="$attitude__listener__base_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/attitude_listener_base.h" alt="" coords="2147,243,2327,313"/>
+<area shape="rect" id="node31" href="$camera__listener__base_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/camera_listener_base.h" alt="" coords="1943,243,2123,313"/>
+<area shape="rect" id="node26" href="$_vision4d-_instant_on_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/extensions\l/Vision4d&#45;InstantOn.h" alt="" coords="2147,369,2327,439"/>
+<area shape="rect" id="node27" href="$android__attitude__listener_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/external\l/platform/android/device\l/android_attitude_listener.h" alt="" coords="2402,361,2581,447"/>
+<area shape="rect" id="node29" href="$i_o_s__attitude__listener_8h.html" title="/bitrise/src/Source\l/AR6/InstantOn/include\l/AR6/InstantOn/external\l/platform/iOS/device/iOS\l_attitude_listener.h" alt="" coords="2607,361,2773,447"/>
+<area shape="rect" id="node28" href="$android__attitude__listener_8cpp.html" title="/bitrise/src/Source\l/AR6/InstantOn/external\l/platform/android/device\l/android_attitude_listener.cpp" alt="" coords="2393,495,2585,565"/>
+<area shape="rect" id="node30" href="$i_o_s__attitude__listener_8mm.html" title="/bitrise/src/Source\l/AR6/InstantOn/external\l/platform/iOS/device/iOS\l_attitude_listener.mm" alt="" coords="2609,495,2776,565"/>
+</map>

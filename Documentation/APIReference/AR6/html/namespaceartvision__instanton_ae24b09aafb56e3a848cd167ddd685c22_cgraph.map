@@ -1,0 +1,10 @@
+<map id="artvision_instanton::CauchyPerspectiveReprojectionCost" name="artvision_instanton::CauchyPerspectiveReprojectionCost">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#a4afeef708244d526c4e5851f42ac04c0" title="Compute the Cauchy reprojection cost for perspective P*X&#45;x. " alt="" coords="299,71,544,112"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#ae2f91e798164e94f8da847fa07dc5dec" title="Extract a rotation matrix and translation from a projection matrix. " alt="" coords="592,5,779,47"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#a0bcd54deb4ce42595592e6acbe8dd7d1" title="Perform a rigid transformation on a point. " alt="" coords="609,71,761,112"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#a7f364fe0dfa85b3e8e808022f9e53d1f" title="As one_over_scale2 gets larger, cost increases. " alt="" coords="620,136,751,177"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#a614c9cf49c0617570fffd18befe57f8a" title="y = A*x where A is a 3x3 and x is a 3x1. " alt="" coords="840,8,971,49"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#ab4058805b1bbef9fbba6688a6f4ce7b6" title="artvision_instanton\l::AddVector3" alt="" coords="840,73,971,115"/>
+<area shape="rect" id="node8" href="$namespaceartvision__instanton.html#aabfdfd6e431693d8b92948d037feaf4f" title="artvision_instanton::log" alt="" coords="827,141,983,167"/>
+<area shape="rect" id="node9" href="$namespaceartvision__instanton.html#aaf2781e37f3d7d4e78dd2c872d0799b6" title="artvision_instanton::sqr" alt="" coords="827,191,984,218"/>
+</map>

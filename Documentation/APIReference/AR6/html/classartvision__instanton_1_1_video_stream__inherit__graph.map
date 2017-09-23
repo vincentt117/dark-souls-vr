@@ -1,0 +1,6 @@
+<map id="artvision_instanton::VideoStream" name="artvision_instanton::VideoStream">
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_video_stream_gray.html" title="artvision_instanton\l::VideoStreamGray" alt="" coords="363,5,497,47"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_video_stream_r_g_b.html" title="artvision_instanton\l::VideoStreamRGB" alt="" coords="363,71,497,112"/>
+<area shape="rect" id="node5" href="$classartvision__instanton_1_1_video_stream_y_u_v.html" title="artvision_instanton\l::VideoStreamYUV" alt="" coords="363,136,497,177"/>
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_stream.html" title="artvision_instanton\l::Stream" alt="" coords="5,71,136,112"/>
+</map>

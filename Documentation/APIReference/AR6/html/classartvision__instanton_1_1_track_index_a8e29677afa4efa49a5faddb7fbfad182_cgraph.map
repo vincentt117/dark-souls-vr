@@ -1,0 +1,6 @@
+<map id="artvision_instanton::TrackIndex::add" name="artvision_instanton::TrackIndex::add">
+<area shape="rect" id="node2" href="$ioapi_8h.html#a787fa3cf048117ba7123753c1e74fcd6" title="int" alt="" coords="459,14,498,41"/>
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_track_index_id_generator.html#acc3dcb3ef18ab8283bf94a6ec7753a7f" title="artvision_instanton\l::TrackIndexIdGenerator\l::get_track_index_id" alt="" coords="192,25,355,81"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_track_index.html#af9a2d2821956948e43cfc0253174643e" title="artvision_instanton\l::TrackIndex::DeleteFrame" alt="" coords="184,104,363,146"/>
+<area shape="rect" id="node5" href="$classartvision__instanton_1_1_track_index.html#ac9760cecdb1188a741ff76ca8c3899ec" title="Get a frame. " alt="" coords="411,104,547,146"/>
+</map>

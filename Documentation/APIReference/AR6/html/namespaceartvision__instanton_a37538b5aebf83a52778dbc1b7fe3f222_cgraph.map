@@ -1,0 +1,9 @@
+<map id="artvision_instanton::RotationBetweenVectors" name="artvision_instanton::RotationBetweenVectors">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#a762219ce63e83deda0b46bd6a5e7bd28" title="Cross product of two vectors. " alt="" coords="232,5,363,47"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#a3dc56afdff2356f9987c14fc31ec8261" title="artvision_instanton\l::DotProduct3" alt="" coords="232,71,363,112"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#a973bea6e091b3dd756418f53e458ce40" title="Create a 3x3 identity matrix. " alt="" coords="232,136,363,177"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#ab0bba76a11f5b88fda96ddd2f6e33b34" title="artvision_instanton\l::ScaleVector3" alt="" coords="232,201,363,243"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#a7353501a2ebe28e96528be2f2bfe4eaf" title="Safe reciprical (1/x). " alt="" coords="232,267,363,308"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#adc1e30b0cec389f6c8e8b5512b69fb2e" title="artvision_instanton\l::sign" alt="" coords="232,332,363,373"/>
+<area shape="rect" id="node8" href="$namespaceartvision__instanton.html#ae45ee6891c87f52629c7cc8682f2de46" title="Compute the Rodrigues rotation matrix. " alt="" coords="228,397,367,439"/>
+</map>

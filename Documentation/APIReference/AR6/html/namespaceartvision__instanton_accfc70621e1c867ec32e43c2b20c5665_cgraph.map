@@ -1,0 +1,4 @@
+<map id="artvision_instanton::CreateProjectionMatrix_qt" name="artvision_instanton::CreateProjectionMatrix_qt">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#a474be183189084c258078959eaf4da00" title="Quaternion to Rotation Matrix. " alt="" coords="235,5,428,47"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#a4a34a017c3300e59d4404b63b3b24125" title="Create a projection matrix from a rotation matrix (R) and translation (t) of the camera. " alt="" coords="239,71,423,112"/>
+</map>

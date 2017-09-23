@@ -1,0 +1,51 @@
+<map id="artvision_instanton::HomographyTrackerFilter::receive" name="artvision_instanton::HomographyTrackerFilter::receive">
+<area shape="rect" id="node2" href="$classartvision__instanton_1_1_harris_n_c_c_homography_tracker.html#a4d82e50cbe5cc03d37144aca5ecdfd8b" title="Reset the tracker. " alt="" coords="231,30,444,86"/>
+<area shape="rect" id="node5" href="$classartvision__instanton_1_1_filter.html#a00f9e5e9622b401a6ed5f4008af57ce5" title="Get an input stream id with a type id. " alt="" coords="269,109,406,151"/>
+<area shape="rect" id="node6" href="$classartvision__instanton_1_1_video_stream_gray.html#a76dc97039615a7c242b3a658c41383ea" title="Get the stream type id. " alt="" coords="249,175,426,216"/>
+<area shape="rect" id="node7" href="$classartvision__instanton_1_1_pyramid_stream.html#a0c009a3762734fda70bbee68ea586d2a" title="Get the stream type id. " alt="" coords="255,240,419,281"/>
+<area shape="rect" id="node8" href="$classartvision__instanton_1_1_attitude_stream.html#a97689b8ec55f320dfa6b2e0359da1cf6" title="Get the stream type id. " alt="" coords="257,305,418,347"/>
+<area shape="rect" id="node9" href="$namespaceartvision__instanton.html#a6c66861c017992a476041df30f253a6a" title="Convert time to seconds since January 1, 1970. " alt="" coords="249,371,425,412"/>
+<area shape="rect" id="node10" href="$classartvision__instanton_1_1_sample.html#aad71b692072280b82f2d6deaa84db100" title="artvision_instanton\l::Sample::getFrameTime" alt="" coords="254,436,421,477"/>
+<area shape="rect" id="node11" href="$classartvision__instanton_1_1_attitude_sample.html#aa7b8c509fc7635728e2c701cd20d45dd" title="Get the number of data samples. " alt="" coords="262,501,413,543"/>
+<area shape="rect" id="node12" href="$classartvision__instanton_1_1_attitude_sample.html#a48a3e980390ce365717f2babf6b06059" title="Get attitude data. " alt="" coords="265,567,410,608"/>
+<area shape="rect" id="node13" href="$namespaceartvision__instanton.html#afb71cb43897941415197730562f82e38" title="Extract the translation from the homography, using the given rotation (as a quaternion) ..." alt="" coords="747,225,962,267"/>
+<area shape="rect" id="node18" href="$classartvision__instanton_1_1_harris_n_c_c_homography_tracker.html#a865eed782c8a565b158f7e7bf40f888d" title="Get geometry. " alt="" coords="231,814,444,870"/>
+<area shape="rect" id="node19" href="$classartvision__instanton_1_1_harris_n_c_c_homography_tracker.html#ad2fdd99f5136be93f4d0da430118723b" title="Get the Harris matcher. " alt="" coords="231,894,444,950"/>
+<area shape="rect" id="node20" href="$classartvision__instanton_1_1_track_matcher_base.html#aca032970c32f06fa8197da5fc0b7cbc9" title="artvision_instanton\l::TrackMatcherBase::\lgetKMatrix" alt="" coords="263,974,411,1030"/>
+<area shape="rect" id="node21" href="$classartvision__instanton_1_1_filter.html#adbb933af713b5ae070aa0d1711812f8d" title="Get an output stream with a stream Id. " alt="" coords="265,1053,410,1095"/>
+<area shape="rect" id="node22" href="$classartvision__instanton_1_1_pose_stream.html#a56ae1dee334aa35fe4f7674a371ded81" title="Get the stream type id. " alt="" coords="264,1119,411,1160"/>
+<area shape="rect" id="node23" href="$classartvision__instanton_1_1_filter.html#a10db18def7f8e09741de41467d3bf589" title="Get the name of the filter. " alt="" coords="272,1184,403,1225"/>
+<area shape="rect" id="node24" href="$classartvision__instanton_1_1_filter.html#ac2884c25d6bed9467810757cb0751c10" title="Send a container to the child filters. " alt="" coords="272,1249,403,1291"/>
+<area shape="rect" id="node25" href="$classartvision__instanton_1_1_sample.html#aae088d185f0970eb20ad3689ed3bdb01" title="Get the stream. " alt="" coords="272,1315,403,1356"/>
+<area shape="rect" id="node26" href="$namespaceartvision__instanton.html#ae7ddea6e66a6048556b4f1e119603636" title="artvision_instanton\l::CopyVector9" alt="" coords="516,515,647,556"/>
+<area shape="rect" id="node27" href="$namespaceartvision__instanton.html#a0f2d3bf9a5f7cda3645e2dc5e62d9c5a" title="Scale a calibration matrix (K). " alt="" coords="257,1380,418,1421"/>
+<area shape="rect" id="node28" href="$classartvision__instanton_1_1_harris_n_c_c_homography_tracker.html#abdd67c4b53e954dc62c13b853f2a05ff" title="Set the kMatrix (intrinsic camera parameters) " alt="" coords="231,1445,444,1501"/>
+<area shape="rect" id="node29" href="$classartvision__instanton_1_1_harris_n_c_c_homography_tracker.html#a02c30d9a725251c3c196923474f446e7" title="Detect and track features on a image. " alt="" coords="231,734,444,790"/>
+<area shape="rect" id="node50" href="$classartvision__instanton_1_1_pyramid_sample.html#a639f0df0d2c59e339ac04e47dba28cb1" title="artvision_instanton\l::PyramidSample::get" alt="" coords="263,1524,411,1565"/>
+<area shape="rect" id="node3" href="$namespaceartvision__instanton.html#a973bea6e091b3dd756418f53e458ce40" title="Create a 3x3 identity matrix. " alt="" coords="516,71,647,112"/>
+<area shape="rect" id="node4" href="$classartvision__instanton_1_1_track_index.html#a0dee8c67902b1569196c5e01c63a6417" title="Clear the index. " alt="" coords="516,5,647,47"/>
+<area shape="rect" id="node14" href="$namespaceartvision__instanton.html#a77d8d8df593b392f9d9c81a9d70eaa2e" title="C = A*B where A,B and C are 3x3 matrices. " alt="" coords="1070,421,1201,463"/>
+<area shape="rect" id="node15" href="$namespaceartvision__instanton.html#aa597f9135b078c157bf7bb51a02157f9" title="Invert a calibration matrix (K). " alt="" coords="1055,356,1216,397"/>
+<area shape="rect" id="node16" href="$namespaceartvision__instanton.html#a41b79f3ef269aeca8553c6daea6a60c9" title="artvision_instanton\l::ScaleVector9" alt="" coords="1070,225,1201,267"/>
+<area shape="rect" id="node17" href="$namespaceartvision__instanton.html#a474be183189084c258078959eaf4da00" title="Quaternion to Rotation Matrix. " alt="" coords="1039,291,1232,332"/>
+<area shape="rect" id="node30" href="$classartvision__instanton_1_1_harris_n_c_c_matcher.html#ae5b8c95b9d088dcf00394fee2574d5e9" title="Detect and track features on a image. " alt="" coords="492,683,671,724"/>
+<area shape="rect" id="node31" href="$classartvision__instanton_1_1_image.html#a26334124ea185241a9af99e03bdd6385" title="Get the dimensions of the image. " alt="" coords="789,291,920,332"/>
+<area shape="rect" id="node32" href="$classartvision__instanton_1_1_image.html#a8fe378f1d9a2fbeb89112b9c9600bdd6" title="artvision_instanton\l::Image::height" alt="" coords="789,356,920,397"/>
+<area shape="rect" id="node41" href="$classartvision__instanton_1_1_harris_n_c_c_matcher.html#a4f159ce80ef8360db5cd2a17f21c3072" title="Get points for inspection image. " alt="" coords="506,917,657,973"/>
+<area shape="rect" id="node42" href="$classartvision__instanton_1_1_track_index.html#a759984ec56d1762a72db568be1a299dd" title="Add observations from the current frame. " alt="" coords="516,996,647,1037"/>
+<area shape="rect" id="node43" href="$classartvision__instanton_1_1_harris_n_c_c_matcher.html#add9710bb2137e51c5dd8a184d870a545" title="Get matches. " alt="" coords="506,1061,657,1117"/>
+<area shape="rect" id="node44" href="$namespaceartvision__instanton.html#ad493f3aa1d176a5c986761e5b353254a" title="Compute the inverse of a 3x3 matrix. " alt="" coords="516,1140,647,1181"/>
+<area shape="rect" id="node45" href="$classartvision__instanton_1_1_track_index.html#ade4f07be8c970508168c98a3f05de9e1" title="Get the correspondences between two frames in the frame buffer. " alt="" coords="753,1181,956,1223"/>
+<area shape="rect" id="node46" href="$classartvision__instanton_1_1_robust_homography.html#a7930af822332c1b1f56fa44bfe5cc906" title="Find the homography from a set of 2D correspondences. " alt="" coords="494,1205,669,1247"/>
+<area shape="rect" id="node47" href="$namespaceartvision__instanton.html#add80f286835c993c36a9ab7fb4ded4cd" title="Take a homography and correspondences, tells you how many are LE than the threshold This function pro..." alt="" coords="516,800,647,841"/>
+<area shape="rect" id="node48" href="$namespaceartvision__instanton.html#aaf2781e37f3d7d4e78dd2c872d0799b6" title="artvision_instanton::sqr" alt="" coords="776,983,933,1010"/>
+<area shape="rect" id="node49" href="$namespaceartvision__instanton.html#a346aad18ded6dcb188124e2b663e2824" title="Normalize a homography such that H(3,3) = 1. " alt="" coords="500,1271,663,1312"/>
+<area shape="rect" id="node33" href="$classartvision__instanton_1_1_n_c_c_matcher.html#a292d4894a6a147724e5edee94e6c16b7" title="Allocate the matcher. " alt="" coords="783,800,926,841"/>
+<area shape="rect" id="node34" href="$ioapi_8h.html#a787fa3cf048117ba7123753c1e74fcd6" title="int" alt="" coords="1116,807,1155,834"/>
+<area shape="rect" id="node35" href="$classartvision__instanton_1_1_n_c_c_matcher.html#ab85059c22bf8ce34887acca044b2209f" title="Set/Get the min score between a pair of features. " alt="" coords="743,487,967,528"/>
+<area shape="rect" id="node36" href="$classartvision__instanton_1_1_image.html#aa2721566b360cd4862e5b061e0a1a8ab" title="Get a pointer to the image data. " alt="" coords="789,552,920,593"/>
+<area shape="rect" id="node37" href="$classartvision__instanton_1_1_image.html#abfe6de817ab2c75f289b7f679c3a1e54" title="artvision_instanton\l::Image::step" alt="" coords="789,617,920,659"/>
+<area shape="rect" id="node38" href="$namespaceartvision__instanton.html#ac602026dd27129911cdee194c5bedd01" title="Create an identity quaternion. " alt="" coords="787,683,923,724"/>
+<area shape="rect" id="node39" href="$namespaceartvision__instanton.html#a87057c16b4daf21442d995beb46b3a0f" title="Given two quaternions, this provides a homography between the two image planes, assuming no translati..." alt="" coords="719,421,991,463"/>
+<area shape="rect" id="node40" href="$namespaceartvision__instanton.html#aac7359704d1486d43ac7b00356511175" title="Multiply an in&#45;homogenous point by a transform. " alt="" coords="723,917,987,959"/>
+</map>

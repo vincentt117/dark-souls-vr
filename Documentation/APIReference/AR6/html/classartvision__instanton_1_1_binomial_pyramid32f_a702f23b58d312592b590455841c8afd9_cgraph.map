@@ -1,0 +1,12 @@
+<map id="artvision_instanton::BinomialPyramid32f::build" name="artvision_instanton::BinomialPyramid32f::build">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#a138423c5e6331108b9b359fed5875eb0" title="The mean of the first pixel quad, and then every other pixel quad afterwards. " alt="" coords="213,5,363,47"/>
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_image.html#ac6859f6426c8d6729f2ada431148506f" title="Get the image type. " alt="" coords="223,71,353,112"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton_1_1details.html#a3cc74bd856a91f136d9e0b7b6085e705" title="Convolve image with [1; 4; 6; 4; 1] kernel in both dimensions. " alt="" coords="200,135,376,191"/>
+<area shape="rect" id="node5" href="$classartvision__instanton_1_1_image.html#aa2721566b360cd4862e5b061e0a1a8ab" title="Get a pointer to the image data. " alt="" coords="223,215,353,256"/>
+<area shape="rect" id="node6" href="$ioapi_8h.html#a787fa3cf048117ba7123753c1e74fcd6" title="int" alt="" coords="269,281,307,307"/>
+<area shape="rect" id="node7" href="$classartvision__instanton_1_1_image.html#a26334124ea185241a9af99e03bdd6385" title="Get the dimensions of the image. " alt="" coords="223,332,353,373"/>
+<area shape="rect" id="node8" href="$classartvision__instanton_1_1_image.html#a8fe378f1d9a2fbeb89112b9c9600bdd6" title="artvision_instanton\l::Image::height" alt="" coords="223,397,353,439"/>
+<area shape="rect" id="node9" href="$namespaceartvision__instanton.html#a694abee5a4fb46db17abac25fda0d8e9" title="Apply a 2D binomial filter to a source image. " alt="" coords="219,463,357,504"/>
+<area shape="rect" id="node10" href="$namespaceartvision__instanton_1_1details.html#af0ebca42cf6b740c84fc2de77e53892b" title="Convolve image with [1; 4; 6; 4; 1] kernel in both dimensions. " alt="" coords="200,527,376,583"/>
+<area shape="rect" id="node11" href="$classartvision__instanton_1_1_image.html#abfe6de817ab2c75f289b7f679c3a1e54" title="artvision_instanton\l::Image::step" alt="" coords="223,607,353,648"/>
+</map>

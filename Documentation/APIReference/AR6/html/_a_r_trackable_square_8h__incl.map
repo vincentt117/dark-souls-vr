@@ -1,0 +1,13 @@
+<map id="/bitrise/src/Source/AR6/include/AR6/ARTrackableSquare.h" name="/bitrise/src/Source/AR6/include/AR6/ARTrackableSquare.h">
+<area shape="rect" id="node2" href="$_a_r_trackable_8h.html" title="AR6/ARTrackable.h" alt="" coords="780,109,919,136"/>
+<area shape="rect" id="node3" href="$ar_8h.html" title="ARToolKit core routines. " alt="" coords="691,259,789,285"/>
+<area shape="rect" id="node19" href="$ar_filter_trans_mat_8h.html" title="Provides filtering of transformation matrices (pose estimates). " alt="" coords="649,184,831,211"/>
+<area shape="rect" id="node20" href="$_a_r_trackable_appearance_8h.html" title="AR6/ARTrackableAppearance.h" alt="" coords="855,184,1063,211"/>
+<area shape="rect" id="node9" href="$ar_config_8h.html" title="AR6/AR/arConfig.h" alt="" coords="895,333,1030,360"/>
+<area shape="rect" id="node10" href="$log_8h.html" title="Logging utilities. " alt="" coords="323,333,445,360"/>
+<area shape="rect" id="node13" href="$_a_r_2include_2_a_r6_2_a_r_2matrix_8h.html" title="AR6/AR/matrix.h" alt="" coords="1055,333,1177,360"/>
+<area shape="rect" id="node15" href="$icp_8h.html" title="AR6/AR/icp.h" alt="" coords="139,333,242,360"/>
+<area shape="rect" id="node17" href="$param_8h.html" title="ARToolKit functions for handling calibrated camera parameters. " alt="" coords="1201,333,1324,360"/>
+<area shape="rect" id="node18" href="$ar_image_proc_8h.html" title="ARToolKit functions for 2D luminance image processing. " alt="" coords="660,333,820,360"/>
+<area shape="rect" id="node16" href="$icp_core_8h.html" title="AR6/AR/icpCore.h" alt="" coords="5,408,136,435"/>
+</map>

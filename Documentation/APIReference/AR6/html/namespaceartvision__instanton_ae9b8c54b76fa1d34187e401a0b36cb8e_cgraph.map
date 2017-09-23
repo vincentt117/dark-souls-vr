@@ -1,0 +1,17 @@
+<map id="artvision_instanton::HierarchicalTranslationTemplateTracker" name="artvision_instanton::HierarchicalTranslationTemplateTracker">
+<area shape="rect" id="node2" href="$namespaceartvision__instanton.html#ae7ddea6e66a6048556b4f1e119603636" title="artvision_instanton\l::CopyVector9" alt="" coords="565,15,695,56"/>
+<area shape="rect" id="node3" href="$classartvision__instanton_1_1_gaussian_scale_space_pyramid.html#a9ff1ea1b99d3ecccba241d5c59a4be0a" title="Get the number of octaves and scales. " alt="" coords="284,54,487,110"/>
+<area shape="rect" id="node4" href="$namespaceartvision__instanton.html#addf800fce68a8cf5b2df621a0d82f5da" title="artvision_instanton\l::trackTemplateTranslation" alt="" coords="297,134,474,175"/>
+<area shape="rect" id="node11" href="$classartvision__instanton_1_1_gaussian_scale_space_pyramid.html#a253e0056c3c800a64a82663ec88ef152" title="Get a pyramid image. " alt="" coords="271,199,500,240"/>
+<area shape="rect" id="node12" href="$classartvision__instanton_1_1_image.html#aa2721566b360cd4862e5b061e0a1a8ab" title="Get a pointer to the image data. " alt="" coords="320,264,451,306"/>
+<area shape="rect" id="node13" href="$ioapi_8h.html#a787fa3cf048117ba7123753c1e74fcd6" title="int" alt="" coords="366,330,405,357"/>
+<area shape="rect" id="node14" href="$classartvision__instanton_1_1_image.html#a26334124ea185241a9af99e03bdd6385" title="Get the dimensions of the image. " alt="" coords="320,382,451,423"/>
+<area shape="rect" id="node15" href="$classartvision__instanton_1_1_image.html#a8fe378f1d9a2fbeb89112b9c9600bdd6" title="artvision_instanton\l::Image::height" alt="" coords="320,447,451,488"/>
+<area shape="rect" id="node16" href="$namespaceartvision__instanton.html#a346aad18ded6dcb188124e2b663e2824" title="Normalize a homography such that H(3,3) = 1. " alt="" coords="304,512,467,554"/>
+<area shape="rect" id="node5" href="$namespaceartvision__instanton.html#a5ccce86998d4f12adf7801ea0d2700ef" title="Solve a 2x2 linear system. " alt="" coords="548,116,712,158"/>
+<area shape="rect" id="node10" href="$namespaceartvision__instanton.html#aaf2781e37f3d7d4e78dd2c872d0799b6" title="artvision_instanton::sqr" alt="" coords="551,182,709,209"/>
+<area shape="rect" id="node6" href="$namespaceartvision__instanton.html#a4d3b09060d8477d50f766af30968b941" title="Compute the inverse of a 2x2 matrix. " alt="" coords="760,83,891,124"/>
+<area shape="rect" id="node9" href="$namespaceartvision__instanton.html#a6bde8cd1dfa63f4eaf095ea673e3da1e" title="y = A*x where A is a 2x2 and x is a 2x1. " alt="" coords="760,148,891,190"/>
+<area shape="rect" id="node7" href="$namespaceartvision__instanton.html#a435aede11734cf5615ef1d0c406b5a36" title="Compute the determinant of a 2x2 matrix. " alt="" coords="939,83,1069,124"/>
+<area shape="rect" id="node8" href="$namespaceartvision__instanton.html#abff23e96b142933b36f258f57fa6fd84" title="Computes the cofactor of a 2x2 matrix. " alt="" coords="1117,83,1248,124"/>
+</map>
