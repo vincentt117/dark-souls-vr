@@ -7,8 +7,8 @@ android {
         applicationId "org.artoolkit.ar6.artracking"
         minSdkVersion 15
         targetSdkVersion 25
-        versionCode 2
-        versionName "1.0"
+        versionCode 6
+        versionName "6.0"
     }
     buildTypes {
         release {

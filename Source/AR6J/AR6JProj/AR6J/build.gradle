@@ -7,8 +7,8 @@ android {
     defaultConfig {
         minSdkVersion 15
         targetSdkVersion 25
-        versionCode 6     // Integer type incremented by 1 for every release, major or minor, to the Google store
-        versionName "6.0" // The real fully qualified major and minor release description
+        versionCode 10     // Integer type incremented by 1 for every release, major or minor, to the Google store
+        versionName "10.0" // The real fully qualified major and minor release description
 
         buildTypes {
                 release {

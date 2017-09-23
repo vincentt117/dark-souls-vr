@@ -10,9 +10,9 @@
 //  Licensed under the Apache License, Version 2.0 (the "License");
 //  you may not use this file except in compliance with the License.
 //  You may obtain a copy of the License at
-// 
+//
 //      http://www.apache.org/licenses/LICENSE-2.0
-// 
+//
 //  Unless required by applicable law or agreed to in writing, software
 //  distributed under the License is distributed on an "AS IS" BASIS,
 //  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -71,6 +71,8 @@ static const struct trackable trackables[] = {
     {"Alterra_Postcard_2.jpg", 95.3},
     {"Alterra_Postcard_3.jpg", 127.0},
     {"Alterra_Postcard_4.jpg", 95.3}
+    {"FB Icon.jpg", 95.3}
+    {"FB Icon2.jpg", 95.3}
 };
 static const int trackableCount = (sizeof(trackables)/sizeof(trackables[0]));
 
@@ -115,14 +117,14 @@ void reshape(int w, int h)
 
 int main(int argc, char *argv[])
 {
-    
+
     // Initialize SDL.
     if (SDL_Init(SDL_INIT_VIDEO) < 0) {
         ARLOGe("Error: SDL initialisation failed. SDL error: '%s'.\n", SDL_GetError());
         quit(1);
         return 1;
     }
-    
+
     // Create a window.
 #if 0
     gSDLWindow = SDL_CreateWindow("ARToolKit6 Tracking Example",
@@ -184,18 +186,18 @@ int main(int argc, char *argv[])
     int w, h;
     SDL_GL_GetDrawableSize(SDL_GL_GetCurrentWindow(), &w, &h);
     reshape(w, h);
-   
+
     // Initialise the ARController.
     arController = new ARController();
     if (!arController->initialiseBase()) {
         ARLOGe("Error initialising ARController.\n");
         quit(-1);
     }
-    
+
 #ifdef DEBUG
     arLogLevel = AR_LOG_LEVEL_DEBUG;
 #endif
-    
+
     // Add trackables.
     int trackableIDs[trackableCount];
 #ifdef DEBUG
@@ -220,13 +222,13 @@ int main(int argc, char *argv[])
 #endif
     // Start tracking.
     arController->startRunning(vconf, NULL, NULL, 0);
-    
+
     free(resourcesDir);
-    
+
     // Main loop.
     bool done = false;
     while (!done) {
-        
+
         SDL_Event ev;
         while (SDL_PollEvent(&ev)) {
             if (ev.type == SDL_QUIT || (ev.type == SDL_KEYDOWN && ev.key.keysym.sym == SDLK_ESCAPE)) {
@@ -250,12 +252,12 @@ int main(int argc, char *argv[])
         } else {
             //ARLOGi("Got frame %ld.\n", gFrameNo);
             gFrameNo++;
-            
+
             if (!arController->update()) {
                 ARLOGe("Error in ARController::update().\n");
                 quit(-1);
             }
-  
+
             if (contextWasUpdated) {
                 if (!arController->displayFrameInit(0)) {
                     ARLOGe("Error in ARController::displayFrameInit().\n");
@@ -276,16 +278,16 @@ int main(int argc, char *argv[])
 #endif
                 contextWasUpdated = false;
             }
-            
+
             SDL_GL_MakeCurrent(gSDLWindow, gSDLContext);
-            
+
             // Clear the context.
             glClearColor(0.0, 0.0, 0.0, 1.0);
             glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
             // Display the current video frame to the current OpenGL context.
             arController->displayFrame(0);
-            
+
             ARdouble projectionARD[16];
             float projection[16];
             arController->getProjectionMatrix(0, projectionARD);
@@ -293,7 +295,7 @@ int main(int argc, char *argv[])
 
             // Look for trackables, and draw on each found one.
             for (int i = 0; i < trackableCount; i++) {
-                
+
                 // Find the trackable for the given trackable ID.
                 ARTrackable *trackable = arController->findTrackable(trackableIDs[i]);
                 float view[16];
@@ -311,11 +313,11 @@ int main(int argc, char *argv[])
                 if (drawAPI == ARG_API_GLES2) drawGLES2(viewport, projection, (trackable->visible ? view : NULL));
 #endif
             }
-            
+
             SDL_GL_SwapWindow(gSDLWindow);
         } //end: if (gotFrame)
     } //end: while (!done) {
-    
+
     quit(0);
     return 0;
 }

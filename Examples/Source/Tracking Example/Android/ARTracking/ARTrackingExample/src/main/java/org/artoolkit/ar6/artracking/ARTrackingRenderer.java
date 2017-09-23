@@ -57,7 +57,8 @@ class ARTrackingRenderer extends ARRenderer {
         new Trackable("Alterra_Postcard_2.jpg", 95.3f),
         new Trackable("Alterra_Postcard_3.jpg", 127.0f),
         //new Trackable("Alterra_Postcard_4.jpg", 95.3f),
-        new Trackable("FB Icon.jpg",140.0f)
+        new Trackable("FB Icon.jpg", 95.3f),
+        new Trackable("FB Icon2.jpg",95.3f)
     };
     private int trackableUIDs[] = new int[trackables.length];
     

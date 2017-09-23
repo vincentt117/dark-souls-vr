@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-port/values-port.xml",
+        "outputFile": "C:\\Users\\Mohammad Ismail\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-port\\values-port.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/values-port/values-port.xml",
+                    "file": "C:\\Users\\Mohammad Ismail\\.android\\build-cache\\adc754c76adb3e49c3f32774e611c58263082282\\output\\res\\values-port\\values-port.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "outputFile": "/Users/Rajan/Desktop/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-port/values-port.xml",
+        "outputFile": "C:\\Users\\vincent\\Dev\\Hackathon\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-port\\values-port.xml",
         "map": [
             {
                 "to": {
@@ -35,7 +35,7 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "/Users/Rajan/.android/build-cache/0df6087b61b11e0aa8fda1b22603e71e859f6891/output/res/values-port/values-port.xml",
+                    "file": "C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\values-port\\values-port.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "outputFile": "/Users/vincent/Dev/Hackathon/artoolkit6/Source/AR6J/AR6JProj/AR6J/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-port/values-port.xml",
+        "outputFile": "C:\\Users\\vincent\\Dev\\Hackathon\\artoolkit6\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-port\\values-port.xml",
         "map": [
             {
                 "to": {
@@ -59,7 +59,31 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/values-port/values-port.xml",
+                    "file": "C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\values-port\\values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Rajan\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\Rajan\\.android\\build-cache\\0df6087b61b11e0aa8fda1b22603e71e859f6891\\output\\res\\values-port\\values-port.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
