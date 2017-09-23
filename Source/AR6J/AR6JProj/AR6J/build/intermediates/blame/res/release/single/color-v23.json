@@ -8,6 +8,14 @@
         "source": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/color-v23/abc_tint_switch_track.xml"
     },
     {
+        "merged": "/Users/Rajan/Desktop/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/release/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/Rajan/.android/build-cache/0df6087b61b11e0aa8fda1b22603e71e859f6891/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/Rajan/Desktop/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/Rajan/.android/build-cache/0df6087b61b11e0aa8fda1b22603e71e859f6891/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
         "merged": "/Users/vincent/Dev/Hackathon/artoolkit6/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
         "source": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/color-v23/abc_tint_edittext.xml"
     },
@@ -16,16 +24,40 @@
         "source": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/color-v23/abc_tint_btn_checkable.xml"
     },
     {
+        "merged": "/Users/Rajan/Desktop/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/Rajan/.android/build-cache/0df6087b61b11e0aa8fda1b22603e71e859f6891/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/Rajan/Desktop/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/Rajan/.android/build-cache/0df6087b61b11e0aa8fda1b22603e71e859f6891/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/Rajan/Desktop/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/Rajan/.android/build-cache/0df6087b61b11e0aa8fda1b22603e71e859f6891/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
         "merged": "/Users/vincent/Dev/Hackathon/artoolkit6/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/release/color-v23/abc_tint_switch_thumb.xml",
         "source": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/Rajan/Desktop/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/Rajan/.android/build-cache/0df6087b61b11e0aa8fda1b22603e71e859f6891/output/res/color-v23/abc_tint_spinner.xml"
     },
     {
         "merged": "/Users/vincent/Dev/Hackathon/artoolkit6/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
         "source": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/color-v23/abc_color_highlight_material.xml"
     },
     {
+        "merged": "/Users/Rajan/Desktop/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/Rajan/.android/build-cache/0df6087b61b11e0aa8fda1b22603e71e859f6891/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
         "merged": "/Users/vincent/Dev/Hackathon/artoolkit6/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
         "source": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/Rajan/Desktop/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/Rajan/.android/build-cache/0df6087b61b11e0aa8fda1b22603e71e859f6891/output/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
         "merged": "/Users/vincent/Dev/Hackathon/artoolkit6/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
@@ -36,7 +68,15 @@
         "source": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
+        "merged": "/Users/Rajan/Desktop/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/Rajan/.android/build-cache/0df6087b61b11e0aa8fda1b22603e71e859f6891/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
         "merged": "/Users/vincent/Dev/Hackathon/artoolkit6/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
         "source": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/Rajan/Desktop/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/Rajan/.android/build-cache/0df6087b61b11e0aa8fda1b22603e71e859f6891/output/res/color-v23/abc_tint_edittext.xml"
     }
 ]

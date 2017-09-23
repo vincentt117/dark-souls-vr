@@ -29,6 +29,7 @@ import org.artoolkit.ar6.base.ARToolKit;
 import org.artoolkit.ar6.base.NativeInterface;
 import org.artoolkit.ar6.base.rendering.ARRenderer;
 import org.artoolkit.ar6.base.rendering.shader_impl.Cube;
+import org.artoolkit.ar6.base.rendering.shader_impl.Line;
 import org.artoolkit.ar6.base.rendering.shader_impl.SimpleFragmentShader;
 import org.artoolkit.ar6.base.rendering.shader_impl.SimpleShaderProgram;
 import org.artoolkit.ar6.base.rendering.shader_impl.SimpleVertexShader;
@@ -54,7 +55,8 @@ class ARTrackingRenderer extends ARRenderer {
         new Trackable("Alterra_Ticket_1.jpg", 95.3f),
         new Trackable("Alterra_Postcard_2.jpg", 95.3f),
         new Trackable("Alterra_Postcard_3.jpg", 127.0f),
-        new Trackable("Alterra_Postcard_4.jpg", 95.3f)
+        new Trackable("Alterra_Postcard_4.jpg", 95.3f),
+        new Trackable("FB_Icon.jpg",60.0f)
     };
     private int trackableUIDs[] = new int[trackables.length];
     
@@ -80,8 +82,9 @@ class ARTrackingRenderer extends ARRenderer {
     @Override
     public void onSurfaceCreated(GL10 unused, EGLConfig config) {
         this.shaderProgram = new SimpleShaderProgram(new SimpleVertexShader(), new SimpleFragmentShader());
-        cube = new Cube(40.0f, 0.0f, 0.0f, 0.0f);
+        cube = new Cube(50.0f, 0.0f, 0.0f, 10.0f);
         cube.setShaderProgram(shaderProgram);
+
         super.onSurfaceCreated(unused, config);
     }
 

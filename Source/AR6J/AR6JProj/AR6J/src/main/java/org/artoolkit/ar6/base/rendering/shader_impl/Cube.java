@@ -83,27 +83,27 @@ public class Cube implements ARDrawable {
         In the marker coordinate system z points from the marker up. x goes to the right and y to the top
          */
         float vertices[] = {
-                x - hs, y - hs, z - hs, // 0 --> If you look at the cube from the front, this is the corner
+                x - hs, y - hs, z , // 0 --> If you look at the cube from the front, this is the corner
                 // in the front on the left of the ground plane.
-                x + hs, y - hs, z - hs, // 1 --> That is the one to the right of corner 0
-                x + hs, y + hs, z - hs, // 2 --> That is the one to the back right of corner 0
-                x - hs, y + hs, z - hs, // 3 --> That is the one to the left of corner 2
+                x + hs, y - hs, z , // 1 --> That is the one to the right of corner 0
+                x + hs, y + hs, z , // 2 --> That is the one to the back right of corner 0
+                x - hs, y + hs, z , // 3 --> That is the one to the left of corner 2
                 // Or if you imaging (or paint) a 3D cube on paper this is the only corner that is hidden
-                x - hs, y - hs, z + hs, // 4 --> That is the top left corner. Directly on top of 0
-                x + hs, y - hs, z + hs, // 5 --> That is directly on top of 1
-                x + hs, y + hs, z + hs, // 6 --> That is directly on top of 2
-                x - hs, y + hs, z + hs, // 7 --> That is directly on top of 3
+                x - hs, y - hs, z , // 4 --> That is the top left corner. Directly on top of 0
+                x + hs, y - hs, z , // 5 --> That is directly on top of 1
+                x + hs, y + hs, z , // 6 --> That is directly on top of 2
+                x - hs, y + hs, z , // 7 --> That is directly on top of 3
         };
-        float c = 1.0f;
+        float c = 6.0f;
         float colors[] = {
-                0, 0, 0, c, // 0 black
-                c, 0, 0, c, // 1 red
-                c, c, 0, c, // 2 yellow
-                0, c, 0, c, // 3 green
-                0, 0, c, c, // 4 blue
+                c, c, c, c, // 6 white
+                c, c, c, c, // 6 white
+                c, c, c, c, // 6 white
+                c, c, c, c, // 6 white
+                c, c, c, c, // 6 white
                 c, 0, c, c, // 5 magenta
                 c, c, c, c, // 6 white
-                0, c, c, c, // 7 cyan
+                c, c, c, c, // 6 white
         };
 
         byte indices[] = {
