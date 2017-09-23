@@ -77,6 +77,7 @@ public class Cube implements ARDrawable {
 
     private void setArrays(float size, float x, float y, float z) {
 
+
         float hs = size / 2.0f;
 
         /*
@@ -101,7 +102,7 @@ public class Cube implements ARDrawable {
                 c, c, c, c, // 6 white
                 c, c, c, c, // 6 white
                 c, c, c, c, // 6 white
-                c, c, c, c, // 5 magenta
+                c, c, c, c, // 6 white
                 c, c, c, c, // 6 white
                 c, c, c, c, // 6 white
         };
@@ -126,6 +127,8 @@ public class Cube implements ARDrawable {
                 0, 1, 4,
                 4, 1, 5
         };
+
+        String text = "Hello World";
 
         mVertexBuffer = RenderUtils.buildFloatBuffer(vertices);
         mColorBuffer = RenderUtils.buildFloatBuffer(colors);

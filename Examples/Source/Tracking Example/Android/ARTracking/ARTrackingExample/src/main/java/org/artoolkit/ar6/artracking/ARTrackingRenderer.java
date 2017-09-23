@@ -24,6 +24,7 @@
 package org.artoolkit.ar6.artracking;
 
 import android.opengl.GLES20;
+import android.util.Log;
 
 import org.artoolkit.ar6.base.ARToolKit;
 import org.artoolkit.ar6.base.NativeInterface;
@@ -55,8 +56,8 @@ class ARTrackingRenderer extends ARRenderer {
         new Trackable("Alterra_Ticket_1.jpg", 95.3f),
         new Trackable("Alterra_Postcard_2.jpg", 95.3f),
         new Trackable("Alterra_Postcard_3.jpg", 127.0f),
-        new Trackable("Alterra_Postcard_4.jpg", 95.3f),
-        //new Trackable("FB_Icon.jpg",60.0f)
+        //new Trackable("Alterra_Postcard_4.jpg", 95.3f),
+        new Trackable("FB Icon.jpg",140.0f)
     };
     private int trackableUIDs[] = new int[trackables.length];
     
@@ -71,6 +72,7 @@ class ARTrackingRenderer extends ARRenderer {
         for (Trackable trackable : trackables) {
             trackableUIDs[i] = ARToolKit.getInstance().addMarker("2d;Data/2d/" + trackable.name + ";" + trackable.height);
             if (trackableUIDs[i] < 0) return false;
+            Log.d("tag", "2d;Data/2d/" + trackable.name + ";" + trackable.height);
             i++;
         }
         NativeInterface.arwSetTrackerOptionInt(NativeInterface.ARW_TRACKER_OPTION_2D_MAX_IMAGES, trackables.length);
@@ -83,10 +85,13 @@ class ARTrackingRenderer extends ARRenderer {
     public void onSurfaceCreated(GL10 unused, EGLConfig config) {
         this.shaderProgram = new SimpleShaderProgram(new SimpleVertexShader(), new SimpleFragmentShader());
         cube = new Cube(75.0f, 0.0f, 0.0f, 10.0f);
+
         cube.setShaderProgram(shaderProgram);
 
         super.onSurfaceCreated(unused, config);
     }
+
+
 
     /**
      * Override the draw function from ARRenderer.
