@@ -25,9 +25,17 @@
 
 package org.artoolkit.ar6.base.rendering.shader_impl;
 
+import android.content.Context;
+
+import android.graphics.Bitmap;
+import android.graphics.Canvas;
+import android.graphics.drawable.Drawable;
+import android.graphics.Paint;
+
 import org.artoolkit.ar6.base.rendering.ARDrawable;
 import org.artoolkit.ar6.base.rendering.util.RenderUtils;
 import org.artoolkit.ar6.base.rendering.ShaderProgram;
+
 
 import java.nio.ByteBuffer;
 import java.nio.FloatBuffer;
@@ -128,13 +136,29 @@ public class Cube implements ARDrawable {
                 4, 1, 5
         };
 
-        String text = "Hello World";
+        // Create an empty, mutable bitmap
+        Bitmap bitmap = Bitmap.createBitmap(256, 256, Bitmap.Config.ARGB_4444);
+        // get a canvas to paint over the bitmap
+        Canvas canvas = new Canvas(bitmap);
+        bitmap.eraseColor(0);
+
+
+        // Draw the text
+        Paint textPaint = new Paint();
+        textPaint.setTextSize(32);
+        textPaint.setAntiAlias(true);
+        textPaint.setARGB(0xff, 0x00, 0x00, 0x00);
+        // draw the text centered
+        canvas.drawText("Hello World", 16,112, textPaint);
+
+
 
         mVertexBuffer = RenderUtils.buildFloatBuffer(vertices);
         mColorBuffer = RenderUtils.buildFloatBuffer(colors);
         mIndexBuffer = RenderUtils.buildByteBuffer(indices);
 
     }
+
 
     @Override
     /**
