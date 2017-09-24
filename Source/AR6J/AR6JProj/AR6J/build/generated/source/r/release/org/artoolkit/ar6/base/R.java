@@ -1938,7 +1938,7 @@ containing a value of this type.
         public static int search_src_text=0x7f0d0050;
         public static int search_voice_btn=0x7f0d0054;
         public static int select_dialog_listview=0x7f0d0055;
-        public static int settings=0x7f0d006f;
+        public static int settings=0x7f0d0070;
         public static int shortcut=0x7f0d003f;
         public static int showCustom=0x7f0d000f;
         public static int showHome=0x7f0d0010;
@@ -1956,6 +1956,7 @@ containing a value of this type.
         public static int text2=0x7f0d0069;
         public static int textSpacerNoButtons=0x7f0d0035;
         public static int textSpacerNoTitle=0x7f0d0034;
+        public static int text_view_id=0x7f0d006f;
         public static int time=0x7f0d0061;
         public static int title=0x7f0d002d;
         public static int titleDividerNoCustom=0x7f0d003c;

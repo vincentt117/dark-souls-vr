@@ -23,7 +23,13 @@
 
 package org.artoolkit.ar6.artracking;
 
+import android.app.AlertDialog;
+import android.content.Context;
+import android.graphics.Paint;
+import android.graphics.drawable.Drawable;
 import android.opengl.GLES20;
+import android.opengl.GLUtils;
+import android.support.v4.app.NotificationCompat;
 import android.util.Log;
 
 import org.artoolkit.ar6.base.ARToolKit;
@@ -37,11 +43,14 @@ import org.artoolkit.ar6.base.rendering.shader_impl.SimpleVertexShader;
 
 import javax.microedition.khronos.egl.EGLConfig;
 import javax.microedition.khronos.opengles.GL10;
+import android.graphics.Bitmap;
+import android.graphics.Canvas;
+
 
 /**
  * A very simple Renderer that adds a marker and draws a cube on it.
  */
-class ARTrackingRenderer extends ARRenderer {
+class ARTrackingRenderer extends ARRenderer{
 
     private static final class Trackable {
         String name;
@@ -112,7 +121,11 @@ class ARTrackingRenderer extends ARRenderer {
                 float[] projectionMatrix = ARToolKit.getInstance().getProjectionMatrix();
                 float[] modelViewMatrix = ARToolKit.getInstance().queryMarkerTransformation(trackableUID);
                 cube.draw(projectionMatrix, modelViewMatrix);
+                Log.d("tag", "Probably");
+
             }
         }
     }
+
+
 }

@@ -1,98 +1,122 @@
 [
     {
-        "merged": "C:\\Users\\vincent\\Dev\\Hackathon\\artoolkit6\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
-        "source": "C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Mohammad Ismail\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Mohammad Ismail\\.android\\build-cache\\adc754c76adb3e49c3f32774e611c58263082282\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "C:\\Users\\vincent\\Dev\\Hackathon\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
-        "source": "C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\layout-v11\\notification_media_action.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Rajan\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Rajan\\.android\\build-cache\\0df6087b61b11e0aa8fda1b22603e71e859f6891\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "C:\\Users\\Mohammad Ismail\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
-        "source": "C:\\Users\\Mohammad Ismail\\.android\\build-cache\\adc754c76adb3e49c3f32774e611c58263082282\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\Dev\\Hackathon\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Users\\vincent\\Dev\\Hackathon\\artoolkit6\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Mohammad Ismail\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Mohammad Ismail\\.android\\build-cache\\adc754c76adb3e49c3f32774e611c58263082282\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Users\\Rajan\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
-        "source": "C:\\Users\\Rajan\\.android\\build-cache\\0df6087b61b11e0aa8fda1b22603e71e859f6891\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Rajan\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Rajan\\.android\\build-cache\\0df6087b61b11e0aa8fda1b22603e71e859f6891\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Users\\Mohammad Ismail\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\Mohammad Ismail\\.android\\build-cache\\adc754c76adb3e49c3f32774e611c58263082282\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Rajan\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Rajan\\.android\\build-cache\\0df6087b61b11e0aa8fda1b22603e71e859f6891\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "C:\\Users\\Mohammad Ismail\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\Mohammad Ismail\\.android\\build-cache\\adc754c76adb3e49c3f32774e611c58263082282\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Mohammad Ismail\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Mohammad Ismail\\.android\\build-cache\\adc754c76adb3e49c3f32774e611c58263082282\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "C:\\Users\\Rajan\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\Rajan\\.android\\build-cache\\0df6087b61b11e0aa8fda1b22603e71e859f6891\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/layout-v11/notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Users\\Rajan\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
-        "source": "C:\\Users\\Rajan\\.android\\build-cache\\0df6087b61b11e0aa8fda1b22603e71e859f6891\\output\\res\\layout-v11\\notification_media_action.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/layout-v11/notification_media_action.xml"
     },
     {
-        "merged": "C:\\Users\\vincent\\Dev\\Hackathon\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
-        "source": "C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\layout-v11\\notification_template_big_media.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Rajan\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Rajan\\.android\\build-cache\\0df6087b61b11e0aa8fda1b22603e71e859f6891\\output\\res\\layout-v11\\notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Users\\Rajan\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
-        "source": "C:\\Users\\Rajan\\.android\\build-cache\\0df6087b61b11e0aa8fda1b22603e71e859f6891\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\Dev\\Hackathon\\artoolkit6\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Users\\Mohammad Ismail\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
-        "source": "C:\\Users\\Mohammad Ismail\\.android\\build-cache\\adc754c76adb3e49c3f32774e611c58263082282\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\Dev\\Hackathon\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\layout-v11\\notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Users\\vincent\\Dev\\Hackathon\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
-        "source": "C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\Dev\\Hackathon\\artoolkit6\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\layout-v11\\notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Users\\Mohammad Ismail\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
-        "source": "C:\\Users\\Mohammad Ismail\\.android\\build-cache\\adc754c76adb3e49c3f32774e611c58263082282\\output\\res\\layout-v11\\notification_media_action.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/layout-v11/notification_template_big_media_custom.xml"
     },
     {
-        "merged": "C:\\Users\\vincent\\Dev\\Hackathon\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
-        "source": "C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\Dev\\Hackathon\\artoolkit6\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\layout-v11\\notification_media_action.xml"
     },
     {
-        "merged": "C:\\Users\\vincent\\Dev\\Hackathon\\artoolkit6\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
-        "source": "C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\layout-v11\\notification_media_action.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Mohammad Ismail\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Mohammad Ismail\\.android\\build-cache\\adc754c76adb3e49c3f32774e611c58263082282\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "C:\\Users\\Rajan\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
-        "source": "C:\\Users\\Rajan\\.android\\build-cache\\0df6087b61b11e0aa8fda1b22603e71e859f6891\\output\\res\\layout-v11\\notification_template_big_media.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\Dev\\Hackathon\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "C:\\Users\\vincent\\Dev\\Hackathon\\artoolkit6\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/layout-v11/notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "C:\\Users\\vincent\\Dev\\Hackathon\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Mohammad Ismail\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Mohammad Ismail\\.android\\build-cache\\adc754c76adb3e49c3f32774e611c58263082282\\output\\res\\layout-v11\\notification_media_action.xml"
     },
     {
-        "merged": "C:\\Users\\vincent\\Dev\\Hackathon\\artoolkit6\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
-        "source": "C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/layout-v11/notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Users\\Mohammad Ismail\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
-        "source": "C:\\Users\\Mohammad Ismail\\.android\\build-cache\\adc754c76adb3e49c3f32774e611c58263082282\\output\\res\\layout-v11\\notification_template_big_media.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\Dev\\Hackathon\\artoolkit6\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "C:\\Users\\vincent\\Dev\\Hackathon\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Rajan\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Rajan\\.android\\build-cache\\0df6087b61b11e0aa8fda1b22603e71e859f6891\\output\\res\\layout-v11\\notification_media_action.xml"
     },
     {
-        "merged": "C:\\Users\\vincent\\Dev\\Hackathon\\artoolkit6\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
-        "source": "C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\layout-v11\\notification_template_big_media.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\Dev\\Hackathon\\artoolkit6\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "C:\\Users\\Rajan\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\Rajan\\.android\\build-cache\\0df6087b61b11e0aa8fda1b22603e71e859f6891\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Mohammad Ismail\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Mohammad Ismail\\.android\\build-cache\\adc754c76adb3e49c3f32774e611c58263082282\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Rajan\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Rajan\\.android\\build-cache\\0df6087b61b11e0aa8fda1b22603e71e859f6891\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\Dev\\Hackathon\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\Dev\\Hackathon\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\Dev\\Hackathon\\artoolkit6\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/vincent/.android/build-cache/54d289934651d29f5cea62dcfe0634282eb809bb/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\Dev\\Hackathon\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\.android\\build-cache\\54d289934651d29f5cea62dcfe0634282eb809bb\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     }
 ]

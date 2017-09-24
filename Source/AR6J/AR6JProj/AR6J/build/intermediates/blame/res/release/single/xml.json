@@ -1,18 +1,22 @@
 [
     {
-        "merged": "C:\\Users\\Mohammad Ismail\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\release\\xml\\preferences.xml",
-        "source": "C:\\Users\\Mohammad Ismail\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\src\\main\\res\\xml\\preferences.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Mohammad Ismail\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\release\\xml\\preferences.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Mohammad Ismail\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\src\\main\\res\\xml\\preferences.xml"
     },
     {
-        "merged": "C:\\Users\\vincent\\Dev\\Hackathon\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\release\\xml\\preferences.xml",
-        "source": "C:\\Users\\vincent\\Dev\\Hackathon\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\src\\main\\res\\xml\\preferences.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\Dev\\Hackathon\\artoolkit6\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\release\\xml\\preferences.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\Dev\\Hackathon\\artoolkit6\\Source\\AR6J\\AR6JProj\\AR6J\\src\\main\\res\\xml\\preferences.xml"
     },
     {
-        "merged": "C:\\Users\\vincent\\Dev\\Hackathon\\artoolkit6\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\release\\xml\\preferences.xml",
-        "source": "C:\\Users\\vincent\\Dev\\Hackathon\\artoolkit6\\Source\\AR6J\\AR6JProj\\AR6J\\src\\main\\res\\xml\\preferences.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Rajan\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\release\\xml\\preferences.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\Rajan\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\src\\main\\res\\xml\\preferences.xml"
     },
     {
-        "merged": "C:\\Users\\Rajan\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\release\\xml\\preferences.xml",
-        "source": "C:\\Users\\Rajan\\Desktop\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\src\\main\\res\\xml\\preferences.xml"
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Source/AR6J/AR6JProj/AR6J/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\Dev\\Hackathon\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\build\\intermediates\\res\\merged\\release\\xml\\preferences.xml",
+        "source": "/Users/vincent/Dev/Hackathon/dark-souls-vr/Examples/Source/Tracking Example/Android/ARTracking/C:\\Users\\vincent\\Dev\\Hackathon\\dark-souls-vr\\Source\\AR6J\\AR6JProj\\AR6J\\src\\main\\res\\xml\\preferences.xml"
     }
 ]
